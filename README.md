@@ -1,61 +1,47 @@
-# AI Transformation Training Curriculum
+# Enterprise AI Training Platform
 
-A comprehensive training platform for senior leaders to understand and implement AI transformation in their organizations.
-
-## Project Structure
-```
-.
-├── app.py                  # Main Streamlit application
-├── requirements.txt        # Python dependencies
-├── ai_transformation_training_curriculum.md
-├── module_1_foundation_of_enterprise_ai.md
-├── module_2_ai_transformation_strategy.md
-├── module_3_workforce_evolution.md
-├── module_4_ai_systems_and_architecture.md
-├── module_5_risk_and_governance.md
-└── training_evaluation_framework.md
-```
-
-## Local Development
-
-1. Create a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the application:
-```bash
-streamlit run app.py
-```
-
-## Deployment Options
-
-### Option 1: Streamlit Community Cloud
-1. Create a GitHub repository
-2. Push all files to the repository
-3. Go to [Streamlit Community Cloud](https://streamlit.io/cloud)
-4. Click "New app" and connect your GitHub repository
-5. Select the main file (app.py) and branch
-6. Click "Deploy"
-
-### Option 2: Self-hosted
-1. Set up a server with Python 3.8+
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run with: `streamlit run app.py --server.port=8501`
-4. Configure a reverse proxy (e.g., Nginx) if needed
+An interactive training platform for enterprise AI concepts with personalized AI coaching.
 
 ## Features
-- Interactive module navigation
-- Comprehensive curriculum content
-- Evaluation framework
-- Responsive design
-- Markdown support
 
-## License
-© 2024 AI Transformation Training Program 
+- **Interactive Learning Experience**: Case studies, reflections, and decision points with AI feedback
+- **AI Coach**: Ask questions and get personalized guidance on enterprise AI topics
+- **Progress Tracking**: Visual indicators of your learning journey
+- **Personalized Feedback**: AI-powered responses to your reflections and activities
+- **Self-Paced Learning**: Navigate content at your own speed with intuitive navigation
+
+## Local Setup
+
+1. Clone this repository
+2. Install dependencies with `pip install -r requirements.txt`
+3. Run the app with `streamlit run app.py`
+
+## Streamlit Cloud Deployment
+
+This app is deployed on Streamlit Cloud and can be accessed at: [Enterprise AI Training Platform](https://enterprise-ai-training.streamlit.app/)
+
+## Content Structure
+
+The platform contains interactive modules covering:
+
+1. Foundation of Enterprise AI
+2. Prompt Engineering Fundamentals
+3. Advanced Prompting & Agent Design
+
+Each module includes case studies, interactive exercises, and assessments to test your knowledge.
+
+## Technologies Used
+
+- Streamlit for the web interface
+- OpenAI API for AI coaching (optional)
+- Python for backend logic
+
+## Environment Variables
+
+For local AI coach functionality, create a `.env` file with:
+
+```
+OPENAI_API_KEY=your_api_key_here
+```
+
+If no API key is provided, the app will use pre-written responses. 
