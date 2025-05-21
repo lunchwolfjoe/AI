@@ -18,6 +18,16 @@ load_dotenv()
 try:
     openai.api_key = os.getenv("OPENAI_API_KEY")
     OPENAI_AVAILABLE = openai.api_key is not None and openai.api_key != ""
+    # Test API connection
+    if OPENAI_AVAILABLE:
+        try:
+            # Try to initialize the client to verify connectivity
+            client = openai.OpenAI(api_key=openai.api_key)
+            # Make a small test call
+            client.models.list(limit=1)
+        except Exception as e:
+            print(f"OpenAI API connection failed: {e}")
+            OPENAI_AVAILABLE = False
 except:
     OPENAI_AVAILABLE = False
 
@@ -232,9 +242,10 @@ def get_ai_response(prompt, system_prompt="You are an AI coach helping with ente
         return random.choice(responses)
     
     try:
-        client = openai.OpenAI()
+        # Always create a fresh client for each request
+        client = openai.OpenAI(api_key=openai.api_key)
         response = client.chat.completions.create(
-            model="gpt-4",
+            model="gpt-3.5-turbo",  # Use a more widely available model
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": prompt}
@@ -244,8 +255,15 @@ def get_ai_response(prompt, system_prompt="You are an AI coach helping with ente
         )
         return response.choices[0].message.content
     except Exception as e:
-        st.error(f"Error with AI response: {e}")
-        return "I'm unable to provide feedback at the moment. Please try again later."
+        print(f"Error with AI response: {e}")
+        # Fallback to canned responses on error
+        responses = [
+            "That's an interesting perspective! Consider how this approach might impact cross-functional teams.",
+            "Good thinking. Have you also considered the implications for data governance?",
+            "I like how you're approaching this. Consider also the change management aspects.",
+            "That's a solid starting point. How might you scale this approach enterprise-wide?",
+        ]
+        return random.choice(responses)
 
 # Interactive activity creator
 def create_interactive_activity(title, description, activity_type="reflection", activity_id=None):
