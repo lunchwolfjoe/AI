@@ -232,7 +232,8 @@ def get_ai_response(prompt, system_prompt="You are an AI coach helping with ente
         return random.choice(responses)
     
     try:
-        response = openai.ChatCompletion.create(
+        client = openai.OpenAI()
+        response = client.chat.completions.create(
             model="gpt-4",
             messages=[
                 {"role": "system", "content": system_prompt},
@@ -241,7 +242,7 @@ def get_ai_response(prompt, system_prompt="You are an AI coach helping with ente
             max_tokens=250,
             temperature=0.7
         )
-        return response.choices[0].message.content.strip()
+        return response.choices[0].message.content
     except Exception as e:
         st.error(f"Error with AI response: {e}")
         return "I'm unable to provide feedback at the moment. Please try again later."
