@@ -8,6 +8,10 @@ font="sans serif"
 [server]
 enableCORS = true
 enableXsrfProtection = true
+runOnSave = true
 
 [browser]
-gatherUsageStats = false 
+gatherUsageStats = false
+
+[runner]
+pythonVersion = "3.11" 
