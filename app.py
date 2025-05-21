@@ -602,7 +602,7 @@ def show_ai_coach():
     
     if st.sidebar.button("Get Guidance"):
         if query:
-            with st.sidebar.spinner("AI Coach is thinking..."):
+            with st.spinner("AI Coach is thinking..."):
                 response = get_ai_response(
                     f"The user asked: {query}. Provide a helpful, concise response relevant to enterprise AI implementation.",
                     "You are an AI coach specializing in enterprise AI strategy. Keep responses under 150 words."
