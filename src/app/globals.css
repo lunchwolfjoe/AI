@@ -1,26 +1,247 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --color-red: #dc2626;
+  --color-red-dark: #b91c1c;
+  --color-stone-900: #1c1917;
+  --color-stone-800: #292524;
+  --color-stone-700: #44403c;
+  --color-stone-600: #57534e;
+  --color-stone-500: #78716c;
+  --color-stone-400: #a8a29e;
+  --color-stone-300: #d6d3d1;
+  --color-stone-200: #e7e5e3;
+  --color-stone-100: #f5f5f4;
+  --color-stone-50: #fafaf9;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-feature-settings: "kern" 1, "liga" 1;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
+
+/* Typography enhancements */
+.font-display {
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+/* Hero section styling */
+.hero-gradient {
+  background: linear-gradient(
+    180deg,
+    var(--color-stone-900) 0%,
+    var(--color-stone-800) 100%
+  );
+}
+
+/* Accent bar */
+.accent-bar {
+  width: 60px;
+  height: 4px;
+  background: var(--color-red);
+}
+
+/* Card hover effects */
+.card-hover {
+  transition: all 0.2s ease;
+}
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.15);
+}
+
+/* Data visualization bars */
+.data-bar {
+  height: 12px;
+  border-radius: 2px;
+  background: var(--color-red);
+  transition: width 0.8s ease-out;
+}
+
+.data-bar-secondary {
+  background: var(--color-stone-300);
+}
+
+/* Stat cards */
+.stat-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.stat-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: var(--color-red);
+}
+
+/* Quote styling */
+.quote-accent {
+  position: relative;
+  padding-left: 1.5rem;
+  border-left: 4px solid var(--color-red);
+  font-style: italic;
+}
+
+/* Section dividers */
+.section-divider {
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--color-stone-200) 20%,
+    var(--color-stone-200) 80%,
+    transparent 100%
+  );
+}
+
+/* Animated underline for links */
+.link-underline {
+  position: relative;
+}
+.link-underline::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--color-red);
+  transition: width 0.2s ease;
+}
+.link-underline:hover::after {
+  width: 100%;
+}
+
+/* Evidence tag styling */
+.evidence-tag {
+  font-size: 0.65rem;
+  font-family: var(--font-geist-mono), monospace;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* Prose enhancements for stories */
+.prose-investigation {
+  font-size: 1.125rem;
+  line-height: 1.8;
+}
+
+.prose-investigation h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  letter-spacing: -0.02em;
+}
+
+.prose-investigation h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose-investigation p {
+  margin-bottom: 1.5rem;
+}
+
+.prose-investigation ul,
+.prose-investigation ol {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.prose-investigation li {
+  margin-bottom: 0.5rem;
+}
+
+.prose-investigation blockquote {
+  border-left: 4px solid var(--color-red);
+  padding: 1rem 1.5rem;
+  margin: 2rem 0;
+  background: var(--color-stone-50);
+  font-style: italic;
+}
+
+.prose-investigation table {
+  width: 100%;
+  margin: 2rem 0;
+  border-collapse: collapse;
+}
+
+.prose-investigation th {
+  background: var(--color-stone-100);
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.875rem;
+  border-bottom: 2px solid var(--color-stone-200);
+}
+
+.prose-investigation td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--color-stone-200);
+  font-size: 0.9375rem;
+}
+
+.prose-investigation strong {
+  font-weight: 600;
+  color: var(--color-stone-900);
+}
+
+/* Number animation */
+@keyframes countUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-count {
+  animation: countUp 0.6s ease-out forwards;
+}
+
+/* Fade in animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+/* Stagger children */
+.stagger-children > * {
+  opacity: 0;
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+.stagger-children > *:nth-child(1) { animation-delay: 0.1s; }
+.stagger-children > *:nth-child(2) { animation-delay: 0.2s; }
+.stagger-children > *:nth-child(3) { animation-delay: 0.3s; }
+.stagger-children > *:nth-child(4) { animation-delay: 0.4s; }
+.stagger-children > *:nth-child(5) { animation-delay: 0.5s; }
+.stagger-children > *:nth-child(6) { animation-delay: 0.6s; }

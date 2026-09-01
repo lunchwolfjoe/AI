@@ -7,7 +7,6 @@ const seriesParts = [
     title: "The Promise",
     subtitle: "Executive Findings",
     description: "After Abbott declared taxpayer-funded jobs should go to Texans first, could Texas show who actually performed the work?",
-    status: "published",
     slug: "executive-findings",
   },
   {
@@ -15,7 +14,6 @@ const seriesParts = [
     title: "The Bridge",
     subtitle: "Bilateral Investment",
     description: "Texas's own numbers show a highly asymmetric relationship: more projects, capital, and jobs flowing to India than from it.",
-    status: "published",
     slug: "bilateral-investment",
   },
   {
@@ -23,7 +21,6 @@ const seriesParts = [
     title: "The Door",
     subtitle: "Revolving Door",
     description: "Former senior Abbott officials later represented technology vendors in the same ecosystem they once oversaw.",
-    status: "published",
     slug: "revolving-door",
   },
   {
@@ -31,166 +28,265 @@ const seriesParts = [
     title: "The Gap",
     subtitle: "Contractor Visibility",
     description: "Texas sees vendors clearly but workers poorly. Standard templates lack fields for residence, work location, or visa status.",
-    status: "coming-soon",
+    slug: "contractor-visibility",
   },
   {
     part: 5,
     title: "The Machine",
     subtitle: "Andhra's Apparatus",
     description: "On the other side of the relationship, explicit government machinery to capture investment, operations, and jobs.",
-    status: "coming-soon",
+    slug: "andhra-apparatus",
   },
   {
     part: 6,
     title: "The Ledger",
     subtitle: "What Should Change",
     description: "The central failure is measurement, not conspiracy. The fix is a statewide labor ledger.",
-    status: "coming-soon",
-  },
-];
-
-const keyFindings = [
-  {
-    stat: "6.86×",
-    label: "More announced jobs in India than Texas jobs from Indian companies (2015-2024)",
-  },
-  {
-    stat: "59,300+",
-    label: "Jobs announced by Texas companies in India vs. 8,650+ from Indian companies in Texas",
-  },
-  {
-    stat: "0",
-    label: "Dedicated statewide fields for worker residence, visa status, or offshore delivery in standard ITSAC templates",
+    slug: "the-ledger",
   },
 ];
 
 export default async function Home() {
   const stories = await getStories();
-  const publishedStories = stories.filter(s => s.slug !== 'sample-story');
 
   return (
-    <div className="space-y-12">
+    <div className="space-y-0">
       {/* Hero Section */}
-      <section className="text-center py-12 border-b border-stone-200">
-        <h1 className="text-4xl sm:text-5xl font-bold tracking-tight mb-4">
-          TEXANS FIRST<span className="text-red-600">*</span>
-        </h1>
-        <p className="text-xl text-stone-600 max-w-3xl mx-auto mb-2">
-          An investigation into Texas public technology contracting, 
-          economic development, and the gap between promises about jobs 
-          and the systems built to measure them.
-        </p>
-        <p className="text-sm text-stone-400 italic">
-          *The asterisk reflects a common theme: programs marketed as benefiting 
-          Texans often come with caveats not apparent in public messaging.
-        </p>
+      <section className="hero-gradient text-white -mx-4 px-4 py-20 sm:py-28 -mt-8 mb-16">
+        <div className="max-w-4xl mx-auto text-center">
+          <h1 className="text-5xl sm:text-7xl font-bold tracking-tight mb-6 font-display">
+            TEXANS FIRST<span className="text-red-500">*</span>
+          </h1>
+          <p className="text-xl sm:text-2xl text-stone-300 max-w-2xl mx-auto mb-4 leading-relaxed">
+            An investigation into Texas public technology contracting, 
+            economic development, and the gap between promises and measurement.
+          </p>
+          <p className="text-sm text-stone-500 italic">
+            *Terms and conditions may apply
+          </p>
+          
+          <div className="mt-12 flex flex-wrap justify-center gap-4">
+            <Link
+              href="/stories/executive-findings"
+              className="bg-white text-stone-900 px-8 py-4 rounded-md font-semibold hover:bg-stone-100 transition-colors"
+            >
+              Read the Investigation
+            </Link>
+            <Link
+              href="/evidence"
+              className="border border-stone-600 text-white px-8 py-4 rounded-md font-semibold hover:bg-white/10 transition-colors"
+            >
+              View Evidence
+            </Link>
+          </div>
+        </div>
       </section>
 
-      {/* Key Numbers */}
-      <section className="grid gap-6 sm:grid-cols-3">
-        {keyFindings.map((finding, i) => (
-          <div key={i} className="text-center p-6 rounded-lg bg-stone-100">
-            <p className="text-3xl font-bold text-red-600 mb-2">{finding.stat}</p>
-            <p className="text-sm text-stone-600">{finding.label}</p>
+      {/* The Numbers - Visual Data */}
+      <section className="mb-20">
+        <div className="text-center mb-12">
+          <div className="accent-bar mx-auto mb-6"></div>
+          <h2 className="text-3xl font-bold tracking-tight font-display">The Numbers Don't Lie</h2>
+          <p className="text-stone-600 mt-2">Texas-India bilateral investment, 2015–2024 (Governor's own data)</p>
+        </div>
+
+        <div className="bg-stone-900 rounded-2xl p-8 sm:p-12 text-white">
+          <div className="grid sm:grid-cols-2 gap-8 sm:gap-16">
+            {/* India to Texas */}
+            <div>
+              <p className="text-stone-400 text-sm uppercase tracking-wider mb-2">Indian Companies → Texas</p>
+              <div className="space-y-6">
+                <div>
+                  <div className="flex justify-between mb-2">
+                    <span className="text-stone-300">Projects</span>
+                    <span className="text-2xl font-bold">74</span>
+                  </div>
+                  <div className="h-3 bg-stone-700 rounded-full overflow-hidden">
+                    <div className="h-full bg-stone-400 rounded-full" style={{width: '42%'}}></div>
+                  </div>
+                </div>
+                <div>
+                  <div className="flex justify-between mb-2">
+                    <span className="text-stone-300">Capital</span>
+                    <span className="text-2xl font-bold">$2.7B</span>
+                  </div>
+                  <div className="h-3 bg-stone-700 rounded-full overflow-hidden">
+                    <div className="h-full bg-stone-400 rounded-full" style={{width: '36%'}}></div>
+                  </div>
+                </div>
+                <div>
+                  <div className="flex justify-between mb-2">
+                    <span className="text-stone-300">Announced Jobs</span>
+                    <span className="text-2xl font-bold">&gt;8,650</span>
+                  </div>
+                  <div className="h-3 bg-stone-700 rounded-full overflow-hidden">
+                    <div className="h-full bg-stone-400 rounded-full" style={{width: '15%'}}></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Texas to India */}
+            <div>
+              <p className="text-red-400 text-sm uppercase tracking-wider mb-2">Texas Companies → India</p>
+              <div className="space-y-6">
+                <div>
+                  <div className="flex justify-between mb-2">
+                    <span className="text-stone-300">Projects</span>
+                    <span className="text-2xl font-bold text-red-400">175</span>
+                  </div>
+                  <div className="h-3 bg-stone-700 rounded-full overflow-hidden">
+                    <div className="h-full bg-red-500 rounded-full" style={{width: '100%'}}></div>
+                  </div>
+                </div>
+                <div>
+                  <div className="flex justify-between mb-2">
+                    <span className="text-stone-300">Capital</span>
+                    <span className="text-2xl font-bold text-red-400">$7.6B</span>
+                  </div>
+                  <div className="h-3 bg-stone-700 rounded-full overflow-hidden">
+                    <div className="h-full bg-red-500 rounded-full" style={{width: '100%'}}></div>
+                  </div>
+                </div>
+                <div>
+                  <div className="flex justify-between mb-2">
+                    <span className="text-stone-300">Announced Jobs</span>
+                    <span className="text-2xl font-bold text-red-400">&gt;59,300</span>
+                  </div>
+                  <div className="h-3 bg-stone-700 rounded-full overflow-hidden">
+                    <div className="h-full bg-red-500 rounded-full" style={{width: '100%'}}></div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
-        ))}
+
+          {/* Ratio callouts */}
+          <div className="grid grid-cols-3 gap-4 mt-12 pt-8 border-t border-stone-700">
+            <div className="text-center">
+              <p className="text-4xl sm:text-5xl font-bold text-red-400">2.4×</p>
+              <p className="text-stone-400 text-sm mt-1">more projects</p>
+            </div>
+            <div className="text-center">
+              <p className="text-4xl sm:text-5xl font-bold text-red-400">2.8×</p>
+              <p className="text-stone-400 text-sm mt-1">more capital</p>
+            </div>
+            <div className="text-center">
+              <p className="text-4xl sm:text-5xl font-bold text-red-400">6.9×</p>
+              <p className="text-stone-400 text-sm mt-1">more jobs</p>
+            </div>
+          </div>
+          
+          <p className="text-stone-500 text-xs text-center mt-6">
+            Source: Governor's Economic Development & Tourism Office, Texas & India profile, July 2025. 
+            Figures are reported/announced investment, not audited realized employment.
+          </p>
+        </div>
       </section>
 
       {/* Central Finding */}
-      <section className="rounded-lg border-l-4 border-red-600 bg-stone-50 p-6">
-        <h2 className="font-bold text-lg mb-2">The Central Finding</h2>
-        <p className="text-stone-700">
-          The evidence supports a public-policy mismatch: Texas leaders made geographically 
-          specific promises about jobs while the state's public contracting systems largely 
-          account at the vendor/contract level. <strong>The central proven failure is measurement, 
-          not a proven conspiracy.</strong>
-        </p>
+      <section className="mb-20">
+        <div className="bg-stone-50 border-l-4 border-red-600 p-8 sm:p-12 rounded-r-2xl">
+          <p className="text-sm text-red-600 font-semibold uppercase tracking-wider mb-4">Central Finding</p>
+          <p className="text-2xl sm:text-3xl font-display leading-relaxed text-stone-900">
+            The evidence supports a public-policy mismatch: Texas leaders made geographically 
+            specific promises about jobs while the state's contracting systems largely account 
+            at the vendor level.
+          </p>
+          <p className="text-xl text-stone-600 mt-6">
+            <strong className="text-stone-900">The central proven failure is measurement, not a proven conspiracy.</strong>
+          </p>
+        </div>
       </section>
 
-      {/* Series Overview */}
-      <section>
-        <h2 className="text-2xl font-bold mb-6 flex items-center gap-2">
-          <span className="h-1 w-8 bg-red-600 rounded"></span>
-          The Six-Part Series
-        </h2>
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {/* The Series */}
+      <section className="mb-20">
+        <div className="mb-12">
+          <div className="accent-bar mb-6"></div>
+          <h2 className="text-3xl font-bold tracking-tight font-display">The Six-Part Series</h2>
+        </div>
+
+        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 stagger-children">
           {seriesParts.map((part) => (
-            <article
+            <Link
               key={part.part}
-              className={`group relative rounded-lg border bg-white p-6 transition-all ${
-                part.status === "published" 
-                  ? "border-stone-300 hover:border-red-300 hover:shadow-md cursor-pointer" 
-                  : "border-stone-200"
-              }`}
+              href={`/stories/${part.slug}`}
+              className="group block"
             >
-              {part.status === "published" && part.slug ? (
-                <Link href={`/stories/${part.slug}`} className="absolute inset-0" />
-              ) : null}
-              <div className="mb-3 flex items-center gap-2">
-                <span className="inline-block rounded bg-stone-800 px-2 py-1 text-xs font-medium text-white">
-                  Part {part.part}
-                </span>
-                {part.status === "coming-soon" ? (
-                  <span className="inline-block rounded bg-amber-100 px-2 py-1 text-xs font-medium text-amber-700">
-                    Coming Soon
+              <article className="h-full rounded-xl border border-stone-200 bg-white p-6 card-hover">
+                <div className="flex items-center gap-3 mb-4">
+                  <span className="flex items-center justify-center w-10 h-10 rounded-full bg-stone-900 text-white text-sm font-bold">
+                    {part.part}
                   </span>
-                ) : (
-                  <span className="inline-block rounded bg-green-100 px-2 py-1 text-xs font-medium text-green-700">
-                    Published
-                  </span>
-                )}
-              </div>
-              <h3 className="text-lg font-semibold mb-1">{part.title}</h3>
-              <p className="text-sm font-medium text-red-600 mb-2">{part.subtitle}</p>
-              <p className="text-sm text-stone-600">{part.description}</p>
-            </article>
+                  <div>
+                    <h3 className="font-bold text-lg group-hover:text-red-600 transition-colors">
+                      {part.title}
+                    </h3>
+                    <p className="text-red-600 text-sm font-medium">{part.subtitle}</p>
+                  </div>
+                </div>
+                <p className="text-stone-600 text-sm leading-relaxed">
+                  {part.description}
+                </p>
+                <p className="text-red-600 text-sm font-medium mt-4 group-hover:underline">
+                  Read Part {part.part} →
+                </p>
+              </article>
+            </Link>
           ))}
         </div>
       </section>
 
-      {/* What This Investigation Does NOT Claim */}
-      <section className="rounded-lg bg-stone-100 p-6">
-        <h2 className="font-bold text-lg mb-4">What This Investigation Does NOT Claim</h2>
-        <ul className="space-y-2 text-sm text-stone-700">
-          <li className="flex gap-2">
-            <span className="text-red-600 font-bold">✕</span>
-            That a particular Texas-funded technology task was performed offshore through documented Andhra machinery.
-          </li>
-          <li className="flex gap-2">
-            <span className="text-red-600 font-bold">✕</span>
-            That Abbott personally knew of APNRTS/DTC or intended contractor labor to fall outside his Texans-first policy.
-          </li>
-          <li className="flex gap-2">
-            <span className="text-red-600 font-bold">✕</span>
-            That any lobbying relationship or campaign contribution caused a procurement, grant, or policy outcome.
-          </li>
-          <li className="flex gap-2">
-            <span className="text-red-600 font-bold">✕</span>
-            That India, Indian companies, diaspora organizations, ITServe members, or H-1B workers are a single category or inherently problematic.
-          </li>
-        </ul>
+      {/* What This Does NOT Claim */}
+      <section className="mb-20">
+        <div className="bg-stone-100 rounded-2xl p-8 sm:p-12">
+          <h2 className="text-2xl font-bold mb-8 font-display">What This Investigation Does NOT Claim</h2>
+          <div className="grid sm:grid-cols-2 gap-6">
+            {[
+              "That a particular Texas-funded technology task was performed offshore through documented Andhra machinery.",
+              "That Abbott personally knew of APNRTS/DTC or intended contractor labor to fall outside his Texans-first policy.",
+              "That any lobbying relationship or campaign contribution caused a procurement, grant, or policy outcome.",
+              "That India, Indian companies, diaspora organizations, ITServe members, or H-1B workers are a single category or inherently problematic.",
+            ].map((item, i) => (
+              <div key={i} className="flex gap-4">
+                <span className="flex-shrink-0 w-8 h-8 rounded-full bg-stone-200 flex items-center justify-center text-stone-500 font-bold text-sm">
+                  ✕
+                </span>
+                <p className="text-stone-700 text-sm leading-relaxed">{item}</p>
+              </div>
+            ))}
+          </div>
+        </div>
       </section>
 
-      {/* Call to Action */}
-      <section className="rounded-lg bg-stone-900 text-white p-8 text-center">
-        <h2 className="text-2xl font-bold mb-4">Explore the Evidence</h2>
-        <p className="text-stone-300 mb-6 max-w-xl mx-auto">
-          Every claim in this investigation is backed by public records, 
-          documents, and verifiable sources. Review the evidence yourself.
-        </p>
-        <div className="flex flex-wrap justify-center gap-4">
-          <Link
-            href="/evidence"
-            className="rounded-md bg-white px-6 py-3 text-sm font-medium text-stone-900 transition-colors hover:bg-stone-100"
-          >
-            View Evidence
-          </Link>
-          <Link
-            href="/methodology"
-            className="rounded-md border border-stone-600 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-stone-800"
-          >
-            Our Methodology
-          </Link>
+      {/* CTA Section */}
+      <section className="mb-8">
+        <div className="bg-stone-900 rounded-2xl p-8 sm:p-12 text-center text-white">
+          <h2 className="text-3xl font-bold mb-4 font-display">Explore the Evidence</h2>
+          <p className="text-stone-400 mb-8 max-w-xl mx-auto">
+            Every claim in this investigation is backed by public records, 
+            documents, and verifiable sources. Review the evidence yourself.
+          </p>
+          <div className="flex flex-wrap justify-center gap-4">
+            <Link
+              href="/evidence"
+              className="bg-white text-stone-900 px-8 py-4 rounded-md font-semibold hover:bg-stone-100 transition-colors"
+            >
+              View All Evidence
+            </Link>
+            <Link
+              href="/methodology"
+              className="border border-stone-600 text-white px-8 py-4 rounded-md font-semibold hover:bg-white/10 transition-colors"
+            >
+              Our Methodology
+            </Link>
+            <Link
+              href="/responses"
+              className="border border-stone-600 text-white px-8 py-4 rounded-md font-semibold hover:bg-white/10 transition-colors"
+            >
+              Responses
+            </Link>
+          </div>
         </div>
       </section>
     </div>
