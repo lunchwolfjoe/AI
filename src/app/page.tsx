@@ -190,7 +190,7 @@ export default async function Home() {
               <p className="font-display text-lg group-hover:text-[#8b0000] transition-colors">Evidence</p>
             </Link>
             <Link href="/methodology" className="group block p-6 border border-[#e5e5e5] hover:border-[#8b0000] transition-colors">
-              <p className="label-caps text-[#6b7280] mb-2">How We Verified</p>
+              <p className="label-caps text-[#6b7280] mb-2">How I Verified</p>
               <p className="font-display text-lg group-hover:text-[#8b0000] transition-colors">Methodology</p>
             </Link>
             <Link href="/responses" className="group block p-6 border border-[#e5e5e5] hover:border-[#8b0000] transition-colors">

@@ -14,7 +14,7 @@ const faqs: FAQ[] = [
   {
     question: "What is this investigation about?",
     answer:
-      "This investigation examines whether Texas built a system capable of measuring the promise Governor Abbott made — that taxpayer-funded employment opportunities should go to Texans first. We follow the public records.",
+      "This investigation examines whether Texas built a system capable of measuring the promise Governor Abbott made — that taxpayer-funded employment opportunities should go to Texans first. I follow the public records.",
   },
   {
     question: "Why the asterisk?",
@@ -24,12 +24,12 @@ const faqs: FAQ[] = [
   {
     question: "Are you accusing anyone of crimes?",
     answer:
-      "No. This investigation documents institutional failures, not individual crimes. We present verified facts from public records. Where patterns emerge, we name them. Determining whether laws were broken is for appropriate authorities.",
+      "No. This investigation documents institutional failures, not individual crimes. I present verified facts from public records. Where patterns emerge, I name them. Determining whether laws were broken is for appropriate authorities.",
   },
   {
     question: "How can I verify your claims?",
     answer:
-      "Every substantive claim links to a source document in our Evidence section. We encourage readers to check the primary sources themselves.",
+      "Every substantive claim links to a source document in the Evidence section. I encourage readers to check the primary sources themselves.",
   },
   {
     question: "Is this anti-immigrant?",
@@ -44,12 +44,12 @@ const faqs: FAQ[] = [
   {
     question: "How do you fund this investigation?",
     answer:
-      "This investigation is independently funded. We do not accept funding from any individual, organization, or government entity that is a subject of this investigation.",
+      "This investigation is independently funded. I do not accept funding from any individual, organization, or government entity that is a subject of this investigation.",
   },
   {
     question: "I am named in the investigation. How can I respond?",
     answer:
-      "We seek comment from all individuals and organizations named before publication. All substantive responses are published in our Responses section. If you believe you should have been contacted, please reach out.",
+      "I seek comment from all individuals and organizations named before publication. All substantive responses are published in the Responses section. If you believe you should have been contacted, please reach out.",
   },
 ];
 

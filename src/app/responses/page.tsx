@@ -90,8 +90,8 @@ export default function ResponsesPage() {
           <p className="label-caps text-[#8b0000] mb-4">Right of Reply</p>
           <h1 className="font-display text-4xl sm:text-5xl mb-6">Responses</h1>
           <p className="font-serif-body text-xl text-[#374151] leading-relaxed">
-            We seek comment from all individuals and organizations named in this 
-            investigation before publication. This page tracks our outreach and 
+            I seek comment from all individuals and organizations named in this 
+            investigation before publication. This page tracks outreach and 
             publishes responses received.
           </p>
         </header>
@@ -101,8 +101,8 @@ export default function ResponsesPage() {
           <p className="font-serif-body text-[#374151] leading-relaxed">
             These are reporting questions, not accusations. Recipients are given clear 
             deadlines and told that responses may be quoted or summarized. Where a 
-            recipient corrects a factual premise, we verify the correction independently. 
-            We do not characterize silence as confirmation.
+            recipient corrects a factual premise, I verify the correction independently. 
+            I do not characterize silence as confirmation.
           </p>
         </section>
 
