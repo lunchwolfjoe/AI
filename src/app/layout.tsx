@@ -80,11 +80,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                   The Series
                 </h4>
                 <ul className="space-y-2 text-sm">
-                  <li><Link href="/stories/executive-findings" className="text-stone-600 hover:text-red-600">Part 1: Executive Findings</Link></li>
-                  <li><Link href="/stories/bilateral-investment" className="text-stone-600 hover:text-red-600">Part 2: Bilateral Investment</Link></li>
-                  <li><Link href="/stories/revolving-door" className="text-stone-600 hover:text-red-600">Part 3: Revolving Door</Link></li>
-                  <li><Link href="/stories/contractor-visibility" className="text-stone-600 hover:text-red-600">Part 4: Contractor Visibility</Link></li>
-                  <li><Link href="/stories/andhra-apparatus" className="text-stone-600 hover:text-red-600">Part 5: Andhra's Apparatus</Link></li>
+                  <li><Link href="/stories/executive-findings" className="text-stone-600 hover:text-red-600">Part 1: The Promise</Link></li>
+                  <li><Link href="/stories/the-connector" className="text-stone-600 hover:text-red-600">Part 2: The Connector</Link></li>
+                  <li><Link href="/stories/andhra-apparatus" className="text-stone-600 hover:text-red-600">Part 3: The Other End</Link></li>
+                  <li><Link href="/stories/revolving-door" className="text-stone-600 hover:text-red-600">Part 4: The Governors</Link></li>
+                  <li><Link href="/stories/itserve-alliance" className="text-stone-600 hover:text-red-600">Part 5: The Network</Link></li>
                   <li><Link href="/stories/the-ledger" className="text-stone-600 hover:text-red-600">Part 6: The Ledger</Link></li>
                 </ul>
               </div>

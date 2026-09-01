@@ -36,53 +36,53 @@ const storyMeta: Record<string, {
   "executive-findings": {
     subtitle: "The Promise",
     heroGradient: "from-stone-900 via-stone-800 to-red-950",
-    heroIcon: "📋",
-    location: "Austin, Texas",
-    readTime: "12 min read",
-  },
-  "bilateral-investment": {
-    subtitle: "The Bridge", 
-    heroGradient: "from-blue-950 via-stone-900 to-stone-800",
     heroIcon: "🌉",
-    location: "Austin ↔ Hyderabad",
-    readTime: "8 min read",
+    location: "Austin, Texas",
+    readTime: "18 min read",
+  },
+  "the-connector": {
+    subtitle: "The Connector", 
+    heroGradient: "from-blue-950 via-stone-900 to-stone-800",
+    heroIcon: "🔗",
+    location: "Dallas ↔ Austin ↔ India",
+    readTime: "14 min read",
+  },
+  "andhra-apparatus": {
+    subtitle: "The Other End",
+    heroGradient: "from-orange-950 via-stone-900 to-stone-800",
+    heroIcon: "🏗️",
+    location: "Andhra Pradesh, India",
+    readTime: "15 min read",
   },
   "revolving-door": {
-    subtitle: "The Door",
+    subtitle: "The Governors",
     heroGradient: "from-amber-950 via-stone-900 to-stone-800",
     heroIcon: "🚪",
     location: "Texas State Capitol",
-    readTime: "7 min read",
+    readTime: "16 min read",
   },
-  "contractor-visibility": {
-    subtitle: "The Gap",
-    heroGradient: "from-stone-900 via-slate-900 to-stone-800",
-    heroIcon: "👁️",
-    location: "State Agency Records",
-    readTime: "9 min read",
-  },
-  "andhra-apparatus": {
-    subtitle: "The Machine",
-    heroGradient: "from-orange-950 via-stone-900 to-stone-800",
-    heroIcon: "⚙️",
-    location: "Andhra Pradesh, India",
-    readTime: "10 min read",
+  "itserve-alliance": {
+    subtitle: "The Network",
+    heroGradient: "from-violet-950 via-stone-900 to-stone-800",
+    heroIcon: "🕸️",
+    location: "Dallas & Washington D.C.",
+    readTime: "14 min read",
   },
   "the-ledger": {
     subtitle: "The Ledger",
     heroGradient: "from-emerald-950 via-stone-900 to-stone-800",
     heroIcon: "📒",
     location: "The Path Forward",
-    readTime: "11 min read",
+    readTime: "12 min read",
   },
 };
 
 const partTitles: Record<number, string> = {
   1: "The Promise",
-  2: "The Bridge",
-  3: "The Door",
-  4: "The Gap",
-  5: "The Machine",
+  2: "The Connector",
+  3: "The Other End",
+  4: "The Governors",
+  5: "The Network",
   6: "The Ledger",
 };
 
@@ -281,113 +281,146 @@ function processContentWithEnhancements(content: string, slug: string): string {
     "executive-findings": {
       pullQuotes: [
         { 
-          after: "### 1. Abbott's own bilateral figures",
-          quote: "Texas leaders made geographically specific promises about jobs while the state's contracting systems largely account at the vendor/contract level.",
+          after: "## Abbott's own numbers change the scale",
+          quote: "Texas has been very good at counting announcements. The harder question is what it counts after the ribbon is cut.",
         },
       ],
       figures: [
         { 
-          after: "### 2. Texas deliberately built the relationship",
-          caption: "Governor Abbott's 2018 and 2024 India missions included facility tours at Wipro, Infosys, TCS, and HCLTech headquarters, demonstrating direct state engagement in building the bilateral technology relationship.",
+          after: "## Texas built the bridge deliberately",
+          caption: "Governor Abbott's 2018 and 2024 India missions included facility tours at Wipro, TCS, and HCLTech headquarters, demonstrating direct state engagement in building the bilateral technology relationship.",
           source: "Governor's Office records, 2018-2024",
           type: "photo"
         },
-      ],
-      keyInsights: [
         {
-          after: "### 10. The central proven failure",
-          title: "Core Finding",
-          text: "The evidence supports a public-policy mismatch: Texas leaders made promises about jobs going to Texans while the state's systems account only at the vendor level—not the worker level.",
-        },
-      ],
-    },
-    "bilateral-investment": {
-      pullQuotes: [],
-      figures: [
-        {
-          after: "## The Numbers",
-          caption: "FDI flow comparison showing 2.36× more projects, 2.81× more capital, and 6.86× more jobs announced by Texas companies in India versus Indian companies in Texas (2015-2024).",
-          source: "Governor's Economic Development & Tourism Office, July 2025",
-          type: "data"
-        },
-        {
-          after: "## Texas Built a Public-Private Bridge",
-          caption: "Geographic scope of the Texas-India economic development relationship, spanning Austin headquarters operations to technology hubs in Hyderabad, Bangalore, and Chennai.",
-          source: "TxEDC mission materials",
+          after: "## At the other end of the bridge",
+          caption: "The Texas-India economic corridor spans from Austin to technology hubs in Hyderabad, Bangalore, and Visakhapatnam.",
+          source: "Investigation mapping",
           type: "map"
         },
       ],
       keyInsights: [
         {
-          after: "## What These Figures Mean",
-          title: "Important Context",
-          text: "These figures cannot be converted into 'jobs shipped from Texas.' A new job in India may support new markets rather than replace existing Texas workers.",
+          after: "## Show us the ledger",
+          title: "Core Finding",
+          text: "The relevant distinction is not Indian versus American. It is measured versus unmeasured. One government built machinery to bring jobs home. Texas built machinery to recruit companies but not to follow the labor.",
         },
       ],
     },
-    "revolving-door": {
+    "the-connector": {
       pullQuotes: [
         {
-          after: "The revolving-door evidence",
-          quote: "Former senior Abbott officials later represented technology vendors around the same ecosystem.",
+          after: "## A man whose value is the connection",
+          quote: "He is not the system. He is what the system rewards: a person whose influence compounds because he can move between organizations that appear separate on an org chart.",
         },
       ],
       figures: [
         {
-          after: "## The Key Personnel",
-          caption: "Timeline of key personnel movements between Governor Abbott's office and private sector roles representing major technology contractors (2017-2024).",
-          source: "Texas Ethics Commission filings",
+          after: "## The résumé is really a map",
+          caption: "Agarwal's institutional roles spanning TxEDC, Dallas Parks Board, Community Bond Task Force, IACEO, and India mission delegations.",
+          source: "Public appointment records",
           type: "document"
-        },
-      ],
-      keyInsights: [],
-    },
-    "contractor-visibility": {
-      pullQuotes: [],
-      figures: [
-        {
-          after: "## The DIR ITSAC Framework",
-          caption: "Simplified view of Texas's contractor workforce management structure: state agencies request labor through DIR master contracts, with visibility ending at the vendor level.",
-          source: "DIR administrative rules",
-          type: "data"
         },
       ],
       keyInsights: [
         {
-          after: "## What Texas Tracks",
-          title: "The Visibility Gap",
-          text: "Standard current templates identify remote work and staffing categories but contain no dedicated statewide field for citizenship, work-authorization category, or offshore delivery.",
+          after: "## Agarwal is not the scandal",
+          title: "The Design",
+          text: "Texas built a system in which connectivity itself becomes a form of public power — while the public records needed to audit that power remain scattered across the institutions the connector moves between.",
         },
       ],
     },
     "andhra-apparatus": {
       pullQuotes: [
         {
-          after: "The state-level machinery",
-          quote: "Official APNRTS materials describe government-assisted investment pipelines facilitating NRT investors establishing offshore operations.",
+          after: "## The institution had a name",
+          quote: "From Andhra's perspective, an offshore operation was not a scandal. It was a project to recruit.",
         },
       ],
       figures: [
         {
-          after: "## APNRTS Structure",
-          caption: "The Andhra Pradesh Non-Resident Telugu Society operates investment pipelines connecting diaspora investors to state-facilitated business opportunities.",
-          source: "APNRTS official materials",
+          after: "## The diaspora was part of the machinery",
+          caption: "APNRTS coordinator network spanning Dallas, New Jersey, California, and other diaspora hubs, feeding prospects into Andhra's investment pipeline.",
+          source: "APNRTS coordinator rules",
           type: "map"
         },
         {
-          after: "## ITServe's Role",
-          caption: "ITServe Alliance organizational structure showing the intersection of business education, lobbying, litigation, and international economic development activities.",
-          source: "ITServe public records and conference materials",
+          after: "## Dallas Technology Centre made the relationship physical",
+          caption: "Dallas Technology Centre in Visakhapatnam: a Texas-named facility built on Andhra state land, later subleased to TCS.",
+          source: "APIIC land records, 2015-2024",
+          type: "photo"
+        },
+      ],
+      keyInsights: [
+        {
+          after: "## The other end kept score",
+          title: "The Asymmetry",
+          text: "Texas spent a decade celebrating the bridge. The other end was building a landing zone. One side counted what it captured. Texas counted what it announced.",
+        },
+      ],
+    },
+    "revolving-door": {
+      pullQuotes: [
+        {
+          after: "## David Whitley knew the machinery",
+          quote: "He was a former senior executive-branch operator with direct knowledge of appointments, the Governor's Office, statewide institutions and Texas's India-facing economic-development network.",
+        },
+      ],
+      figures: [
+        {
+          after: "## By 2020, that knowledge was for sale",
+          caption: "Timeline of key personnel movements: Whitley, Scott, Hughs, and Strickland transitioning from Abbott administration roles to private-sector representation.",
+          source: "Texas Ethics Commission filings",
           type: "document"
         },
       ],
-      keyInsights: [],
+      keyInsights: [
+        {
+          after: "## Texas needs a relationship ledger",
+          title: "The Reform",
+          text: "A disclosure system should not treat a relationship as shameful. It should treat it as material. Texas should publish a machine-readable relationship ledger for senior officials and major contractors.",
+        },
+      ],
     },
-    "the-ledger": {
-      pullQuotes: [],
+    "itserve-alliance": {
+      pullQuotes: [
+        {
+          after: "## Three verbs explain the organization",
+          quote: "Educate. Lobby. Litigate. Those three verbs describe an industry that learned how to act collectively.",
+        },
+      ],
       figures: [
         {
-          after: "## A Statewide Labor Ledger",
+          after: "## Texas was not incidental",
+          caption: "ITServe's Texas footprint: Dallas-area founding, North Texas company cluster, political access, and overlap with DIR vendor rosters.",
+          source: "ITServe records and DIR contracts",
+          type: "data"
+        },
+        {
+          after: "## Andhra saw the network differently",
+          caption: "The dual positioning of ITServe member companies: pursuing contracts in Texas while establishing delivery operations in Andhra Pradesh.",
+          source: "Investigation mapping",
+          type: "map"
+        },
+      ],
+      keyInsights: [
+        {
+          after: "## Texas was organized around the vendor",
+          title: "The Mismatch",
+          text: "By the time Abbott announced that taxpayer-funded opportunities should go to Texans first, one side of the market had spent years organizing around the rules governing labor. Texas was still trying to determine who the workers were.",
+        },
+      ],
+    },
+    "the-ledger": {
+      pullQuotes: [
+        {
+          after: "## The asterisk",
+          quote: "Remote from where?",
+        },
+      ],
+      figures: [
+        {
+          after: "## The question is answerable",
           caption: "Proposed data architecture for a comprehensive Texas public contractor labor ledger, tracking residency, work location, subcontracting, and visa status.",
           source: "Investigation team proposal",
           type: "data"
@@ -395,9 +428,9 @@ function processContentWithEnhancements(content: string, slug: string): string {
       ],
       keyInsights: [
         {
-          after: "## The Core Demand",
-          title: "The Path Forward",
-          text: "The strongest defensible demand is a statewide labor ledger capable of measuring Texas residency, actual work location, subcontracting, and temporary-visa use in aggregate.",
+          after: "## Terms and conditions may apply",
+          title: "The Bottom Line",
+          text: "Until Texas can show the direct employees, the contractors, the subcontractors, where the work was performed, and which jobs required a visa — Texans First comes with terms and conditions.",
         },
       ],
     },

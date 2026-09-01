@@ -1,71 +1,281 @@
 ---
 title: "The Other End of the Bridge"
 date: "2026-09-01"
-excerpt: "Andhra Pradesh built explicit government-linked machinery for investment, offshore operations, and jobs — the organized receiving end of the Texas relationship."
-author: "Investigation Team"
-part: 5
+excerpt: "Texas celebrated the relationship. Andhra Pradesh built machinery to capture the investment, operations and jobs."
+author: "Nick Plumb"
+part: 3
 ---
 
-Andhra Pradesh is the strongest evidence that the Texas relationship had an institutionally organized receiving end.
+## Texas looked at one end of the relationship
 
-While Texas promotional records emphasize projects announced into Texas, Andhra's machinery went further down the operating stack: land, office capacity, incentives, training, labor matching and implementation support.
+For a decade, Texas officials described the state's relationship with India in the familiar vocabulary of economic development: investment, innovation, trade, jobs and friendship.
 
-## The APNRTS Investment Machine
+Gov. Greg Abbott led two economic-development missions to India. His office celebrated corporate meetings, campus visits and announcements. Texas's public-private recruitment apparatus courted some of India's largest technology companies.
 
-Official APNRTS materials describe the organization as a government-linked nodal body serving non-resident Telugus and investment. Its current investment portal offers:
+Seen from Texas, the relationship was a bridge designed to bring companies and capital in.
 
-- Government introductions
-- Policy/incentive matching
-- Site selection
-- Land support
-- Approval facilitation
-- Implementation tracking
-- Aftercare
+**Seen from Andhra Pradesh, the bridge had another purpose.**
 
-A government district page describing APNRTS says its Investments Wing facilitates NRT investors to establish MSMEs or **"offshore operations in any segment"** under Andhra policies. Coordinator rules require promoting Andhra investment and include bringing prospective investors and closing investment deals.
+The state government there built an institution whose official job included organizing overseas residents, recruiting investors, helping them navigate government, developing workers and facilitating what its own materials call 'offshore operations.'
 
-## The 2016–18 ITServe Recruitment
+It created overseas coordinators who were expected not merely to host cultural events but to bring prospective investors and close investment deals.
 
-The current language should not be projected backward automatically. But contemporaneous 2016–18 reporting documents a matching historical program: ITServe-member recruitment, plug-and-play offices, rent support, per-hire subsidy, workforce training, policy changes and access to state opportunities.
+It offered an investment pipeline that moves a prospect from first conversation to government introductions, site selection, incentives, land, approvals, implementation and aftercare.
 
-### Scale of the Program
+And when a U.S.-based technology-industry association brought companies interested in opening offices, Andhra officials responded with workspace, rent support, hiring incentives, skills programs and access to a state eager to create technology jobs.
 
-Contemporaneous records report:
-- **32 IT companies** established with approximately **3,090 jobs** by September 2017
-- **21 more** planned
-- **54 firms** facilitated within roughly 16 months by January 2018
-- A broader target to accelerate the program
+None of that is improper.
 
-These figures are contemporaneous program claims and still require firm-by-firm validation of operations, employment and subsidy receipt.
+It is economic development.
 
-## Dallas Technology Centre
+**The question for Texans is why the strategy at the other end of the bridge was so much easier to see than the accounting at home.**
 
-APIIC's September 2015 official minutes approved Dallas Technology Centre for a plot at IT-NONSEZ Hill 2 in Visakhapatnam. Later contemporaneous reporting described DTC as a large project associated with ITServe-linked companies and named planned occupants including IntelliSoft, Primus and Kairos.
+## The institution had a name
 
-The records presently support the existence of a **Texas-branded, ITServe-linked commercial technology real-estate platform receiving state industrial land.** They do not yet establish the final contribution percentages of all partners, exact subsidy receipts or that every planned tenant occupied the property.
+The Andhra Pradesh Non-Resident Telugu Society, or APNRTS, was established by the Government of Andhra Pradesh in 2016.
 
-### The TCS Connection
+An official Andhra government page describes it as a fully state-owned entity and the government's nodal agency for nonresident Telugus and migrant workers.
 
-The project's later life is significant. Andhra later approved DTC to sublease premises to TCS and recommended a special package around TCS operations. A separate 2025 Andhra action allocated additional Visakhapatnam land to TCS at a symbolic price.
+Its mission is broad. It assists migrants. It helps students. It works with overseas communities. It runs return-migration and skills programs.
 
-**These are separate transactions and must not be conflated.**
+**But buried inside that service structure is an economic-development function that is unusually explicit.**
 
-No evidence reviewed establishes that Abbott or Texas caused the DTC-to-TCS arrangement. Its significance is continuity: infrastructure seeded in the earlier recruitment era remained part of Andhra's technology-investment platform years later.
+The same government description says APNRTS's Investments Wing facilitates nonresident investors seeking to establish MSMEs or **'offshore operations in any segment'** under Andhra's information-technology and industrial policies.
 
-## The Amzur Case
+That phrase matters because 'offshore' is often treated in American political debate as something corporations quietly do to cut costs.
 
-Amzur is one of the strongest firm-level joins because the same business group spans Texas public technology staffing and Andhra/offshore operating capacity.
+Here it appears in the public description of a state economic-development function.
 
-DIR awarded Amzur an ITSAC contract beginning in August 2016. The master ledger also contains later Texas public staff-augmentation activity and a named HHSC Enterprise Architect purchase. At the same time, Amzur appears in the Andhra/ITServe recruitment record and today markets offshore delivery with a Visakhapatnam presence.
+**From Andhra's perspective, an offshore operation was not a scandal. It was a project to recruit.**
 
-**A correction is essential:** Amzur Technologies Private Limited existed in Andhra from 2006, long before the 2016 recruitment push. A separate Amzur Infotech Private Limited was incorporated in November 2016. APNRT therefore cannot be described as creating Amzur's entire Indian capability.
+## The diaspora was part of the machinery
 
-The open transaction question is narrower and stronger: what incremental Andhra benefits, office support or hiring incentives did the 2016 program provide, and did any Texas taxpayer-funded assignment use that delivery capacity? **No current evidence closes that loop.**
+APNRTS did not treat the overseas community simply as a population to serve. It treated it as infrastructure.
 
-## The Institutional Asymmetry
+Its coordinator rules say representatives should promote Andhra investment opportunities to potential investors. The qualifying criteria say a coordinator should bring prospective investors and close at least one firm investment deal, with the Investments Division helping in the process.
 
-The relevant Texas question is not whether Andhra was wrong to compete for jobs. It is whether Texas created an equivalent public accounting system capable of showing how much taxpayer-funded labor and value remained in Texas while the same business networks expanded abroad.
+Other APNRTS materials describe coordinators as official representatives who can host visiting government officials and work with local organizations.
 
-Texas knows how to count vendor contracts, purchase orders, and payments. Andhra built machinery to count — and support — companies, offices, employees, and operations.
+The economic logic is straightforward.
 
-**The asymmetry is in measurement, not morality.**
+A government official in Amaravati does not personally know every entrepreneur in Dallas, New Jersey, California, London, Dubai or Singapore. A diaspora coordinator does.
+
+A coordinator can identify a prospect, validate the relationship, arrange the meeting and move the project into the state system.
+
+**That is a distributed business-development network funded with something more valuable than money: social trust.**
+
+The current investment portal makes the process even more explicit. It describes a sequence from introduction and sector matching to government facilitation, site visits, memoranda of understanding, approvals, grounding, implementation and aftercare.
+
+The portal says every stage is tracked so a serious investor is not lost after the first conversation.
+
+It tells overseas Telugu investors to think of Andhra as **'Your Homeland. Your Next Headquarters.'**
+
+The language is current and cannot simply be projected backward onto every decision in 2016. But it reveals the institutional purpose with unusual clarity: convert relationships abroad into operations at home.
+
+## Then came ITServe
+
+One of the most consequential joins in the record is ITServe Alliance.
+
+ITServe is a U.S.-based association of technology consulting and staffing companies. Its members operate in a labor model built around supplying technical expertise to clients, often through layered staffing relationships.
+
+The organization later became prominent in Washington for immigration advocacy, congressional outreach and litigation involving the third-party consulting model.
+
+**But in 2016, Andhra Pradesh was interested in something else ITServe could provide.**
+
+**Companies.**
+
+Contemporaneous reporting from the Andhra-ITServe relationship says roughly 50 ITServe member companies signed memoranda to establish operations in the state.
+
+The package described to those companies reportedly included discounted office rent, incentives tied to new hires, power support, registration-fee relief, skills development and other facilitation.
+
+Another contemporaneous account says ITServe companies raised practical concerns about opening Andhra offices and that the government responded with plug-and-play space, training support and access to state technology opportunities.
+
+Those reports are important but must be bounded carefully. A promised incentive is not a paid subsidy. A memorandum is not a completed office. The underlying government orders, company MOUs and disbursement records remain necessary to calculate what each firm actually received.
+
+Still, the policy direction is unmistakable.
+
+**A U.S.-based industry built around selling technology labor was being recruited by an Indian state whose objective was to create technology operations and jobs inside India.**
+
+## The first offices were not hypothetical
+
+The relationship did not stop at ceremony.
+
+Contemporaneous accounts identify an initial group of ITServe-linked companies that opened or prepared operations in Visakhapatnam, including firms with later or continuing Texas footprints.
+
+Amzur Technologies is particularly useful because it appears repeatedly in the record. A 2016 report names Amzur among the companies signing Andhra memoranda. Later reporting identifies it among firms establishing Visakhapatnam operations.
+
+**Amzur also appears in Texas's public technology market.**
+
+That does not prove a Texas government contract was delivered from Andhra.
+
+It proves something more limited but still important: one corporate group can sit on both sides of the bridge — selling technology services in Texas while building delivery capacity in Andhra.
+
+The same pattern appears around other names associated with the Andhra cohort. IntelliSoft has a Dallas-area presence. Kairos has Texas roots and an India delivery footprint. Primus and other firms in the network have U.S. operations alongside Indian delivery capacity.
+
+A company having offices in both places is not evidence that work moved from one to the other.
+
+**But it is exactly the kind of corporate architecture a serious labor-and-value ledger would need to account for.**
+
+## Dallas Technology Centre made the relationship physical
+
+The most vivid artifact of the relationship is a real-estate project on a hill in Visakhapatnam.
+
+**Its name was Dallas Technology Centre.**
+
+Official Andhra Pradesh Industrial Infrastructure Corporation records from September 2015 show approval of a plot for Dallas Technology Centre at the IT non-SEZ Hill 2 site in Visakhapatnam.
+
+The approved area was roughly 7,900 square meters for IT/ITES use.
+
+Contemporaneous ITServe-related reporting described a much larger ambition: a roughly ₹192-crore technology center planned by member companies, with intended occupants including IntelliSoft, Primus, Kairos, Voxai, Qatalys and others.
+
+The list should be treated as a plan, not a completed tenant roll. This investigation has not yet reconstructed every lease and occupancy agreement.
+
+But the state land record establishes that Dallas Technology Centre was not just conference rhetoric.
+
+**It became a physical project backed by an Andhra land allotment.**
+
+The name is almost too perfect for the larger story.
+
+A technology center in Andhra Pradesh, organized around U.S.-linked firms, named for a Texas city that had become one of the principal American hubs of the same consulting and staffing economy.
+
+## The building's second life matters
+
+Years later, Dallas Technology Centre reappeared in the record for a different reason.
+
+In November 2024, Andhra's industries department approved steps allowing DTC's Rushikonda premises to be used for Tata Consultancy Services.
+
+The reporting on the government order says DTC sought an occupancy certificate, permission to sublease to TCS and an additional 1,600 square meters at the original land rate.
+
+The underlying plot had been transferred to DTC in 2016. The project received multiple extensions. DTC told the government that the TCS plan aimed to employ about 2,000 IT professionals in its first phase.
+
+The State Investment Promotion Board recommended a special package, and the government directed departments to expedite implementation.
+
+**That sequence is significant because the project created during the earlier ITServe-era recruitment push eventually became useful infrastructure for one of the world's largest IT-services companies.**
+
+It does not establish that Texas caused TCS to choose Visakhapatnam.
+
+It does not establish that Abbott's India missions led to the DTC arrangement.
+
+The known record points instead to Andhra's own political and economic-development efforts.
+
+The connection is institutional, not causal: the same Andhra strategy that recruited smaller U.S.-linked technology firms had created an asset that later could be repurposed to land a giant.
+
+## Then Andhra made the objective impossible to miss
+
+In April 2025, Andhra approved a separate deal for TCS.
+
+The state cabinet allotted 21.16 acres in Visakhapatnam to the company for a symbolic 99 paise. TCS proposed a ₹1,370-crore development center expected to create more than 12,000 jobs.
+
+Business Standard reported that discussions began after Andhra IT Minister Nara Lokesh visited Tata House in October 2024 and pitched the company on a major development center.
+
+That deal is separate from Dallas Technology Centre and should not be blended with it.
+
+**But together the projects show the same governing philosophy.**
+
+Identify the company. Make the pitch. Assemble land and approvals. Remove friction. Measure success in investment and jobs.
+
+Andhra repeated the approach with other technology companies. In 2025, Cognizant was reported to have received a similarly symbolic land arrangement for a proposed Visakhapatnam campus.
+
+Again, the point is not that India did something wrong by competing for jobs.
+
+**The point is that it competed deliberately.**
+
+## Texas's own numbers tell you who was winning what
+
+The asymmetry becomes more visible when the Andhra records are placed beside the Texas Governor's own bilateral investment profile.
+
+For January 2015 through December 2024, Texas's Economic Development & Tourism Office reports 74 Indian-company investment projects in Texas, $2.7 billion in announced capital and more than 8,650 announced jobs.
+
+The same profile reports 175 projects by Texas companies in India, $7.6 billion in announced capital and more than 59,300 announced jobs.
+
+Those figures are reported foreign-direct-investment estimates. They are not audited payroll, and they are not a measure of net social welfare.
+
+**They should not be described as 59,300 Texas jobs 'lost' to India. The data does not say that.**
+
+But they do show that during the decade Texas spent marketing the relationship, the Texas-company-to-India side was much larger on the same metrics economic-development offices use to celebrate success.
+
+**And the Andhra records explain why that direction was not accidental.**
+
+**There was a government machinery trying to make it happen.**
+
+## This is economic development, viewed from the receiving end
+
+American political rhetoric often treats offshoring as an invisible corporate decision.
+
+The Andhra record shows a different reality.
+
+**Offshore operations can be the product of public policy.**
+
+A government can organize diaspora intermediaries, advertise incentives, map land, train workers, solve permitting problems, subsidize occupancy, introduce companies to officials and track the project from first contact through implementation.
+
+A local executive who opens an Indian delivery center may experience that as a corporate expansion.
+
+The receiving government experiences it as a jobs program.
+
+**Both descriptions can be true at the same time.**
+
+## What the record still does not show
+
+The strongest version of this story is also the one most disciplined about what remains unknown.
+
+The records reviewed here do not prove that any specific Texas taxpayer-funded technology assignment was performed from Andhra Pradesh.
+
+They do not prove that every ITServe company received every advertised Andhra incentive.
+
+They do not prove that every company named as a Dallas Technology Centre occupant actually moved into the building.
+
+They do not prove that Abbott or Texas officials directed companies to offshore work.
+
+They do not prove that APNRTS controlled ITServe, or that ITServe controlled the companies in its membership.
+
+And they do not turn ordinary India-facing civic or business activity into evidence of disloyalty.
+
+**The story is institutional.**
+
+Andhra Pradesh built a public system whose success was defined partly by bringing operations, companies and employment home.
+
+Texas built a relationship with that economy while failing to build a comparable public accounting of what happened to labor and value inside its own contractor market.
+
+## The public ledger Texas never built
+
+Imagine the records if Texas measured the relationship the way Andhra pursues it.
+
+For every state-supported investment project, Texans could see promised jobs, verified jobs, amendments, wage requirements, public subsidies and the location of the work.
+
+For every large technology contract, they could see the prime vendor, material subcontractors, hours, rates, worker geography and material offshore delivery.
+
+For every economic-development mission, they could see the companies recruited, the public or quasi-public resources used, the follow-up projects and the verified results.
+
+For every company operating on both sides of the bridge, Texas could distinguish a Texas job from an Indian delivery position instead of treating the corporate logo as the unit of economic success.
+
+**That would not stop trade.**
+
+**It would tell Texans what the trade produced.**
+
+## The other end kept score
+
+Andhra Pradesh did not hide what it wanted.
+
+Its investment officials wanted companies.
+
+Its coordinators were expected to find investors.
+
+Its programs supported offices and workers.
+
+Its land agencies allocated space.
+
+Its political leaders pitched major employers.
+
+Its government celebrated jobs that landed in Andhra.
+
+**That is what economic development looks like when the receiving end keeps score.**
+
+Texas spent a decade celebrating the bridge.
+
+The other end was building a landing zone.
+
+And until Texas can show where the work, workers and value actually went, Texans are left with a peculiar arrangement:
+
+**One side counted what it captured.**
+
+**Texas counted what it announced.**
