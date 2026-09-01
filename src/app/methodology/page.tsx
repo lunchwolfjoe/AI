@@ -1,204 +1,251 @@
+import Link from "next/link";
+
 export const metadata = {
   title: "Methodology | TEXANS FIRST*",
-  description: "Our source hierarchy, evidentiary rules, and analytical method.",
+  description: "How we gathered, verified, and presented the evidence.",
 };
 
 export default function MethodologyPage() {
   return (
-    <div className="max-w-3xl mx-auto space-y-8">
-      <header>
-        <h1 className="text-3xl font-bold tracking-tight mb-4">Methodology</h1>
-        <p className="text-lg text-stone-600">
-          This investigation uses a deliberately conservative evidence hierarchy 
-          and distinguishes established facts from derived findings, contextual 
-          evidence, open questions and unsupported inferences.
+    <div className="max-w-4xl mx-auto">
+      {/* Header */}
+      <header className="mb-16">
+        <p className="text-red-600 text-sm font-bold uppercase tracking-widest mb-4">How We Work</p>
+        <h1 className="text-4xl sm:text-5xl font-black tracking-tight mb-6 font-display">
+          Methodology
+        </h1>
+        <p className="text-xl text-stone-600 leading-relaxed">
+          This investigation distinguishes between what records prove, what they suggest, 
+          and what remains unknown. Every claim is tied to a verifiable source.
         </p>
       </header>
 
-      <section className="prose prose-stone max-w-none">
-        <h2>Source Hierarchy</h2>
-        <p>
-          The project uses a deliberately conservative evidence hierarchy:
+      {/* Source Hierarchy */}
+      <section className="mb-16">
+        <h2 className="text-2xl font-bold mb-6 flex items-center gap-3">
+          <span className="w-10 h-10 rounded-xl bg-stone-900 text-white flex items-center justify-center text-lg font-bold">1</span>
+          Source Hierarchy
+        </h2>
+        <p className="text-stone-600 mb-8">
+          We weight evidence by reliability. Not all records are equal.
         </p>
-        <ol>
-          <li>
-            <strong>Primary government records</strong> — executed contracts, 
-            official audits, campaign/lobbying filings
-          </li>
-          <li>
-            <strong>IRS filings and corporate records</strong> — first-party 
-            documents with legal accountability
-          </li>
-          <li>
-            <strong>Contemporaneous reporting</strong> — used when it quotes 
-            principals or describes events for which the primary document has 
-            not yet been recovered
-          </li>
-          <li>
-            <strong>Secondary aggregators</strong> — used as leads or 
-            corroboration unless independently matched to primary records
-          </li>
-        </ol>
-
-        <h2>Core Evidentiary Rules</h2>
-        <p>
-          Each type of record is assigned a specific evidentiary scope. We do not 
-          over-interpret what records prove:
-        </p>
+        
+        <div className="space-y-4">
+          {[
+            {
+              level: "Primary",
+              color: "bg-green-500",
+              examples: "Executed contracts, official audits, ethics filings, IRS records, corporate registrations",
+              weight: "Full weight"
+            },
+            {
+              level: "First-Party",
+              color: "bg-blue-500",
+              examples: "Government press releases, official statements, published agency documents",
+              weight: "Strong weight"
+            },
+            {
+              level: "Contemporaneous",
+              color: "bg-amber-500",
+              examples: "News reports from the time quoting principals, dated photographs, meeting records",
+              weight: "Corroborating weight"
+            },
+            {
+              level: "Secondary",
+              color: "bg-stone-400",
+              examples: "Later analysis, aggregated data, third-party databases",
+              weight: "Lead generation only"
+            },
+          ].map((source, i) => (
+            <div key={i} className="flex items-stretch gap-4 bg-white rounded-xl border border-stone-200 overflow-hidden">
+              <div className={`${source.color} w-2 flex-shrink-0`}></div>
+              <div className="py-4 pr-6 flex-1">
+                <div className="flex items-center justify-between mb-2">
+                  <h3 className="font-bold text-lg">{source.level}</h3>
+                  <span className="text-sm text-stone-500 bg-stone-100 px-3 py-1 rounded-full">{source.weight}</span>
+                </div>
+                <p className="text-stone-600 text-sm">{source.examples}</p>
+              </div>
+            </div>
+          ))}
+        </div>
       </section>
 
-      <div className="overflow-x-auto">
-        <table className="min-w-full text-sm border border-stone-200">
-          <thead className="bg-stone-100">
-            <tr>
-              <th className="text-left p-3 font-semibold border-b">Term / Record</th>
-              <th className="text-left p-3 font-semibold border-b">What This Report Permits</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr className="border-b">
-              <td className="p-3 font-medium">LCA</td>
-              <td className="p-3 text-stone-600">
-                A Labor Condition Application is employer-side labor/visa process evidence. 
-                It is not a visa approval and not proof that a named worker performed a particular Texas contract.
-              </td>
-            </tr>
-            <tr className="border-b bg-stone-50">
-              <td className="p-3 font-medium">DIR contract</td>
-              <td className="p-3 text-stone-600">
-                A statewide master contract establishes eligibility to sell under the vehicle. 
-                It is not evidence that an agency bought anything.
-              </td>
-            </tr>
-            <tr className="border-b">
-              <td className="p-3 font-medium">Purchase order</td>
-              <td className="p-3 text-stone-600">
-                A purchase order establishes authorization up to the stated scope/amount. 
-                It is not always evidence of the amount ultimately paid.
-              </td>
-            </tr>
-            <tr className="border-b bg-stone-50">
-              <td className="p-3 font-medium">Payment</td>
-              <td className="p-3 text-stone-600">
-                A payment proves public money moved to the vendor, but not who performed 
-                the labor or where.
-              </td>
-            </tr>
-            <tr className="border-b">
-              <td className="p-3 font-medium">Remote work</td>
-              <td className="p-3 text-stone-600">
-                Remote does not mean offshore.
-              </td>
-            </tr>
-            <tr className="border-b bg-stone-50">
-              <td className="p-3 font-medium">Corporate India presence</td>
-              <td className="p-3 text-stone-600">
-                An India office or offshore-delivery capability does not prove a 
-                Texas-funded task was delivered there.
-              </td>
-            </tr>
-            <tr className="border-b">
-              <td className="p-3 font-medium">ITServe membership</td>
-              <td className="p-3 text-stone-600">
-                Membership is evidence of association participation, not a visa category, 
-                nationality, procurement outcome or improper coordination.
-              </td>
-            </tr>
-            <tr className="border-b bg-stone-50">
-              <td className="p-3 font-medium">Lobbying</td>
-              <td className="p-3 text-stone-600">
-                A registration establishes a disclosed representation relationship. 
-                Prospective compensation is not proof of actual payment; representation 
-                is not proof of influence.
-              </td>
-            </tr>
-            <tr className="border-b">
-              <td className="p-3 font-medium">Donation</td>
-              <td className="p-3 text-stone-600">
-                A lawful contribution establishes political support/access context, 
-                not a purchased official act.
-              </td>
-            </tr>
-            <tr className="border-b bg-stone-50">
-              <td className="p-3 font-medium">FDI</td>
-              <td className="p-3 text-stone-600">
-                Announced/reported capital and jobs are not audited realized payroll, 
-                net welfare or a direct measure of Texas jobs lost.
-              </td>
-            </tr>
-            <tr className="border-b">
-              <td className="p-3 font-medium">Audit distribution</td>
-              <td className="p-3 text-stone-600">
-                A report sent to an office does not prove a named official personally read it.
-              </td>
-            </tr>
-            <tr className="bg-stone-50">
-              <td className="p-3 font-medium">MOU/incentive announcement</td>
-              <td className="p-3 text-stone-600">
-                A memorandum, advertised subsidy or announced benefit is not proof of disbursement.
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-
-      <section className="prose prose-stone max-w-none">
-        <h2>Analytical Method</h2>
-        <p>
-          The investigation joins records across entities and time rather than treating 
-          any one database as self-explanatory. The preferred join keys are:
-        </p>
-        <ul>
-          <li>Legal entity name</li>
-          <li>Taxpayer/vendor identifier</li>
-          <li>Contract number</li>
-          <li>Solicitation number</li>
-          <li>LCA case number</li>
-          <li>Lobbying client/lobbyist identity</li>
-          <li>Corporate registration</li>
-          <li>Named public role</li>
-        </ul>
-        <p>
-          When names are ambiguous, the record is held as a lead rather than treated as a match.
+      {/* What Records Mean */}
+      <section className="mb-16">
+        <h2 className="text-2xl font-bold mb-6 flex items-center gap-3">
+          <span className="w-10 h-10 rounded-xl bg-stone-900 text-white flex items-center justify-center text-lg font-bold">2</span>
+          What Each Record Type Proves
+        </h2>
+        <p className="text-stone-600 mb-8">
+          We are deliberate about not over-interpreting evidence. Each record type has a specific scope.
         </p>
 
-        <h2>Corrections</h2>
-        <p>
-          The master ledger preserves corrections. Several early theories were weakened 
-          or changed by later records. For example:
-        </p>
-        <ul>
-          <li>Whitley's Accenture representation began earlier than initially believed</li>
-          <li>Amzur's India presence predates the 2016 Andhra recruitment push</li>
-          <li>The 2024 versus 2025 Governor's Office Texas-job estimates use different 
-          source bases and should not be called a contradiction until methodologies are reconciled</li>
-        </ul>
-
-        <h2>Publication Posture</h2>
-        <p>
-          The most defensible public framing remains institutional rather than ethnic 
-          or conspiratorial. The record supports a story about economic-development policy, 
-          public contracting, labor visibility, organized industry advocacy and revolving-door governance.
-        </p>
-        <p>
-          The investigation explicitly states that India, Indian companies, diaspora 
-          organizations, ITServe members and H-1B workers are not treated as a single category. 
-          Economic development abroad, lawful immigration sponsorship, lobbying, litigation, 
-          donations and civic participation are not wrongdoing.
-        </p>
-        <p>
-          <strong>The central accountability question is whether Texas made a promise it 
-          built no consistent public accounting system to measure.</strong>
-        </p>
+        <div className="bg-white rounded-2xl border border-stone-200 overflow-hidden">
+          <div className="overflow-x-auto">
+            <table className="w-full">
+              <thead>
+                <tr className="bg-stone-50 border-b border-stone-200">
+                  <th className="text-left p-4 font-bold text-stone-900">Record Type</th>
+                  <th className="text-left p-4 font-bold text-stone-900">What It Proves</th>
+                  <th className="text-left p-4 font-bold text-stone-900">What It Does NOT Prove</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-100">
+                {[
+                  {
+                    type: "DIR Contract",
+                    proves: "Vendor is eligible to sell through this vehicle",
+                    notProves: "That any agency actually bought anything"
+                  },
+                  {
+                    type: "Purchase Order",
+                    proves: "Authorization up to stated amount",
+                    notProves: "Final amount paid or who did the work"
+                  },
+                  {
+                    type: "Payment Record",
+                    proves: "Money moved to the vendor",
+                    notProves: "Who performed the labor or where"
+                  },
+                  {
+                    type: "LCA Filing",
+                    proves: "Employer filed visa paperwork",
+                    notProves: "Worker was approved, started, or performed specific contract"
+                  },
+                  {
+                    type: "Lobby Registration",
+                    proves: "Disclosed representation relationship",
+                    notProves: "Actual influence or that compensation was paid"
+                  },
+                  {
+                    type: "Campaign Donation",
+                    proves: "Political support/access context",
+                    notProves: "Quid pro quo or purchased official action"
+                  },
+                  {
+                    type: "FDI Announcement",
+                    proves: "Reported/announced investment intent",
+                    notProves: "Realized jobs, actual payroll, or causation"
+                  },
+                  {
+                    type: "Corporate India Office",
+                    proves: "Company has delivery capability there",
+                    notProves: "Any Texas work was performed there"
+                  },
+                ].map((row, i) => (
+                  <tr key={i} className="hover:bg-stone-50">
+                    <td className="p-4 font-medium text-stone-900">{row.type}</td>
+                    <td className="p-4 text-stone-600">{row.proves}</td>
+                    <td className="p-4 text-stone-500 italic">{row.notProves}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
       </section>
 
-      <section className="rounded-lg bg-stone-100 p-6">
-        <h2 className="font-semibold mb-2">The Proposed Reform</h2>
-        <p className="text-sm text-stone-600">
-          A machine-readable contractor labor ledger linking the prime vendor, material 
-          subcontractor, labor category, Texas residency, actual work geography, aggregate 
-          work-authorization category, hours and dollars — with privacy protections for individuals.
+      {/* Analytical Method */}
+      <section className="mb-16">
+        <h2 className="text-2xl font-bold mb-6 flex items-center gap-3">
+          <span className="w-10 h-10 rounded-xl bg-stone-900 text-white flex items-center justify-center text-lg font-bold">3</span>
+          How We Connect Records
+        </h2>
+        <p className="text-stone-600 mb-8">
+          We join records across entities and time using verified identifiers — not assumptions.
         </p>
+
+        <div className="grid sm:grid-cols-2 gap-4">
+          {[
+            { label: "Legal entity name", icon: "🏢" },
+            { label: "Taxpayer/vendor ID", icon: "🔢" },
+            { label: "Contract number", icon: "📄" },
+            { label: "Solicitation number", icon: "📋" },
+            { label: "LCA case number", icon: "📑" },
+            { label: "Lobbyist/client identity", icon: "🤝" },
+            { label: "Corporate registration", icon: "📁" },
+            { label: "Named public role", icon: "👤" },
+          ].map((item, i) => (
+            <div key={i} className="flex items-center gap-4 bg-white rounded-xl border border-stone-200 p-4">
+              <span className="text-2xl">{item.icon}</span>
+              <span className="font-medium">{item.label}</span>
+            </div>
+          ))}
+        </div>
+
+        <div className="mt-8 bg-amber-50 border border-amber-200 rounded-xl p-6">
+          <p className="font-medium text-amber-900 mb-2">When names are ambiguous</p>
+          <p className="text-amber-800">
+            If we cannot verify a match with certainty, we hold it as a lead — not a confirmed connection. 
+            Multiple "John Smiths" are not assumed to be the same person without corroborating evidence.
+          </p>
+        </div>
+      </section>
+
+      {/* Corrections */}
+      <section className="mb-16">
+        <h2 className="text-2xl font-bold mb-6 flex items-center gap-3">
+          <span className="w-10 h-10 rounded-xl bg-stone-900 text-white flex items-center justify-center text-lg font-bold">4</span>
+          We Correct Ourselves
+        </h2>
+        <p className="text-stone-600 mb-6">
+          Several early theories were weakened or changed by later records. We document these corrections.
+        </p>
+
+        <div className="space-y-4">
+          {[
+            "Whitley's Accenture representation began earlier than initially believed",
+            "Amzur's India presence predates the 2016 Andhra recruitment push",
+            "TxEDC does not administer the Texas Enterprise Fund (we initially overstated this)",
+            "The 2024 vs 2025 job figures use different methodologies — not necessarily a contradiction",
+          ].map((item, i) => (
+            <div key={i} className="flex gap-4 items-start">
+              <span className="flex-shrink-0 w-6 h-6 rounded-full bg-stone-200 flex items-center justify-center text-stone-600 text-sm">✓</span>
+              <p className="text-stone-700">{item}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* Editorial Standards */}
+      <section className="mb-16">
+        <h2 className="text-2xl font-bold mb-6 flex items-center gap-3">
+          <span className="w-10 h-10 rounded-xl bg-stone-900 text-white flex items-center justify-center text-lg font-bold">5</span>
+          Editorial Standards
+        </h2>
+        
+        <div className="bg-stone-900 text-white rounded-2xl p-8">
+          <p className="text-xl font-medium mb-6">
+            This investigation is institutional, not ethnic.
+          </p>
+          <p className="text-stone-300 leading-relaxed mb-6">
+            India, Indian companies, diaspora organizations, ITServe members, and H-1B workers are 
+            <strong className="text-white"> not treated as a single category</strong> or as inherently problematic. 
+            Economic development abroad, lawful immigration sponsorship, lobbying, litigation, donations, 
+            and civic participation are not wrongdoing.
+          </p>
+          <p className="text-stone-300 leading-relaxed">
+            The accountability question is specific: <strong className="text-white">Did Texas build a system to 
+            measure the promise it made?</strong> The answer appears to be no.
+          </p>
+        </div>
+      </section>
+
+      {/* CTA */}
+      <section className="bg-stone-100 rounded-2xl p-8 text-center">
+        <h3 className="text-xl font-bold mb-4">Questions about our methods?</h3>
+        <p className="text-stone-600 mb-6">
+          We welcome good-faith questions about our reporting standards.
+        </p>
+        <div className="flex flex-wrap justify-center gap-4">
+          <Link href="/evidence" className="text-red-600 font-semibold hover:underline">
+            View the Evidence →
+          </Link>
+          <Link href="/responses" className="text-stone-600 font-semibold hover:underline">
+            See Our Outreach →
+          </Link>
+        </div>
       </section>
     </div>
   );
