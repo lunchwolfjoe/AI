@@ -3,6 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
+import gfm from "remark-gfm";
 
 const storiesDirectory = path.join(process.cwd(), "content/stories");
 
@@ -12,6 +13,7 @@ export interface Story {
   date: string;
   excerpt: string;
   author?: string;
+  authorHandle?: string;
   part?: number;
   content: string;
 }
@@ -22,6 +24,7 @@ export interface StoryMeta {
   date: string;
   excerpt: string;
   author?: string;
+  authorHandle?: string;
   part?: number;
 }
 
@@ -45,6 +48,7 @@ export async function getStories(): Promise<StoryMeta[]> {
         date: data.date || "",
         excerpt: data.excerpt || "",
         author: data.author,
+        authorHandle: data.authorHandle,
         part: data.part,
       };
     });
@@ -62,7 +66,10 @@ export async function getStory(slug: string): Promise<Story | null> {
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
 
-  const processedContent = await remark().use(html).process(content);
+  const processedContent = await remark()
+    .use(gfm)
+    .use(html, { sanitize: false })
+    .process(content);
   const contentHtml = processedContent.toString();
 
   return {
@@ -71,6 +78,7 @@ export async function getStory(slug: string): Promise<Story | null> {
     date: data.date || "",
     excerpt: data.excerpt || "",
     author: data.author,
+    authorHandle: data.authorHandle,
     part: data.part,
     content: contentHtml,
   };

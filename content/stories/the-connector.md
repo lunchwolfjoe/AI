@@ -3,6 +3,7 @@ title: "The Connector"
 date: "2026-09-01"
 excerpt: "Arun Agarwal is not the scandal. He is the design. Over the past decade, Texas repeatedly placed him where institutions touched — and the public records needed to audit that power remain scattered."
 author: "Nick Plumb"
+authorHandle: "@plumbnick"
 part: 2
 ---
 

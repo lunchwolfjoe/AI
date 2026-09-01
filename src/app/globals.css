@@ -418,6 +418,10 @@ body {
   font-size: 1.125rem;
   line-height: 1.85;
   color: var(--color-stone-700);
+  text-align: justify;
+  text-justify: inter-word;
+  -webkit-hyphens: auto;
+  hyphens: auto;
 }
 
 .prose-investigation > *:first-child {

@@ -3,6 +3,7 @@ title: "TEXANS FIRST*: Terms and Conditions May Apply"
 date: "2026-09-01"
 excerpt: "Texas promised taxpayer-funded jobs to Texans. Its contractor system still cannot publicly show who performs much of the work."
 author: "Nick Plumb"
+authorHandle: "@plumbnick"
 part: 6
 ---
 

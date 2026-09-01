@@ -3,6 +3,7 @@ title: "Educate. Lobby. Litigate."
 date: "2026-09-01"
 excerpt: "How ITServe turned a fragmented technology-consulting industry into an organized political, legal and economic-development network."
 author: "Nick Plumb"
+authorHandle: "@plumbnick"
 part: 5
 ---
 
