@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export const metadata = {
   title: "FAQ | TEXANS FIRST*",
   description: "Frequently asked questions about the investigation.",
@@ -12,113 +14,80 @@ const faqs: FAQ[] = [
   {
     question: "What is this investigation about?",
     answer:
-      "TEXANS FIRST* is a six-part investigative series examining public records, contracts, and the gap between stated policy goals and actual outcomes in Texas state programs. We follow the money and document what we find.",
+      "This investigation examines whether Texas built a system capable of measuring the promise Governor Abbott made — that taxpayer-funded employment opportunities should go to Texans first. We follow the public records.",
   },
   {
-    question: "Why the asterisk in 'TEXANS FIRST*'?",
+    question: "Why the asterisk?",
     answer:
-      "The asterisk reflects a common theme in our findings: programs and policies marketed as benefiting Texans often come with significant caveats, exceptions, or unintended beneficiaries that aren't apparent in public messaging.",
+      "The asterisk reflects what the records show: 'Texans First' came with terms and conditions. The state could count vendors, contracts, and payments — but not who actually performed the work or where.",
   },
   {
     question: "Are you accusing anyone of crimes?",
     answer:
-      "No. This investigation documents what public records show. We present verified facts and note patterns, but determining whether any laws were broken is the responsibility of appropriate authorities. Our role is to inform the public.",
+      "No. This investigation documents institutional failures, not individual crimes. We present verified facts from public records. Where patterns emerge, we name them. Determining whether laws were broken is for appropriate authorities.",
   },
   {
     question: "How can I verify your claims?",
     answer:
-      "Every substantive claim in our investigation is linked to source documents in our Evidence section. We encourage readers to review the primary sources themselves. Our Methodology page explains our verification standards.",
+      "Every substantive claim links to a source document in our Evidence section. We encourage readers to check the primary sources themselves.",
   },
   {
-    question: "Why aren't all documents published?",
+    question: "Is this anti-immigrant?",
     answer:
-      "We publish all publication-cleared evidence—documents that can be shared publicly without compromising ongoing reporting, source protection, or legal considerations. Some records remain in our secure archive until appropriate for release.",
+      "No. This investigation is institutional, not ethnic. India, Indian companies, diaspora organizations, and H-1B workers are not treated as a single category or as inherently problematic. The accountability question is whether Texas built the system to measure what its leaders promised.",
   },
   {
-    question: "How do you protect sources?",
+    question: "Why focus on India specifically?",
     answer:
-      "We follow industry-standard practices for source protection. Anonymous sources are used only when necessary and their information is independently verified. We never reveal confidential sources without their explicit consent.",
-  },
-  {
-    question: "Can I contribute information?",
-    answer:
-      "Yes. If you have relevant documents or information, we want to hear from you. We have secure channels for receiving sensitive materials. All tips are reviewed, though we cannot respond to every submission.",
+      "Because that is where the Governor's own records point. Abbott's office reports significantly more Texas-company investment and job announcements into India than the reverse. Texas actively built this relationship through official missions and recruitment.",
   },
   {
     question: "How do you fund this investigation?",
     answer:
-      "This investigation is independently funded. We do not accept funding from any individual, organization, or government entity that is a subject of this investigation or could have a conflict of interest in its findings.",
+      "This investigation is independently funded. We do not accept funding from any individual, organization, or government entity that is a subject of this investigation.",
   },
   {
-    question: "Will there be more parts to the series?",
+    question: "I am named in the investigation. How can I respond?",
     answer:
-      "Yes. This is an ongoing investigation. New parts will be published as reporting is completed and verified. Sign up for updates to be notified when new installments are released.",
-  },
-  {
-    question: "I'm named in the investigation. How can I respond?",
-    answer:
-      "We actively seek comment from all individuals and organizations named in our reporting before publication. If you believe you should have been contacted, or wish to provide a statement, please reach out. All substantive responses are published in our Responses section.",
+      "We seek comment from all individuals and organizations named before publication. All substantive responses are published in our Responses section. If you believe you should have been contacted, please reach out.",
   },
 ];
 
 export default function FAQPage() {
   return (
-    <div className="max-w-3xl mx-auto space-y-8">
-      <header>
-        <h1 className="text-3xl font-bold tracking-tight mb-4">
-          Frequently Asked Questions
-        </h1>
-        <p className="text-lg text-stone-600">
-          Common questions about what our investigation does and does not claim, 
-          how we work, and how to interpret our findings.
-        </p>
-      </header>
+    <div className="bg-white">
+      <div className="mx-auto max-w-3xl px-6 py-16">
+        {/* Header */}
+        <header className="mb-12">
+          <p className="label-caps text-[#8b0000] mb-4">Questions</p>
+          <h1 className="font-display text-4xl sm:text-5xl mb-6">FAQ</h1>
+          <p className="font-serif-body text-xl text-[#374151] leading-relaxed">
+            Common questions about what this investigation does and does not claim.
+          </p>
+        </header>
 
-      <section className="space-y-4">
-        {faqs.map((faq, index) => (
-          <details
-            key={index}
-            className="group rounded-lg border border-stone-200 bg-white"
-          >
-            <summary className="flex cursor-pointer items-center justify-between p-6 font-medium hover:bg-stone-50">
-              <span className="pr-4">{faq.question}</span>
-              <span className="flex-shrink-0 text-stone-400 group-open:rotate-180 transition-transform">
-                <svg
-                  className="w-5 h-5"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M19 9l-7 7-7-7"
-                  />
-                </svg>
-              </span>
-            </summary>
-            <div className="px-6 pb-6 text-stone-600">
-              <p>{faq.answer}</p>
-            </div>
-          </details>
-        ))}
-      </section>
+        {/* FAQs */}
+        <div className="space-y-10">
+          {faqs.map((faq, index) => (
+            <article key={index} className="pb-10 border-b border-[#e5e5e5]">
+              <h2 className="font-display text-lg mb-4">{faq.question}</h2>
+              <p className="font-serif-body text-[#374151] leading-relaxed">
+                {faq.answer}
+              </p>
+            </article>
+          ))}
+        </div>
 
-      <section className="rounded-lg bg-stone-100 p-6">
-        <h2 className="font-semibold mb-2">Still have questions?</h2>
-        <p className="text-sm text-stone-600">
-          If your question isn't answered here, check our{" "}
-          <a href="/methodology" className="text-red-600 hover:underline">
-            Methodology
-          </a>{" "}
-          page for more detail on how we work, or our{" "}
-          <a href="/responses" className="text-red-600 hover:underline">
-            Responses
-          </a>{" "}
-          section for answers to specific inquiries we've received.
-        </p>
-      </section>
+        {/* Navigation */}
+        <nav className="mt-16 pt-10 border-t border-[#e5e5e5] flex justify-between">
+          <Link href="/methodology" className="text-[#6b7280] hover:text-[#8b0000] transition-colors">
+            ← Methodology
+          </Link>
+          <Link href="/evidence" className="text-[#6b7280] hover:text-[#8b0000] transition-colors">
+            Evidence →
+          </Link>
+        </nav>
+      </div>
     </div>
   );
 }
