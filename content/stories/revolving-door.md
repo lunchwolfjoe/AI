@@ -1,5 +1,5 @@
 ---
-title: "Who Governed the Bridge?"
+title: "The Governors"
 date: "2026-09-01"
 excerpt: "Texas built a public-private technology and investment system. Then some of the officials who knew it from the inside went to work around the companies using it."
 author: "Nick Plumb"

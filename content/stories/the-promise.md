@@ -1,5 +1,5 @@
 ---
-title: "Texas Built the Bridge. Now Show Us the Ledger."
+title: "The Promise"
 date: "2026-09-01"
 excerpt: "How Texas spent a decade courting an India-facing technology economy, built a multibillion-dollar contractor market, received repeated warnings about contracting controls — and still cannot publicly account for who performs much of the work taxpayers buy."
 author: "Nick Plumb"

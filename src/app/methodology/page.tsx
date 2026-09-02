@@ -5,9 +5,27 @@ export const metadata = {
   description: "How this investigation gathered, verified, and presented the evidence.",
 };
 
+const recordTypes = [
+  { record: "DIR Contract", proves: "Vendor eligibility to sell through this vehicle", notProves: "That any agency actually bought anything" },
+  { record: "Purchase Order", proves: "Authorization up to stated amount", notProves: "Final amount paid or who did the work" },
+  { record: "Payment Record", proves: "Money moved to the vendor", notProves: "Who performed the labor or where" },
+  { record: "LCA Filing", proves: "Employer filed visa paperwork", notProves: "Worker was approved, started, or performed a specific contract" },
+  { record: "Lobby Registration", proves: "Disclosed representation relationship", notProves: "Actual influence or that compensation was paid" },
+  { record: "Campaign Donation", proves: "Political support/access context", notProves: "Quid pro quo or purchased official action" },
+  { record: "FDI Announcement", proves: "Reported/announced investment intent", notProves: "Realized jobs, actual payroll, or causation" },
+  { record: "Corporate India Office", proves: "Company has delivery capability there", notProves: "Any Texas work was performed there" },
+];
+
 export default function MethodologyPage() {
   return (
     <div className="bg-white">
+      {/* Draft marker */}
+      <div className="bg-[#fef3c7] border-b border-[#f59e0b] text-center py-1.5">
+        <p className="text-xs font-medium text-[#92400e] tracking-wide">
+          DRAFT — NOT FOR DISTRIBUTION
+        </p>
+      </div>
+
       <div className="mx-auto max-w-3xl px-6 py-16">
         {/* Header */}
         <header className="mb-12">
@@ -51,59 +69,50 @@ export default function MethodologyPage() {
             I am deliberate about not over-interpreting evidence. Each record type 
             has a specific scope.
           </p>
+        </div>
 
-          <table>
+        {/* Mobile-friendly record types */}
+        <div className="mt-8 space-y-6 sm:hidden">
+          {recordTypes.map((row, i) => (
+            <div key={i} className="border border-[#e5e5e5] p-4">
+              <p className="font-semibold text-[#1a1a1a] mb-3">{row.record}</p>
+              <div className="space-y-2 text-sm">
+                <p>
+                  <span className="text-[#6b7280]">Proves:</span>{" "}
+                  <span className="text-[#374151]">{row.proves}</span>
+                </p>
+                <p>
+                  <span className="text-[#6b7280]">Does not prove:</span>{" "}
+                  <span className="text-[#374151] italic">{row.notProves}</span>
+                </p>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        {/* Desktop table */}
+        <div className="hidden sm:block mt-8 overflow-x-auto">
+          <table className="w-full text-sm">
             <thead>
-              <tr>
-                <th>Record</th>
-                <th>Proves</th>
-                <th>Does Not Prove</th>
+              <tr className="border-b-2 border-[#1a1a1a]">
+                <th className="py-3 pr-4 text-left font-semibold">Record</th>
+                <th className="py-3 px-4 text-left font-semibold">Proves</th>
+                <th className="py-3 pl-4 text-left font-semibold">Does Not Prove</th>
               </tr>
             </thead>
             <tbody>
-              <tr>
-                <td>DIR Contract</td>
-                <td>Vendor eligibility to sell through this vehicle</td>
-                <td>That any agency actually bought anything</td>
-              </tr>
-              <tr>
-                <td>Purchase Order</td>
-                <td>Authorization up to stated amount</td>
-                <td>Final amount paid or who did the work</td>
-              </tr>
-              <tr>
-                <td>Payment Record</td>
-                <td>Money moved to the vendor</td>
-                <td>Who performed the labor or where</td>
-              </tr>
-              <tr>
-                <td>LCA Filing</td>
-                <td>Employer filed visa paperwork</td>
-                <td>Worker was approved, started, or performed a specific contract</td>
-              </tr>
-              <tr>
-                <td>Lobby Registration</td>
-                <td>Disclosed representation relationship</td>
-                <td>Actual influence or that compensation was paid</td>
-              </tr>
-              <tr>
-                <td>Campaign Donation</td>
-                <td>Political support/access context</td>
-                <td>Quid pro quo or purchased official action</td>
-              </tr>
-              <tr>
-                <td>FDI Announcement</td>
-                <td>Reported/announced investment intent</td>
-                <td>Realized jobs, actual payroll, or causation</td>
-              </tr>
-              <tr>
-                <td>Corporate India Office</td>
-                <td>Company has delivery capability there</td>
-                <td>Any Texas work was performed there</td>
-              </tr>
+              {recordTypes.map((row, i) => (
+                <tr key={i} className="border-b border-[#e5e5e5]">
+                  <td className="py-3 pr-4 font-medium">{row.record}</td>
+                  <td className="py-3 px-4 text-[#374151]">{row.proves}</td>
+                  <td className="py-3 pl-4 text-[#6b7280] italic">{row.notProves}</td>
+                </tr>
+              ))}
             </tbody>
           </table>
+        </div>
 
+        <div className="prose-editorial mt-12">
           <h2>How I Connect Records</h2>
           <p>
             I join records across entities and time using verified identifiers — not 

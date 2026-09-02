@@ -1,5 +1,5 @@
 ---
-title: "The Other End of the Bridge"
+title: "The Other End"
 date: "2026-09-01"
 excerpt: "Texas celebrated the relationship. Andhra Pradesh built machinery to capture the investment, operations and jobs."
 author: "Nick Plumb"

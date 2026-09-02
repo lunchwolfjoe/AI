@@ -6,7 +6,7 @@ const seriesParts = [
     numeral: "I",
     title: "The Promise",
     description: "How Texas spent a decade courting an India-facing technology economy and still cannot show who performs the work taxpayers buy.",
-    slug: "executive-findings",
+    slug: "the-promise",
   },
   {
     part: 2,
@@ -69,7 +69,7 @@ export default async function Home() {
           </p>
 
           <Link
-            href="/stories/executive-findings"
+            href="/stories/the-promise"
             className="inline-block border-2 border-[#1a1a1a] px-8 py-4 font-semibold hover:bg-[#1a1a1a] hover:text-white transition-colors"
           >
             Begin Reading
@@ -89,12 +89,51 @@ export default async function Home() {
         </div>
       </section>
 
-      {/* The Numbers */}
+      {/* The Numbers - responsive: cards on mobile, table on desktop */}
       <section className="mx-auto max-w-4xl px-6 py-20">
         <p className="label-caps text-[#8b0000] mb-4">The Governor's Own Data</p>
         <h2 className="font-display text-3xl mb-10">Texas-India Bilateral Investment, 2015–2024</h2>
 
-        <div className="overflow-x-auto">
+        {/* Mobile: Stacked cards */}
+        <div className="sm:hidden space-y-6">
+          <div className="border border-[#e5e5e5] p-6">
+            <p className="label-caps text-[#6b7280] mb-4">India → Texas</p>
+            <div className="space-y-3 font-serif-body">
+              <div className="flex justify-between">
+                <span>Projects</span>
+                <span className="font-semibold">74</span>
+              </div>
+              <div className="flex justify-between">
+                <span>Announced Capital</span>
+                <span className="font-semibold">$2.7B</span>
+              </div>
+              <div className="flex justify-between">
+                <span>Announced Jobs</span>
+                <span className="font-semibold">8,650+</span>
+              </div>
+            </div>
+          </div>
+          <div className="border-2 border-[#8b0000] p-6 bg-[#faf9f7]">
+            <p className="label-caps text-[#8b0000] mb-4">Texas → India</p>
+            <div className="space-y-3 font-serif-body">
+              <div className="flex justify-between">
+                <span>Projects</span>
+                <span className="font-semibold text-[#8b0000]">175</span>
+              </div>
+              <div className="flex justify-between">
+                <span>Announced Capital</span>
+                <span className="font-semibold text-[#8b0000]">$7.6B</span>
+              </div>
+              <div className="flex justify-between">
+                <span>Announced Jobs</span>
+                <span className="font-semibold text-[#8b0000]">59,300+</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Desktop: Table */}
+        <div className="hidden sm:block">
           <table className="w-full text-left border-collapse">
             <thead>
               <tr className="border-b-2 border-[#1a1a1a]">
@@ -127,42 +166,10 @@ export default async function Home() {
           Source: Governor's Economic Development & Tourism Office, Texas & India profile, July 2025.
         </p>
 
-        <div className="mt-12 p-8 bg-[#faf9f7] border-l-3 border-[#8b0000]" style={{ borderLeftWidth: '3px' }}>
+        <div className="mt-12 p-6 sm:p-8 bg-[#faf9f7] border-l-3 border-[#8b0000]" style={{ borderLeftWidth: '3px' }}>
           <p className="font-serif-body text-lg leading-relaxed">
             For every job announced coming to Texas, <strong className="text-[#8b0000]">nearly seven jobs</strong> were announced going to India — using the Governor's own figures.
           </p>
-        </div>
-      </section>
-
-      {/* The Series */}
-      <section className="border-t border-[#e5e5e5]">
-        <div className="mx-auto max-w-4xl px-6 py-20">
-          <p className="label-caps text-[#8b0000] mb-4">The Investigation</p>
-          <h2 className="font-display text-3xl mb-12">Six Parts</h2>
-
-          <div className="space-y-0 border-t border-[#e5e5e5]">
-            {seriesParts.map((part) => (
-              <Link
-                key={part.part}
-                href={`/stories/${part.slug}`}
-                className="group block border-b border-[#e5e5e5] py-8 hover:bg-[#faf9f7] transition-colors -mx-6 px-6"
-              >
-                <div className="flex items-start gap-8">
-                  <span className="font-display text-4xl text-[#d1d5db] group-hover:text-[#8b0000] transition-colors w-16 flex-shrink-0">
-                    {part.numeral}
-                  </span>
-                  <div className="flex-1">
-                    <h3 className="font-display text-xl mb-2 group-hover:text-[#8b0000] transition-colors">
-                      {part.title}
-                    </h3>
-                    <p className="font-serif-body text-[#6b7280] leading-relaxed">
-                      {part.description}
-                    </p>
-                  </div>
-                </div>
-              </Link>
-            ))}
-          </div>
         </div>
       </section>
 
@@ -181,21 +188,52 @@ export default async function Home() {
         </div>
       </section>
 
-      {/* Resources */}
+      {/* The Series */}
       <section className="border-t border-[#e5e5e5]">
         <div className="mx-auto max-w-4xl px-6 py-20">
-          <div className="grid sm:grid-cols-3 gap-8">
-            <Link href="/evidence" className="group block p-6 border border-[#e5e5e5] hover:border-[#8b0000] transition-colors">
-              <p className="label-caps text-[#6b7280] mb-2">Primary Sources</p>
-              <p className="font-display text-lg group-hover:text-[#8b0000] transition-colors">Evidence</p>
+          <p className="label-caps text-[#8b0000] mb-4">The Investigation</p>
+          <h2 className="font-display text-3xl mb-12">Contents</h2>
+
+          <div className="space-y-0 border-t border-[#e5e5e5]">
+            {seriesParts.map((part) => (
+              <Link
+                key={part.part}
+                href={`/stories/${part.slug}`}
+                className="group block border-b border-[#e5e5e5] py-8 hover:bg-[#faf9f7] transition-colors -mx-6 px-6"
+              >
+                <div className="flex items-start gap-6 sm:gap-8">
+                  <span className="font-display text-3xl sm:text-4xl text-[#d1d5db] group-hover:text-[#8b0000] transition-colors w-12 sm:w-16 flex-shrink-0">
+                    {part.numeral}
+                  </span>
+                  <div className="flex-1">
+                    <h3 className="font-display text-xl mb-2 group-hover:text-[#8b0000] transition-colors">
+                      {part.title}
+                    </h3>
+                    <p className="font-serif-body text-[#6b7280] leading-relaxed">
+                      {part.description}
+                    </p>
+                  </div>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Resources - compact row */}
+      <section className="border-t border-[#e5e5e5] bg-[#faf9f7]">
+        <div className="mx-auto max-w-4xl px-6 py-10">
+          <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-3 text-sm">
+            <Link href="/evidence" className="text-[#374151] hover:text-[#8b0000] transition-colors">
+              Evidence
             </Link>
-            <Link href="/methodology" className="group block p-6 border border-[#e5e5e5] hover:border-[#8b0000] transition-colors">
-              <p className="label-caps text-[#6b7280] mb-2">How I Verified</p>
-              <p className="font-display text-lg group-hover:text-[#8b0000] transition-colors">Methodology</p>
+            <span className="text-[#d1d5db]">·</span>
+            <Link href="/methodology" className="text-[#374151] hover:text-[#8b0000] transition-colors">
+              Methodology
             </Link>
-            <Link href="/responses" className="group block p-6 border border-[#e5e5e5] hover:border-[#8b0000] transition-colors">
-              <p className="label-caps text-[#6b7280] mb-2">Official Replies</p>
-              <p className="font-display text-lg group-hover:text-[#8b0000] transition-colors">Responses</p>
+            <span className="text-[#d1d5db]">·</span>
+            <Link href="/responses" className="text-[#374151] hover:text-[#8b0000] transition-colors">
+              Responses
             </Link>
           </div>
         </div>

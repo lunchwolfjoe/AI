@@ -149,6 +149,13 @@ const evidenceSections: EvidenceSection[] = [
 export default function EvidencePage() {
   return (
     <div className="bg-white">
+      {/* Draft marker */}
+      <div className="bg-[#fef3c7] border-b border-[#f59e0b] text-center py-1.5">
+        <p className="text-xs font-medium text-[#92400e] tracking-wide">
+          DRAFT — NOT FOR DISTRIBUTION
+        </p>
+      </div>
+
       <div className="mx-auto max-w-3xl px-6 py-16">
         {/* Header */}
         <header className="mb-12">

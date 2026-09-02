@@ -1,4 +1,4 @@
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import Link from "next/link";
 import { getStory, getAllStorySlugs, getStories } from "@/lib/stories";
 
@@ -19,19 +19,20 @@ export async function generateMetadata({ params }: PageProps) {
     return { title: "Story Not Found" };
   }
 
+  const info = partInfo[story.part || 1];
   return {
-    title: `${story.title} | TEXANS FIRST*`,
+    title: `${info?.title || story.title} | TEXANS FIRST*`,
     description: story.excerpt,
   };
 }
 
-const partInfo: Record<number, { numeral: string; title: string }> = {
-  1: { numeral: "I", title: "The Promise" },
-  2: { numeral: "II", title: "The Connector" },
-  3: { numeral: "III", title: "The Other End" },
-  4: { numeral: "IV", title: "The Governors" },
-  5: { numeral: "V", title: "The Network" },
-  6: { numeral: "VI", title: "The Ledger" },
+const partInfo: Record<number, { numeral: string; title: string; slug: string }> = {
+  1: { numeral: "I", title: "The Promise", slug: "the-promise" },
+  2: { numeral: "II", title: "The Connector", slug: "the-connector" },
+  3: { numeral: "III", title: "The Other End", slug: "andhra-apparatus" },
+  4: { numeral: "IV", title: "The Governors", slug: "revolving-door" },
+  5: { numeral: "V", title: "The Network", slug: "itserve-alliance" },
+  6: { numeral: "VI", title: "The Ledger", slug: "the-ledger" },
 };
 
 export default async function StoryPage({ params }: PageProps) {
@@ -43,7 +44,7 @@ export default async function StoryPage({ params }: PageProps) {
     notFound();
   }
 
-  const info = partInfo[story.part || 1] || { numeral: "", title: "" };
+  const info = partInfo[story.part || 1] || { numeral: "", title: "", slug: "" };
 
   const sortedStories = allStories
     .filter(s => s.part)
@@ -55,8 +56,15 @@ export default async function StoryPage({ params }: PageProps) {
 
   return (
     <article className="bg-white">
+      {/* Draft marker */}
+      <div className="bg-[#fef3c7] border-b border-[#f59e0b] text-center py-1.5">
+        <p className="text-xs font-medium text-[#92400e] tracking-wide">
+          DRAFT — NOT FOR DISTRIBUTION
+        </p>
+      </div>
+
       {/* Header */}
-      <header className="mx-auto max-w-3xl px-6 pt-16 pb-10">
+      <header className="mx-auto max-w-3xl px-6 pt-12 pb-10">
         {/* Series label */}
         <div className="flex items-center gap-3 mb-8">
           <span className="label-caps text-[#8b0000]">
@@ -70,7 +78,7 @@ export default async function StoryPage({ params }: PageProps) {
 
         {/* Title */}
         <h1 className="font-display text-4xl sm:text-5xl leading-[1.1] mb-6">
-          {story.title}
+          {info.title}
         </h1>
 
         {/* Excerpt */}
@@ -154,22 +162,21 @@ export default async function StoryPage({ params }: PageProps) {
         <div className="mx-auto max-w-3xl px-6 py-12">
           <p className="label-caps text-[#6b7280] mb-6">The Complete Series</p>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-            {sortedStories.map((s) => {
-              const sInfo = partInfo[s.part || 1];
-              const isCurrent = s.slug === slug;
+            {Object.entries(partInfo).map(([partNum, sInfo]) => {
+              const isCurrent = sInfo.slug === slug;
               return (
                 <Link
-                  key={s.slug}
-                  href={`/stories/${s.slug}`}
+                  key={partNum}
+                  href={`/stories/${sInfo.slug}`}
                   className={`block p-4 border transition-colors ${
                     isCurrent 
                       ? 'border-[#8b0000] bg-[#faf9f7]' 
                       : 'border-[#e5e5e5] hover:border-[#8b0000]'
                   }`}
                 >
-                  <p className="label-caps text-[#9ca3af] mb-1">Part {sInfo?.numeral}</p>
+                  <p className="label-caps text-[#9ca3af] mb-1">Part {sInfo.numeral}</p>
                   <p className={`font-medium ${isCurrent ? 'text-[#8b0000]' : ''}`}>
-                    {sInfo?.title}
+                    {sInfo.title}
                   </p>
                 </Link>
               );
