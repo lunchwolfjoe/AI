@@ -39,8 +39,15 @@ const seriesParts = [
   {
     part: 6,
     numeral: "VI",
+    title: "The Access Layer",
+    description: "The organizations were separate. The relationships were reusable.",
+    slug: "the-access-layer",
+  },
+  {
+    part: 7,
+    numeral: "VII",
     title: "The Ledger",
-    description: "Texas promised taxpayer-funded jobs to Texans. Its contractor system still cannot show who performs the work.",
+    description: "Texas can count the contract. It still cannot consistently show who performed the work.",
     slug: "the-ledger",
   },
 ];
@@ -51,7 +58,7 @@ export default async function Home() {
       {/* Hero */}
       <section className="mx-auto max-w-4xl px-6 pt-20 pb-16">
         <div className="max-w-2xl">
-          <p className="label-caps text-[#8b0000] mb-6">An Investigation in Six Parts</p>
+          <p className="label-caps text-[#8b0000] mb-6">An Investigation in Seven Parts</p>
           
           <h1 className="font-display text-6xl sm:text-7xl leading-[0.95] mb-8">
             Texans<br />First<span className="text-[#8b0000]">*</span>

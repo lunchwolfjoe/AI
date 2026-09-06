@@ -1,7 +1,7 @@
 ---
 title: "The Network"
-date: "2026-09-01"
-excerpt: "How ITServe turned a fragmented technology-consulting industry into an organized political, legal and economic-development network."
+date: "2026-09-06"
+excerpt: "Educate. Lobby. Litigate. How a fragmented technology-consulting industry learned to act collectively — and why Texas still sees the firms as vendors while they see themselves as a network."
 author: "Nick Plumb"
 authorHandle: "@plumbnick"
 part: 5
@@ -13,9 +13,7 @@ ITServe Alliance has used a remarkably efficient description of what it does.
 
 **Educate. Lobby. Litigate.**
 
-Those three verbs are more useful than any label outsiders might impose on the organization.
-
-They describe an industry that learned how to act collectively.
+Those three verbs are more useful than any label outsiders might impose on the organization. They describe an industry that learned how to act collectively.
 
 Technology consulting and staffing is structurally fragmented. Thousands of firms recruit workers, supply consultants, subcontract through larger vendors, compete for clients and navigate an immigration system in which a change in federal policy can alter the economics of the entire business model.
 
@@ -45,7 +43,7 @@ Temporary skilled-worker programs, particularly H-1B, became important to parts 
 
 **That statement requires precision.**
 
-An ITServe member is not necessarily an H-1B-dependent employer. An H-1B-dependent company does not employ only H-1B workers. A Labor Condition Application is not a visa approval, and it does not prove that a worker performed a particular government contract.
+An ITServe member is not necessarily an H-1B-dependent employer. An H-1B-dependent company does not employ only H-1B workers. A Labor Condition Application is not a visa approval. An LCA does not prove that a worker performed a particular government contract, and it does not by itself establish that a named filing corresponds to a specific public purchase order.
 
 But federal records and ITServe's own advocacy history make the broader relationship undeniable: high-skilled immigration policy is economically important to a substantial portion of the constituency ITServe represents.
 
@@ -117,6 +115,16 @@ This was no longer merely a networking club for technology entrepreneurs.
 
 **That is institutional power.**
 
+The association fought for the model itself. Third-party placement was not treated as an accidental feature of the H-1B consulting market. The industry defended it as a core feature of legitimate consulting. When federal agencies imposed policies that threatened the model, ITServe argued that the government had exceeded its authority and imposed unlawful burdens. Courts and federal settlements gave the industry significant relief.
+
+Those legal victories should be described accurately, not as evidence of wrongdoing.
+
+**They demonstrate that the consulting model had organized defenders capable of shaping the rules under which it operated.**
+
+Texas had no comparable public institution whose job was to ask a different question:
+
+**When the customer is the taxpayer, where did the work actually occur?**
+
 ## Texas was not incidental
 
 ITServe's Texas footprint makes the organization directly relevant to this investigation.
@@ -161,11 +169,15 @@ It shows political organization at the level of people who otherwise appear in g
 
 The same commercial community could participate in immigration advocacy, association leadership, political events, campaign contributions and public contracting without any one database showing the whole network.
 
+That is not a conspiracy chart.
+
+**It is a political-organization pattern.**
+
 ## The public-contracting overlap
 
 The Texas technology market is where this becomes more than a campaign-finance story.
 
-Texas buys enormous amounts of technology through private vendors. DIR's ITSAC program supplies individual technology workers. DBITS and other cooperative vehicles supply broader technology services.
+Texas buys enormous amounts of technology through private vendors. The Department of Information Resources' ITSAC program supplies individual technology workers. DBITS and other cooperative vehicles supply broader technology services.
 
 **The investigation's working vendor census has found ITServe-linked companies inside those markets.**
 
@@ -211,7 +223,7 @@ In Andhra: offices, incentives, workers and delivery capacity.
 
 **They can be complementary.**
 
-That is precisely why a state economic policy centered on 'Texas jobs' needs more than company-level accounting.
+That is precisely why a state economic policy centered on "Texas jobs" needs more than company-level accounting.
 
 ## A company can be local and global at once
 
@@ -230,26 +242,6 @@ This is where the ITServe story joins the first story in this series.
 **The issue is not that a global company is global.**
 
 **The issue is that Texas political leaders make geographically specific promises about jobs while the state's contracting records remain primarily corporate.**
-
-## The association fought for the model
-
-ITServe's litigation history also clarifies a point often obscured in immigration debate.
-
-**Third-party placement was not an accidental feature of the H-1B consulting market.**
-
-**The industry defended it as a core feature of legitimate consulting.**
-
-When federal agencies imposed policies that threatened the model, ITServe argued that the government had exceeded its authority and imposed unlawful burdens.
-
-Courts and federal settlements gave the industry significant relief.
-
-Those legal victories should be described accurately, not as evidence of wrongdoing.
-
-**They demonstrate that the consulting model had organized defenders capable of shaping the rules under which it operated.**
-
-Texas had no comparable public institution whose job was to ask a different question:
-
-**When the customer is the taxpayer, where did the work actually occur?**
 
 ## The missing denominator
 
@@ -272,6 +264,32 @@ For that reason, this story does not publish a single sensational percentage and
 **Texas has never built the denominator itself.**
 
 If the Governor wants to know what share of taxpayer-funded technology labor is performed by Texans, temporary-visa workers, out-of-state workers or workers outside the United States, the state should not need an investigative project to reconstruct it.
+
+## ITServe was not politically isolated
+
+ITServe's political story is sometimes told as if the association invented its access from scratch.
+
+**The public record is more interesting than that.**
+
+In a Form 990 filing reviewed for this investigation, ITServe itself recorded a blunt note about earlier political work: **"WE USED REPUBLICAN HINDU COALITION BACK IN 2018 AND DISCONTINUED."**
+
+That sentence does not prove ongoing control, joint strategy or identity between the organizations. Categories matter. A 501(c)(6) trade association is not a 501(c)(3) charity, a 501(c)(4) social-welfare organization or a political-action committee. Separate filings, separate rules and separate legal identities are not a loophole. They are the architecture of American nonprofit and political law.
+
+But the sentence does show something the official slogan alone does not.
+
+**ITServe knew how to borrow political infrastructure when it was useful — and how to stop when it was not.**
+
+The Republican Hindu Coalition, founded by Shalabh Kumar and launched in 2015 with Republican officials present, including then-Congressman Pete Sessions, was built to organize Hindu-American political participation on the Republican side of American politics. Sessions' later appearances in other community arenas are their own story. The point here is narrower: an ITServe filing placed the association in the same political ecosystem, then documented that the arrangement ended.
+
+Other relationships show the same pattern of overlapping civic and service networks without collapsing into a single command structure. Sewa International's COVID-era partnerships placed a diaspora service organization beside mainstream public health and community-response work. Public biographies of ITServe-linked executives, including Kris Gadde, describe Sewa support and service activity. Those facts establish social proximity and organizational fluency.
+
+**They do not establish that Sewa directed ITServe, that ITServe directed Sewa, or that either organization controlled Texas procurement decisions.**
+
+The useful conclusion is simpler.
+
+**ITServe was never only a trade association talking to itself.**
+
+It operated inside a wider set of political, civic and service relationships that could be activated, discontinued, celebrated or left unspoken depending on the venue. A Texas agency meeting an ITServe member as a vendor would not necessarily see that wider map. An executive moving among association events, campaign seasons, charitable partnerships and client sales would experience something closer to one network.
 
 ## What organized industries understand
 
@@ -309,7 +327,7 @@ Abbott's 2026 H-1B directive finally imposed a worker-centered political princip
 
 But the state's procurement system had been built around vendors, contracts, categories, rates and deliverables.
 
-**That mismatch is the heart of the final story in this series.**
+**That mismatch is the heart of the later stories in this series.**
 
 ITServe did not create it.
 
@@ -358,3 +376,11 @@ Government continued to see them as vendors.
 By the time Abbott announced that taxpayer-funded opportunities should go to Texans first, one side of the market had spent years organizing around the rules governing labor.
 
 **Texas was still trying to determine who the workers were.**
+
+### Primary sources
+
+- ITServe Alliance public materials and advocacy history
+- Texas Ethics Commission campaign-finance filings (February 2022 contribution cluster)
+- DIR ITSAC / DBITS contract architecture
+- Contemporaneous 2016 Andhra Pradesh–ITServe recruitment reporting
+- IRS Form 990 language regarding Republican Hindu Coalition use and discontinuation

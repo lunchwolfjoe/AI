@@ -1,10 +1,10 @@
 ---
 title: "The Ledger"
-date: "2026-09-01"
-excerpt: "TEXANS FIRST*: Terms and Conditions May Apply — Texas promised taxpayer-funded jobs to Texans. Its contractor system still cannot publicly show who performs much of the work."
+date: "2026-09-06"
+excerpt: "TEXANS FIRST*: Terms and Conditions May Apply — Texas can count the contract. It still cannot consistently show who performed the work."
 author: "Nick Plumb"
 authorHandle: "@plumbnick"
-part: 6
+part: 7
 ---
 
 ## The promise
@@ -147,7 +147,7 @@ Abbott's rhetoric crossed the boundary: taxpayer-funded opportunities should be 
 
 There is a useful comparison inside the very same ITSAC system.
 
-In 2026, DIR contract pages show amendments tied to Abbott's separate foreign-adversary policy across current staffing contracts.
+In 2026, DIR contract pages show amendments tied to Abbott's separate foreign-adversary policy — often discussed under the GA-48 lineage — across current staffing contracts.
 
 Those restrictions concern companies connected to designated foreign-adversary countries. India is not one of the countries targeted by that policy, and the amendment has nothing to do with H-1B visas.
 
@@ -208,6 +208,24 @@ Andhra built public machinery explicitly designed to attract investment, offshor
 **Then, after a decade of building the bridge, Abbott announced that taxpayer-funded employment should belong to Texans.**
 
 **Texas still lacked a public ledger capable of showing what that meant across the contractor workforce.**
+
+## The missing ledger is larger than labor
+
+Parts Two through Six of this series make a second gap impossible to ignore.
+
+Texas does not merely lack a labor ledger for taxpayer-funded technology work.
+
+**It lacks a relationship ledger for the people and organizations who move among economic development, appointments, contracting, diaspora institutions and political access.**
+
+The connector experiences one network. The public receives six filing cabinets. A planning commissioner, advisory-council member, trade-association executive, PAC treasurer, campaign donor and vendor contact may be the same person — or adjacent people in the same reusable map — without any statewide system publishing the overlaps in one place.
+
+**A Texans-first accounting that counts only visas on the state payroll while ignoring both contractor labor and reusable relationships will miss the architecture that made the politics possible.**
+
+Texas needs both ledgers.
+
+The labor ledger answers who performed the work.
+
+The relationship ledger answers who could reach the rooms where the work was defined, bought, celebrated or excused.
 
 ## The question is answerable
 
@@ -291,3 +309,11 @@ Until then, Texans First comes with terms and conditions.
 And the most important condition is the one Texas still cannot consistently demonstrate in public:
 
 **Who actually performed the work?**
+
+### Primary sources
+
+- Abbott H-1B directive, January 27, 2026
+- DIR ITSAC solicitations, templates and GA-48 / foreign-adversary contract amendments
+- TWC Business Analyst 2 purchase order and payment records (Digerati Systems)
+- State Auditor's Office contracting reports (2016; April 2025; June 2026) and DIR-related audits / Sunset review
+- Governor's Economic Development & Tourism Office Texas–India profile (July 2025)

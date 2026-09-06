@@ -32,7 +32,8 @@ const partInfo: Record<number, { numeral: string; title: string; slug: string }>
   3: { numeral: "III", title: "The Other End", slug: "andhra-apparatus" },
   4: { numeral: "IV", title: "The Governors", slug: "revolving-door" },
   5: { numeral: "V", title: "The Network", slug: "itserve-alliance" },
-  6: { numeral: "VI", title: "The Ledger", slug: "the-ledger" },
+  6: { numeral: "VI", title: "The Access Layer", slug: "the-access-layer" },
+  7: { numeral: "VII", title: "The Ledger", slug: "the-ledger" },
 };
 
 export default async function StoryPage({ params }: PageProps) {
