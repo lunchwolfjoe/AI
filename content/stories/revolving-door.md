@@ -1,6 +1,6 @@
 ---
-title: "The Governors"
-date: "2026-09-01"
+title: "The Revolving Door"
+date: "2026-09-06"
 excerpt: "Texas built a public-private technology and investment system. Then some of the officials who knew it from the inside went to work around the companies using it."
 author: "Nick Plumb"
 authorHandle: "@plumbnick"
@@ -33,6 +33,8 @@ Jerry Strickland shows how long political proximity can become private governmen
 
 Together, they expose a governance problem Texas has never adequately solved: the state can disclose a lobbying registration, a board appointment and a contract in three different systems while never giving the public a single view of the relationship among them.
 
+The bridge had governors in the ordinary sense: elected officials who set policy and celebrated missions. It also had governors in the systems sense: people who knew how appointments, procurement vehicles, economic-development partnerships and lobbying channels actually worked. Some of those people later sold that knowledge.
+
 ## David Whitley knew the machinery
 
 David Whitley's résumé reads like an instruction manual for Texas executive government.
@@ -53,6 +55,8 @@ Whitley also traveled on Abbott's 2018 India mission, placing him directly insid
 
 **He was a former senior executive-branch operator with direct knowledge of appointments, the Governor's Office, statewide institutions and Texas's India-facing economic-development network.**
 
+That combination is the product Texas's revolving door is designed to sell. Not a generic acquaintance with "government." Specific familiarity with the institutions that recruit companies, appoint board members, manage statewide visibility and later buy technology services.
+
 ## By 2020, that knowledge was for sale
 
 Texas Ethics Commission records establish that by 2020 Whitley was registered through Gregory Strategies to represent private clients before Texas government.
@@ -66,6 +70,12 @@ Three names are particularly important to this investigation.
 **Nextt Affiliated.**
 
 The dates correct an important misconception that appeared in earlier reporting notes. Whitley's relationship with Accenture did not begin in 2023. The Texas Ethics Commission's 2020 lobby roster lists Accenture as a prospective client beginning June 26, 2020. The same roster lists Nextt Affiliated beginning June 26 and Wipro beginning February 8.
+
+| Client (2020 TEC roster) | Registration begins | Why the date matters |
+|--------------------------|---------------------|----------------------|
+| Wipro | Feb. 8, 2020 | Follows Abbott's 2018 Wipro recruitment and Plano announcement |
+| Accenture | June 26, 2020 | Corrects the misconception that Accenture began in 2023 |
+| Nextt Affiliated | June 26, 2020 | Comes after Dallas's April 2020 Nextt PPE authorization |
 
 Those registrations do not prove Whitley influenced a particular contract. A lobbying registration identifies a client relationship; it does not identify every meeting, communication or result.
 
@@ -103,6 +113,8 @@ The public is then expected to prove a specific act of favoritism before asking 
 
 Conflict rules are supposed to make the public confident before misconduct occurs, not merely provide evidence after it.
 
+Whitley's client book is therefore best read as a map of adjacency rather than a verdict. The map shows that recruitment, private consulting and India-facing corporate relationships occupied the same neighborhood of Texas public life. A verdict would require transaction-level proof this investigation has not claimed.
+
 ## John Scott occupied an even more technical position
 
 John B. Scott's career presents a different version of the same problem.
@@ -135,6 +147,8 @@ A former DIR chairman who helped shape executive-branch technology strategy late
 
 **It is a fact pattern that should trigger transparent, searchable disclosure.**
 
+Scott's path also shows how technical power and political power can travel together. DIR chairmanship is about procurement architecture. Secretary of state and interim attorney general roles are about statewide executive authority. Private representation of Deloitte sits downstream of both. The public should not need a specialist's memory to reconstruct that sequence.
+
 ## The state knew revolving doors were a governance problem
 
 Texas law already recognizes the underlying risk.
@@ -154,6 +168,8 @@ Almost nothing in that chain is connected for the public.
 **Opacity can be produced without secrecy.**
 
 Sometimes all it requires is making every institution disclose its own small piece.
+
+The same fragmentation appears around Whitley. Mission releases live on the Governor's website. Lobbying rosters live at the Ethics Commission. PPE authorizations live in Dallas procurement files. TxEDC roles live in appointment announcements and nonprofit filings. Each disclosure can be accurate. The system still fails if the public cannot see the relationships as relationships.
 
 ## Ruth Hughs shows the economic-development side
 
@@ -178,6 +194,8 @@ Texas's disclosure system overwhelmingly protects the first proposition while do
 When a senior official leaves, the public loses an institutional operator. The private market gains one.
 
 **A serious revolving-door regime should make the transfer visible enough to evaluate.**
+
+Hughs also helps keep the series from collapsing into a story only about technology lobbyists. The workforce, appointments and secretary-of-state complex is itself part of the bridge's governing knowledge. People who understand how Texas talks to employers, manages boards and represents the state externally leave with a portable map of the system. Whether they later appear on a particular vendor's lobby roster is a secondary question. The primary question is whether Texas tracks the transfer of that map at all.
 
 ## Jerry Strickland represents political continuity
 
@@ -205,6 +223,8 @@ A company whose business model intersects with temporary skilled labor, global d
 
 **It is also exactly why the public needs a better map.**
 
+Cognizant's federal and Texas footprints belong in the same investigation for a different reason than a simple smear. They show a company operating across the same policy surface Abbott later addressed with a Texans-first directive: temporary skilled labor, U.S.-India commercial ties and technology workforce questions. Strickland's Texas registration does not prove he handled those federal issues. It does prove that Cognizant considered long Abbott proximity valuable enough to buy in Texas.
+
 ## The corporate side built its own government expertise
 
 The revolving door does not move only from Texas government outward.
@@ -231,6 +251,8 @@ The companies Texas recruits and buys from do not approach government as passive
 
 **Texas should govern the relationship with comparable sophistication.**
 
+Bjorkman's path — congressional India portfolio, TCS government affairs, Cognizant U.S. government affairs, appearance in 2024 mission materials — is the corporate mirror of the Whitley/Scott pattern. Knowledge of the bridge accumulates. Employers of that knowledge change. The public still receives the relationship in disconnected pieces.
+
 ## The warning lights were already on
 
 This revolving-door structure would be less consequential if Texas's procurement oversight were unusually strong.
@@ -249,11 +271,21 @@ In April 2025, the State Auditor found that nine of Texas's 25 largest agencies 
 
 **By June 2026, that number had risen to 13 of 25, or 52 percent.**
 
+| Oversight signal | What it showed | What it did not show |
+|------------------|----------------|----------------------|
+| 2016 SAO report | Contractor-management and E-Verify verification weaknesses | An H-1B census or visa scandal |
+| 2021 SAO DIR audit | High-risk weaknesses in vendor scoring and transparency | That foreign vendors uniquely caused the findings |
+| Sunset review | Improvements plus remaining IT procurement and pricing gaps | A clean bill of health for staffing programs |
+| April 2025 SAO | 9 of 25 largest agencies needed added monitoring | Cause attributed to India-facing contractors |
+| June 2026 SAO | 13 of 25, or 52 percent | Proof that revolving-door lobbying produced the risk |
+
 Those are general contracting-risk assessments, not findings that foreign labor or technology vendors caused the problems.
 
 **But they destroy the comforting assumption that Texas entered the current debate with a mature contracting system that merely needed a new immigration rule.**
 
 **The state was still struggling with basic contract governance.**
+
+A revolving door into a weak contracting environment is more consequential than a revolving door into a tightly monitored one. Texas had both intermediaries with deep institutional knowledge and audit findings showing that monitoring, scoring and compliance remained incomplete.
 
 ## Then Abbott changed the rule for one channel
 
@@ -280,6 +312,8 @@ That qualification matters.
 Abbott changed the rule for the channel government could see most easily.
 
 **The contractor channel remained governed by procurement architecture built long before the directive.**
+
+That is why the revolving-door story and the Texans-first directive belong together. Former officials who understand DIR vehicles, agency staffing practices and political decision-making know where the visible channel ends and the contractor channel begins. The public, reading only the January 2026 letter, can easily miss the difference.
 
 ## This is why the intermediaries matter
 
@@ -311,6 +345,8 @@ A corporate government-affairs executive understands the company's policy exposu
 
 **It gets a website.**
 
+The website may be accurate. Accuracy without integration is still a governance failure when the system's value depends on relationships that cross institutions.
+
 ## Texas needs a relationship ledger
 
 The reform implied by these records is surprisingly modest.
@@ -328,6 +364,8 @@ For public-private economic-development organizations, it should additionally sh
 **That is the point.**
 
 A disclosure system should not treat a relationship as shameful. It should treat it as material.
+
+Such a ledger would not ban Whitley from representing Wipro, Scott from representing Deloitte, Strickland from representing Cognizant or Bjorkman from moving between TCS and Cognizant. It would make the sequence searchable before a journalist, competitor or citizen has to reconstruct it from five databases and a memory of who once chaired which board.
 
 ## Who governed the bridge?
 
@@ -378,3 +416,7 @@ Who sold to whom.
 Who bought.
 
 **And who, after leaving government, came back through another door.**
+
+## Primary sources and records
+
+Primary materials reviewed for this installment include Texas Ethics Commission lobby roster entries for David Whitley / Gregory Strategies clients Accenture, Wipro and Nextt Affiliated in 2020, including the June 26, 2020 Accenture and Nextt dates and the February 8, 2020 Wipro date; Dallas April 2020 Nextt PPE authorization timing; Abbott appointment and biography materials for John B. Scott's DIR chairmanship, secretary-of-state tenure and interim attorney general service; TEC prospective-client listings for Deloitte associated with Scott in 2024–2026; DIR/ITSAC materials identifying Deloitte's 2025 staffing vehicle participation; public records of Ruth Ruggero Hughs's TWC chair and secretary-of-state service; Abbott's 2015 description of Jerry Strickland's long advisory relationship dating to 2003; TEC Cognizant registrations for Strickland in 2024–2025; Cognizant federal lobbying disclosures on H-1B and related issues, kept distinct from Texas representation; Neil Bjorkman biographical and federal disclosure materials spanning TCS and Cognizant, plus 2024 mission-associated materials; State Auditor's Office reports from 2016 and 2021, Sunset review findings, and the April 2025 and June 2026 large-agency contract-monitoring tallies (9/25 and 13/25); Abbott's January 27, 2026 H-1B directive; and HHSC/vendor candidate materials reflecting Texas-residence and "No H1B" language with the recruiter-origin caveat preserved.

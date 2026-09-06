@@ -1,6 +1,6 @@
 ---
-title: "The Other End"
-date: "2026-09-01"
+title: "The Andhra Apparatus"
+date: "2026-09-06"
 excerpt: "Texas celebrated the relationship. Andhra Pradesh built machinery to capture the investment, operations and jobs."
 author: "Nick Plumb"
 authorHandle: "@plumbnick"
@@ -31,6 +31,8 @@ It is economic development.
 
 **The question for Texans is why the strategy at the other end of the bridge was so much easier to see than the accounting at home.**
 
+Texas counted ribbon cuttings, mission releases and announced jobs. Andhra built an apparatus whose success metrics were operations, investment and employment captured inside its borders. Both sides can celebrate the same bilateral relationship. They are not counting the same thing.
+
 ## The institution had a name
 
 The Andhra Pradesh Non-Resident Telugu Society, or APNRTS, was established by the Government of Andhra Pradesh in 2016.
@@ -48,6 +50,10 @@ That phrase matters because 'offshore' is often treated in American political de
 Here it appears in the public description of a state economic-development function.
 
 **From Andhra's perspective, an offshore operation was not a scandal. It was a project to recruit.**
+
+The institutional design is therefore more revealing than any single memorandum. A nodal agency for overseas residents is also an investment facilitator. A migrant-service organization is also a pipeline for MSMEs and offshore delivery centers. The diaspora is not only a constituency. It is a channel.
+
+Texas officials meeting Indian executives and diaspora business leaders may experience those encounters as networking. Andhra's apparatus experiences them as intake.
 
 ## The diaspora was part of the machinery
 
@@ -73,6 +79,8 @@ It tells overseas Telugu investors to think of Andhra as **'Your Homeland. Your 
 
 The language is current and cannot simply be projected backward onto every decision in 2016. But it reveals the institutional purpose with unusual clarity: convert relationships abroad into operations at home.
 
+That conversion is the other end of the Texas story. When Abbott's office celebrates Indian investment in Texas, it is counting one direction of a two-way system. When Andhra builds coordinator rules, land pipelines and aftercare tracking, it is building capacity to capture the reverse direction: U.S.-linked firms opening Indian offices, delivery centers and headquarters-adjacent operations.
+
 ## Then came ITServe
 
 One of the most consequential joins in the record is ITServe Alliance.
@@ -97,6 +105,8 @@ Still, the policy direction is unmistakable.
 
 **A U.S.-based industry built around selling technology labor was being recruited by an Indian state whose objective was to create technology operations and jobs inside India.**
 
+That is not a moral judgment about either side. It is a description of opposing scoreboards. ITServe members sell labor capacity into American markets. Andhra wanted more of that capacity physically located — and officially employed — inside Andhra. The bridge between those goals is precisely the architecture Texas later celebrated as partnership without building an equally clear public labor ledger at home.
+
 ## The first offices were not hypothetical
 
 The relationship did not stop at ceremony.
@@ -116,6 +126,10 @@ The same pattern appears around other names associated with the Andhra cohort. I
 A company having offices in both places is not evidence that work moved from one to the other.
 
 **But it is exactly the kind of corporate architecture a serious labor-and-value ledger would need to account for.**
+
+If Texas wants to know who performs taxpayer-funded technology work, it cannot stop at the logo on a purchase order. It has to ask where the hours were authorized, which subcontractors performed them, and whether a dual-footprint company treated Indian delivery capacity as part of the same commercial system that sells into Texas.
+
+The Andhra record does not answer those questions for specific Texas assignments. It shows why the questions are not theoretical.
 
 ## Dallas Technology Centre made the relationship physical
 
@@ -139,6 +153,10 @@ The name is almost too perfect for the larger story.
 
 A technology center in Andhra Pradesh, organized around U.S.-linked firms, named for a Texas city that had become one of the principal American hubs of the same consulting and staffing economy.
 
+Dallas, in other words, was not only a place where Texas bought technology labor. It was also a brand useful enough that an Andhra land project could wear it while recruiting U.S.-linked firms to Visakhapatnam.
+
+That does not mean the City of Dallas sponsored the project or that Texas government directed it. The known record points to Andhra industrial-infrastructure and ITServe-era recruitment dynamics. The symbolic geography still matters. It shows how the commercial imagination of the bridge already ran through Texas place names.
+
 ## The building's second life matters
 
 Years later, Dallas Technology Centre reappeared in the record for a different reason.
@@ -161,6 +179,8 @@ The known record points instead to Andhra's own political and economic-developme
 
 The connection is institutional, not causal: the same Andhra strategy that recruited smaller U.S.-linked technology firms had created an asset that later could be repurposed to land a giant.
 
+This is how economic-development infrastructure works when it succeeds. Early tenants and land allotments create a physical option. Years later, a larger employer can occupy, expand or rebrand the option. The first story is about ITServe-linked firms and a Dallas-named center. The second story is about TCS and thousands of IT professionals. They are not the same story. They are sequential uses of the same receiving-end strategy.
+
 ## Then Andhra made the objective impossible to miss
 
 In April 2025, Andhra approved a separate deal for TCS.
@@ -181,6 +201,8 @@ Again, the point is not that India did something wrong by competing for jobs.
 
 **The point is that it competed deliberately.**
 
+Texas officials also compete deliberately when they recruit companies to Austin, Dallas, Plano or Houston. The difference is not ambition. It is the clarity of the receiving-end scoreboard. Andhra's land allotments, symbolic pricing, job targets and ministerial pitches leave little doubt what the state wanted to capture. Texas's bilateral celebration left far more doubt about what Texans were supposed to verify after the announcements.
+
 ## Texas's own numbers tell you who was winning what
 
 The asymmetry becomes more visible when the Andhra records are placed beside the Texas Governor's own bilateral investment profile.
@@ -189,15 +211,25 @@ For January 2015 through December 2024, Texas's Economic Development & Tourism O
 
 The same profile reports 175 projects by Texas companies in India, $7.6 billion in announced capital and more than 59,300 announced jobs.
 
+| 2015–2024 Reported FDI | India → Texas | Texas → India |
+|------------------------|---------------|---------------|
+| Projects | 74 | 175 |
+| Announced capital | $2.7B | $7.6B |
+| Announced jobs | 8,650+ | 59,300+ |
+
 Those figures are reported foreign-direct-investment estimates. They are not audited payroll, and they are not a measure of net social welfare.
 
 **They should not be described as 59,300 Texas jobs 'lost' to India. The data does not say that.**
+
+A Texas-headquartered company can expand in India using global capital, serve global clients and still retain significant Texas employment. Announced jobs are not verified jobs. Capital announcements are not cash leaving Texas bank accounts in a simple one-for-one transfer.
 
 But they do show that during the decade Texas spent marketing the relationship, the Texas-company-to-India side was much larger on the same metrics economic-development offices use to celebrate success.
 
 **And the Andhra records explain why that direction was not accidental.**
 
 **There was a government machinery trying to make it happen.**
+
+The Governor's profile and the Andhra apparatus therefore belong in the same frame. One side published the bilateral scoreboard. The other side built institutions to move projects onto its half of that scoreboard. Texas can still benefit from inbound Indian investment. It can still benefit from global companies choosing Texas campuses. Those benefits do not erase the asymmetry the state's own numbers report.
 
 ## This is economic development, viewed from the receiving end
 
@@ -214,6 +246,8 @@ A local executive who opens an Indian delivery center may experience that as a c
 The receiving government experiences it as a jobs program.
 
 **Both descriptions can be true at the same time.**
+
+That dual truth is uncomfortable in Texas politics because it complicates the simpler narrative in which foreign labor appears only as a visa category or a corporate betrayal. The Andhra materials treat overseas networks, U.S.-linked technology firms and Indian delivery capacity as parts of one development system. Texas, during the same years, treated India primarily as a recruitment destination and friendship narrative while leaving the contractor labor ledger incomplete at home.
 
 ## What the record still does not show
 
@@ -237,6 +271,8 @@ Andhra Pradesh built a public system whose success was defined partly by bringin
 
 Texas built a relationship with that economy while failing to build a comparable public accounting of what happened to labor and value inside its own contractor market.
 
+Those boundaries matter because the series is about governance, not guilt by association. A Telugu diaspora organization, an Indian state investment pitch and a Texas economic-development mission can all be lawful, rational and even beneficial. The accountability failure appears when Texas celebrates the relationship without the records necessary to tell the public what the relationship produced in labor geography, verified jobs and taxpayer-funded work.
+
 ## The public ledger Texas never built
 
 Imagine the records if Texas measured the relationship the way Andhra pursues it.
@@ -252,6 +288,8 @@ For every company operating on both sides of the bridge, Texas could distinguish
 **That would not stop trade.**
 
 **It would tell Texans what the trade produced.**
+
+The ledger does not require hostility to India, Andhra Pradesh, ITServe or any particular company. It requires the same seriousness about outcomes that Andhra already applies to capture. If offshore operations are an explicit recruitment category on one end of the bridge, work location and delivery geography should be an explicit disclosure category on the other.
 
 ## The other end kept score
 
@@ -280,3 +318,7 @@ And until Texas can show where the work, workers and value actually went, Texans
 **One side counted what it captured.**
 
 **Texas counted what it announced.**
+
+## Primary sources and records
+
+Primary materials reviewed for this installment include official Andhra government descriptions of APNRTS as a fully state-owned nodal agency and of its Investments Wing facilitating MSMEs and offshore operations; APNRTS coordinator rules and investment-portal materials, including the "Your Homeland. Your Next Headquarters" framing; contemporaneous reporting on ITServe Alliance memoranda involving roughly 50 member companies and described incentive packages; company-footprint reporting around Amzur, IntelliSoft, Kairos and related firms; Andhra Pradesh Industrial Infrastructure Corporation September 2015 land records for Dallas Technology Centre at IT non-SEZ Hill 2 (~7,900 square meters); contemporaneous accounts of the roughly ₹192-crore DTC plan and intended tenants; November 2024 industries-department reporting on DTC Rushikonda premises for TCS phase-one employment of about 2,000 IT professionals; April 2025 cabinet reporting on a separate TCS allotment of 21.16 acres for 99 paise, a ₹1,370-crore proposal and 12,000-plus jobs after Nara Lokesh's October 2024 pitch; Cognizant land-arrangement reporting from 2025; and the Texas Economic Development & Tourism Office bilateral FDI profile for 2015–2024.

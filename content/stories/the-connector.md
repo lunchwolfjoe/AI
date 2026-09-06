@@ -1,6 +1,6 @@
 ---
 title: "The Connector"
-date: "2026-09-01"
+date: "2026-09-06"
 excerpt: "Arun Agarwal is not the scandal. He is the design. Over the past decade, Texas repeatedly placed him where institutions touched — and the public records needed to audit that power remain scattered."
 author: "Nick Plumb"
 authorHandle: "@plumbnick"
@@ -29,6 +29,10 @@ The question is not whether that identity is legitimate. Of course it is.
 
 The question is why so much public and quasi-public authority was repeatedly concentrated in people whose principal value was their ability to connect private networks, political institutions and economic-development machinery — and what rules Texas built to govern the conflicts and dependencies that inevitably follow.
 
+Reusable access is not the same thing as a secret conspiracy. It is more ordinary than that, and therefore harder to see. A person accumulates introductions, appointments, board seats, mission roles and private retainers. Each credential makes the next one easier to obtain. Each institution treats the relationship as its own. The public, reading one filing at a time, never sees the network as a network.
+
+That is why Agarwal belongs near the center of this series. Not because he is uniquely culpable. Because he is unusually legible.
+
 ## The résumé is really a map
 
 Agarwal's public roles look eclectic until they are placed in sequence.
@@ -53,6 +57,19 @@ These roles are not proof of self-dealing. They are precisely why a public confl
 
 When the same person moves among economic development, parks, bond planning, private business, sports development, political fundraising and international recruitment, the public should not have to reconstruct the overlaps manually from meeting packets, appointments, company biographies and lobbying records.
 
+Viewed one at a time, each role can be defended. Viewed together, they form a map of how Texas and Dallas distribute informal authority: through trusted intermediaries who can speak the language of business, diaspora networks and government process at once.
+
+| Role / position | Approx. period in public record | Why it matters |
+|-----------------|----------------------------------|----------------|
+| Co-chair, Abbott India mission | 2018 | Places Agarwal inside state recruitment architecture |
+| Indian American CEO Council leadership | mid-2010s onward | Aggregates executive influence into a political-economic network |
+| TxEDC vice chair → chairman | vice chair by 2022; chairman Aug. 2024 | Moves from connector to formal private-side leadership |
+| Dallas Parks Board president | contemporaneous with TxEDC rise | Civic authority over facilities and park planning |
+| Community Bond Task Force chair | 2023; council briefing Dec. 6, 2023 | Shapes recommendations for a major capital package |
+| National Cricket League USA chair | overlapping civic period | Creates a disclosed conflict surface around facilities |
+
+The table is not an indictment. It is an inventory. Inventories are what disclosure systems are supposed to make unnecessary for journalists to assemble by hand.
+
 ## IACEO explains the model
 
 The Indian American CEO Council is one of the clearest windows into Agarwal's theory of influence because he described its purpose more candidly than most organizations describe themselves.
@@ -74,6 +91,10 @@ Texas had already spent years recruiting Indian technology companies. Then execu
 Again, the point is not that the recruits captured Texas.
 
 **It is that Texas deliberately built a model in which the line between the business community being recruited and the network doing the recruiting became thin by design.**
+
+That thinness is a feature of modern economic development. States want people who already know corporate decision-makers. Companies want people who already know governors, mayors and development officers. Diaspora business organizations want people who can translate between markets. The system selects for connectors.
+
+What it does not automatically select for is a public file that shows, in one place, who sits on which side of which relationship at any given moment.
 
 ## The 2018 mission was an institutional handoff
 
@@ -97,6 +118,10 @@ Years later, Wipro would appear on Whitley's lobbying book.
 
 The relationship had moved from recruitment to representation without ever leaving the same broad political-economic ecosystem.
 
+This is the pattern the series keeps finding. A mission creates proximity. Proximity creates familiarity. Familiarity becomes a résumé line. The résumé line becomes private value. Private value then reappears beside the same public institutions that created the original proximity.
+
+None of those steps requires illegality. Each step makes the next one rational.
+
 ## Then the private company hired the insider
 
 Agarwal's own private business makes the connector model even easier to see.
@@ -119,6 +144,10 @@ This was not a consultant with a generic Rolodex.
 
 **That is what a revolving door sells.**
 
+The Nextt episode is therefore useful less as a procurement scandal than as a governance illustration. A public entity buys from a private company. The company later retains a former senior state official. That official's other contemporaneous clients include major technology contractors operating in the same broad Texas market. The Ethics Commission records each registration. The city records the purchase. TxEDC records board and mission roles elsewhere. No single public document connects them.
+
+The connector does not need the documents to be connected. He already experiences the relationships as connected.
+
 ## The circle returned to India
 
 In January 2024, Abbott led another economic-development mission to India.
@@ -140,6 +169,10 @@ But the institutional recurrence remains striking. Agarwal, Whitley and a Nextt 
 TxEDC sponsored the overall mission. Agarwal later became its chairman.
 
 **The relationship did not need to be secret to be valuable. It needed to remain reusable.**
+
+Reuse is the underappreciated currency of public-private power. A one-time introduction can be luck. A recurring cast of intermediaries is a system. The 2018 mission produced one cast list. The 2024 mission produced another that rhymed with it. Between them sat lobbying registrations, board appointments, civic chairs and corporate travel.
+
+Texas celebrated the missions as recruitment. The connector model treats them as maintenance: a way of keeping relationships warm enough to be useful again.
 
 ## Dallas shows what reusable access looks like at home
 
@@ -167,6 +200,10 @@ The connector experiences one network.
 
 The public receives six filing cabinets.
 
+Cricket is a useful example of how conflict surfaces appear without proving wrongdoing. Agarwal chaired a sports enterprise with an interest in facilities. He also chaired parks and helped shape capital recommendations. When Dallas discussions later touched cricket facilities, a financial interest had to be disclosed. That disclosure is evidence the system can work in discrete moments. It is also evidence that the conflict surface was created by concentrating related public and private roles in the same person.
+
+A healthier disclosure regime would not wait for a single agenda item to force the question. It would keep a running public file of overlapping interests before the meeting is noticed.
+
 ## The other end of the bridge changes what 'connector' means
 
 The larger Texans First investigation found something that makes Agarwal's role easier to understand without making it more sinister.
@@ -185,6 +222,10 @@ The bridge did not require one person to govern both ends.
 
 It required connectors on each end who could translate a relationship into an introduction, an introduction into an institution and an institution into another relationship.
 
+In that sense, Agarwal is the Texas-facing illustration of a broader design. Andhra built formal coordinator rules and investment pipelines. Texas built informal trust hierarchies and public-private partnerships. Different paperwork. Same underlying bet: that relationships can move capital, offices and attention faster than ordinary bureaucracy.
+
+The accountability question is whether the public can see the relationships with anything like the clarity the participants experience.
+
 ## That is the design
 
 Public-private economic development is built to move faster than ordinary government.
@@ -202,6 +243,8 @@ A person's previous role becomes the reason for the next appointment. The appoin
 No corrupt bargain is required.
 
 **Influence compounds on its own.**
+
+This compounding is easy to miss if the analysis starts with a search for a smoking gun. Smoking guns are rare. Compounding access is common. The Texas record around Agarwal is full of ordinary public acts: appointments announced, missions celebrated, task-force recommendations briefed, lobbying registrations filed, Form 990 officers listed. The scandal, if the word applies at all, is not that those acts were hidden. It is that they were never assembled into a public account of power.
 
 ## The records Texas should keep
 
@@ -222,6 +265,8 @@ And economic-development claims should be followed beyond the announcement: prom
 **Those are not punishment mechanisms.**
 
 **They are the accounting controls a relationship-driven system requires.**
+
+Without them, Texas asks the public to trust a model that converts relationships into public power while publishing the evidence of those relationships only in fragments. With them, a connector can still connect. The difference is that citizens can follow the path.
 
 ## Agarwal is not the scandal
 
@@ -246,3 +291,7 @@ He is not evidence that one man captured Texas.
 Agarwal is not the scandal.
 
 **He is the design.**
+
+## Primary sources and records
+
+Primary materials reviewed for this installment include Abbott appointment and mission releases identifying Agarwal's TxEDC and civic roles; Dallas City Council and Community Bond Task Force minutes and briefing materials, including the December 6, 2023 council presentation; Texas Economic Development Corporation governance materials and the fiscal-year 2020 Form 990 listing Abidali Neemuchwala as secretary; Texas Ethics Commission lobby roster entries for Nextt Affiliated, Wipro and Accenture associated with David Whitley / Gregory Strategies; Dallas emergency procurement authorization involving Nextt PPE purchasing; contemporaneous 2024 India-mission delegation materials identifying Gregory Strategies and Nextt representation; and public descriptions of APNRTS investment functions and ITServe-linked Andhra recruitment used only to situate the Texas connector model against the other end of the bridge.
