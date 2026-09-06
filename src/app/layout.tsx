@@ -14,7 +14,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "TEXANS FIRST* | An Investigation",
-  description: "A seven-part investigative series examining Texas public technology contracting.",
+  description: "An investigation into Texas taxpayer-funded technology contracting — and the missing public ledger of who performs the work.",
   robots: {
     index: false,
     follow: false,

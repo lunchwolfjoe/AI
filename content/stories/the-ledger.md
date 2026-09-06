@@ -1,319 +1,211 @@
 ---
-title: "The Ledger"
+title: "Show Us the Ledger"
 date: "2026-09-06"
-excerpt: "TEXANS FIRST*: Terms and Conditions May Apply — Texas can count the contract. It still cannot consistently show who performed the work."
+excerpt: "Texas does not need to choose between global business and Texans First. It needs to measure what it buys."
 author: "Nick Plumb"
 authorHandle: "@plumbnick"
-part: 7
+part: 3
+section: "main"
 ---
 
-## The promise
+## Texas does not need to choose between global business and Texans First. It needs to measure what it buys.
 
-On January 27, 2026, Gov. Greg Abbott issued an order with a political promise almost impossible to misunderstand.
+By the end of this investigation, the central fact is narrower than the political debate surrounding H-1B visas.
 
-"State government must lead by example," Abbott wrote, "and ensure that employment opportunities — particularly those funded with taxpayer dollars — are filled by Texans first."
+Texas knows how many H-1B petitions covered state entities file because Gov. Greg Abbott ordered them to report and freeze new petitions absent approval.
 
-He ordered Texas state agencies and public universities to freeze new H-1B visa petitions unless the Texas Workforce Commission approved them. He required reports on existing H-1B use. He demanded documentation that Texans had been given a reasonable opportunity to apply for jobs filled by H-1B workers.
+Texas knows how to buy technology labor from private companies because the Department of Information Resources maintains statewide contracting systems designed to do exactly that.
 
-**The directive was specific enough to count.**
+What Texas does not publish statewide is a denominator connecting those two ideas: the geography and work-authorization composition of the contractor labor taxpayers actually purchase.
 
-How many petitions?
+That is the gap.
 
-Which jobs?
+Not proof of fraud.
 
-Which agencies?
+Not proof of offshoring.
 
-Which visa holders?
+Not proof that a particular vendor used a particular visa worker.
 
-Did Texans get a chance?
+A measurement gap.
 
-**Then the state reached the edge of its own payroll.**
+## Start with what Texas can count
 
-## The asterisk
+Texas's procurement system is not information-poor.
 
-Texas does not perform all taxpayer-funded work with state employees.
+For an individual ITSAC assignment, public records can identify the customer, prime vendor, labor category, rate, maximum hours and contract value. DIR maintains the statewide contract and standardized job categories. The Comptroller maintains state-payment systems.
 
-**It buys labor.**
+The broader Cooperative Contracts program is large: the 2024 DIR Sunset review described approximately 800 cooperative contracts and $3.4 billion in fiscal-year 2023 sales.
 
-The Department of Information Resources maintains statewide contracts through which agencies can obtain developers, architects, analysts, project managers, cybersecurity specialists and other technology personnel from private companies.
+The State Auditor also continues to treat contract monitoring as a live statewide issue. In its June 2026 assessment of the 25 largest state agencies, 13 of 25 — 52 percent — were assigned "additional monitoring warranted" for at least one contracting period. Twelve received no-additional-monitoring ratings for all periods; none received a reduced-monitoring rating.
 
-The program is called IT Staff Augmentation Contracting: ITSAC.
+That finding is not evidence of H-1B abuse or offshoring.
 
-The current contract generation contains scores of private staffing vendors. DIR contract pages published in 2026 show vendors operating under a common solicitation, standardized job categories, maximum rates, HUB subcontracting plans and a standard IT-staffing statement-of-work template.
+It is evidence that contract oversight remains an active governance concern at the same time Texas is making new promises about who should benefit from taxpayer-funded employment.
 
-The state knows the vendor.
+## What Texas still cannot show in one public view
 
-It knows the job category.
+| Texas commonly records | Texas should standardize for material contractor labor |
+|------------------------|--------------------------------------------------------|
+| Prime vendor | Actual employing entity |
+| Contract number | Material subcontractor / labor supplier |
+| Job category | Texas resident: yes/no |
+| Rate | Primary work state/country |
+| Authorized hours | Work outside Texas: yes/no |
+| Maximum dollars | Work outside U.S.: yes/no |
+| Contract documents | Aggregate work-authorization category |
 
-It knows the maximum rate.
+Texas does not need to publish names or immigration files.
 
-It can know the hours.
+For public reporting, work-authorization categories can be aggregated. Geography can be reported at state/country level. Small-cell suppression can protect individuals where necessary.
 
-It can require cybersecurity training for vendor employees and subcontractors accessing state systems.
+The purpose is not to create a public list of visa holders.
 
-Its master solicitation even recognizes a customer's designated primary work site when calculating rates and commuting costs.
+The purpose is to let Texas measure its own stated policy.
 
-**But in the standard statewide staffing template reviewed for this investigation, Texas does not appear to require a dedicated field identifying the actual geography of every remote worker, whether work is performed outside the United States, or the worker's immigration or work-authorization category.**
+## The counterarguments are real
 
-The template asks whether all work is expected to be remote.
+**Texas cannot rewrite federal immigration law.**
 
-It does not, by itself, answer the question that follows.
+Correct. The proposal does not ask it to. Texas would be acting as a customer establishing reporting requirements for services purchased with public money.
 
-**Remote from where?**
+**The vendor, not Texas, is the employer.**
 
-## Texas can ask when it chooses to
+Correct. That is why the field should identify the actual employing entity and any material subcontractor rather than pretending the prime vendor is the worker.
 
-That gap is not universal.
+**Immigration information is sensitive.**
 
-The investigation found current HHSC staffing requests reproduced by multiple vendors that impose Texas-location rules. One hybrid 2026 request says candidates must already live in Texas and within roughly 50 miles of Austin. Another fully remote request is repeatedly reproduced as allowing work from anywhere within Texas.
+Correct. Publish aggregate categories, not names, A-numbers, petition files or home addresses.
 
-One recruiter posting associated with that second request also says no H-1B candidates. The original agency solicitation has not yet been obtained, so that visa restriction cannot safely be attributed to HHSC.
+**Agencies use contractors because state hiring is slow and compensation may not attract specialized talent.**
 
-**The distinction is important.**
+Also correct. A labor ledger does not ban contractors. It measures them.
 
-Some agencies apparently do ask where contractor personnel live.
+**Universities are different.**
 
-**That makes the statewide question sharper, not weaker.**
+Yes. A medical researcher, physician or university scientist is not analytically interchangeable with an hourly staff-augmentation Business Analyst. The state should report categories separately rather than forcing unlike labor markets into one statistic.
 
-If Texas believes worker geography matters, why is the information not standardized across the contractor system and reportable statewide?
+**Abbott's directive can legally cover only the entities and actions within his authority.**
 
-**A Texans-first policy should not depend on whether an individual hiring manager remembered to type a residency clause into an individual staffing request.**
+Yes. That makes the current petition freeze coherent as an executive action. It does not answer the separate policy question created by his own language about taxpayer-funded employment opportunities.
 
-## A real purchase order shows the problem
+## India is a case study, not the rule
 
-The Texas Workforce Commission provides a useful case because it is the agency Abbott put at the center of his H-1B directive.
+This series spends time on India because Texas has cultivated a large, technology-heavy economic relationship there and because Andhra Pradesh publicly built an unusually explicit system for attracting diaspora investment, offshore operations and jobs.
 
-In late 2025, TWC sought a Business Analyst 2 through the state's technology staffing system for unemployment-insurance data-exchange work.
+The current Governor's India profile reports roughly 77 Indian-company projects into Texas with $2.81 billion in announced capital and more than 9,450 announced jobs, compared with 181 Texas-company projects into India, $7.24 billion in announced capital and more than 63,345 announced jobs.
 
-The assignment was approved in January 2026. A purchase order dated February 6 — ten days after Abbott's directive — authorized as many as 3,700 hours at $98.21 per hour, a maximum of $363,377, through Digerati Systems.
+Those numbers do not measure displacement.
 
-Texas payment records reviewed for this investigation later showed payments against the work.
+They demonstrate why worker geography is a legitimate economic-development variable.
 
-TWC has said it does not sponsor visas for staff-augmentation workers and requires workers to be legally eligible to work.
+But the proposed ledger should apply regardless of nationality.
 
-**Nothing in the records reviewed establishes that this worker held an H-1B visa.**
+A contractor working remotely from California should be visible as out-of-state labor even if the company has no India connection. A U.S.-headquartered integrator should report offshore delivery if it uses it. An Indian-headquartered company staffing a contract entirely with Texas residents should receive credit for Texas labor.
 
-**That is precisely the point.**
-
-The public purchase record can tell a Texan the vendor, labor category, rate, maximum hours and amount.
-
-It cannot, from the public-facing records assembled for this investigation, answer the political question Abbott himself made relevant:
-
-**Was the taxpayer-funded worker a Texan?**
-
-## A company is not a worker
-
-The difference sounds semantic until billions of dollars move through contractors.
-
-A company can be headquartered in Texas and employ a worker elsewhere.
-
-A company headquartered elsewhere can employ a Texan.
-
-A prime contractor can subcontract labor to another company.
-
-A remote employee can work from Austin, Atlanta or another country.
-
-A company with thousands of H-1B filings can staff a particular Texas contract entirely with U.S. citizens.
-
-A company with no obvious immigration footprint can use a subcontractor that does sponsor workers.
-
-**None of those facts can be inferred reliably from the vendor's name.**
-
-**Yet vendor identity is the level at which much of Texas's public procurement record stops.**
-
-## Abbott regulated the visible channel
-
-Abbott's directive applies to state agencies and institutions of higher education petitioning for H-1B workers.
-
-That is a real intervention. Public entities that sponsor H-1B workers now face a freeze and reporting requirements absent TWC permission through the period Abbott specified.
-
-The directive did not purport to rewrite federal immigration law, which Texas does not control.
-
-Nor does the letter itself establish a comparable statewide reporting regime for every employee of every private contractor and subcontractor performing taxpayer-funded work.
-
-**That is not necessarily a legal loophole.**
-
-**It is an accounting boundary.**
-
-Direct public employment sits on one side.
-
-Purchased private labor sits on the other.
-
-Abbott's rhetoric crossed the boundary: taxpayer-funded opportunities should be filled by Texans first.
-
-**The reporting architecture did not obviously cross with it.**
-
-## Texas knows how to change contracts
-
-There is a useful comparison inside the very same ITSAC system.
-
-In 2026, DIR contract pages show amendments tied to Abbott's separate foreign-adversary policy — often discussed under the GA-48 lineage — across current staffing contracts.
-
-Those restrictions concern companies connected to designated foreign-adversary countries. India is not one of the countries targeted by that policy, and the amendment has nothing to do with H-1B visas.
-
-**Its relevance is administrative.**
-
-When Texas wanted a gubernatorial policy reflected in statewide contracts, the machinery existed to amend the contracts.
-
-The public record reviewed for this series has not shown a parallel statewide ITSAC amendment requiring vendors to report, for every taxpayer-funded worker, Texas residency, actual work location, temporary-visa category or offshore delivery after Abbott announced Texans First.
-
-**If such a requirement exists elsewhere, Texas should publish it.**
-
-**If it does not, the omission is a policy choice.**
-
-## The state had been warned about contractor visibility
-
-This problem did not appear in January 2026.
-
-A decade of audits had already shown recurring weaknesses in Texas contracting.
-
-A 2016 State Auditor's Office report examined contractor-management controls and vendor E-Verify compliance. A 2021 audit identified high-risk weaknesses in DIR's vendor-scoring documentation and transparency. A later Sunset review credited DIR with real improvement while still identifying specialized IT-procurement and cooperative-contracting concerns.
-
-In April 2025, the State Auditor concluded that nine of the 25 largest state agencies warranted additional contract monitoring for at least one contracting period.
-
-**In June 2026 — after Abbott's Texans-first directive — the number was 13 of 25.**
-
-Those audits do not establish H-1B abuse.
-
-They do not establish offshoring.
-
-**They establish something more basic.**
-
-**Texas entered the Texans-first era with contract oversight still a live governance problem.**
-
-## Meanwhile, Texas spent a decade building the bridge
-
-The contradiction becomes larger when the contractor system is placed beside the rest of this series.
-
-Abbott's own economic-development office reports that from 2015 through 2024, Indian companies announced 74 investment projects in Texas, $2.7 billion in capital and more than 8,650 jobs.
-
-Over the same period, Texas companies announced 175 projects in India, $7.6 billion in capital and more than 59,300 jobs.
-
-Those are investment estimates, not a displacement ledger. They do not mean 59,300 Texas workers lost their jobs.
-
-**But they reveal the scale and direction of a relationship Texas actively cultivated.**
-
-Abbott led missions to India.
-
-Texas recruited technology companies.
-
-Private business leaders helped govern the recruitment apparatus.
-
-Former senior officials later represented companies around the same ecosystem.
-
-ITServe organized consulting companies around immigration policy, political access and litigation while some of its network pursued operations in Andhra Pradesh.
-
-Andhra built public machinery explicitly designed to attract investment, offshore operations and jobs.
-
-**Then, after a decade of building the bridge, Abbott announced that taxpayer-funded employment should belong to Texans.**
-
-**Texas still lacked a public ledger capable of showing what that meant across the contractor workforce.**
-
-## The missing ledger is larger than labor
-
-Parts Two through Six of this series make a second gap impossible to ignore.
-
-Texas does not merely lack a labor ledger for taxpayer-funded technology work.
-
-**It lacks a relationship ledger for the people and organizations who move among economic development, appointments, contracting, diaspora institutions and political access.**
-
-The connector experiences one network. The public receives six filing cabinets. A planning commissioner, advisory-council member, trade-association executive, PAC treasurer, campaign donor and vendor contact may be the same person — or adjacent people in the same reusable map — without any statewide system publishing the overlaps in one place.
-
-**A Texans-first accounting that counts only visas on the state payroll while ignoring both contractor labor and reusable relationships will miss the architecture that made the politics possible.**
-
-Texas needs both ledgers.
-
-The labor ledger answers who performed the work.
-
-The relationship ledger answers who could reach the rooms where the work was defined, bought, celebrated or excused.
-
-## The question is answerable
-
-This is not an impossible data problem.
-
-For every material taxpayer-funded staffing assignment, Texas could require a small number of fields.
-
-| Field | Purpose |
-|-------|---------|
-| Worker's employing entity | Who actually employs the worker |
-| Prime contractor | Which company holds the contract |
-| Material subcontractor, if any | The actual labor supplier |
-| Texas resident: yes or no | Does the worker live in Texas |
-| Primary physical work location | Where is the work performed |
-| Work performed outside Texas: yes or no | Out-of-state labor |
-| Work performed outside the United States: yes or no | Offshore delivery |
-| Work-authorization category | Aggregate visa status |
-| Hours billed | How much labor |
-| Dollars billed | How much payment |
-
-**The state does not need to publish a worker's immigration file or home address.**
-
-**It needs an auditable denominator.**
+Measure the work, not the name of the company.
 
 ## Then publish the score
 
-Abbott could make Texans First measurable tomorrow without waiting for an argument about motives.
+Once the fields exist, Texas can answer questions that are currently political slogans:
 
-How many contractor labor hours did Texas buy last year?
+- How many contractor labor hours did state agencies buy last year?
+- What percentage were performed by Texas residents?
+- How much was performed elsewhere in the United States?
+- How much was materially performed outside the country?
+- Which agencies use the most subcontracted staffing?
+- What share of contractor labor is performed under temporary work authorization?
+- How much did Texas pay for each category?
+- Which agencies cannot produce the information?
 
-What percentage were performed by Texas residents?
+The answers might vindicate the state.
 
-How much was performed outside Texas?
+Perhaps nearly all ITSAC labor is already performed by Texans.
 
-How much was performed outside the United States?
+Perhaps offshore work is rare.
 
-How many staffing assignments were filled through subcontractors?
+Perhaps temporary-visa use among state contractors is far smaller than political rhetoric suggests.
 
-How many contractor workers were employed under temporary work visas?
+Or perhaps the numbers reveal a meaningful gap between policy and practice.
 
-Which agencies cannot answer?
+The point of a ledger is that Texas would no longer have to guess.
 
-Which vendors cannot answer?
+## The relationship ledger belongs beside it
 
-**Those numbers would transform Texans First from a slogan into a control.**
+The reporting also identified a second, narrower transparency problem around public-private economic development and the revolving door.
 
-## Terms and conditions may apply
+Texas should make it easier to see who represented whom, who served on which economic-development bodies, which former officials represented state vendors, and which conflicts or recusals applied to major public-private decisions.
 
-The asterisk in this series is not a joke about immigration.
+That does not require treating relationships as suspicious.
 
-**It is a warning about accounting.**
+It requires treating them as material.
 
-Texas can say a job belongs to a Texan.
+A useful public system would connect:
 
-A purchase order can say the job belongs to a vendor.
+- state contract;
+- vendor;
+- material subcontractor;
+- registered lobbyist;
+- former senior state role;
+- economic-development board role;
+- state-supported mission participation;
+- relevant conflict/recusal disclosure.
 
-**Those are not the same statement.**
+The labor ledger answers who did the work.
 
-Abbott's January directive recognized that who performs taxpayer-funded work matters.
+The relationship ledger answers who was positioned around the decision.
 
-**Once the Governor made that principle explicit, the burden shifted to the state.**
+Neither proves misconduct.
 
-Show us.
+Both make government easier to audit.
 
-Show Texans the direct employees.
+## The standard
 
-Show them the contractors.
+Abbott's January directive changed the burden of proof.
 
-Show them the subcontractors.
+Once Texas government says taxpayer-funded employment opportunities should go to Texans first, it should be able to show what that means across the labor it buys — not only the people on its payroll.
 
-Show them where the work was performed.
+Show the direct employees.
 
-Show them which jobs required a temporary visa and which did not.
+Show the contractors.
 
-Show them how many hours and dollars remained in Texas.
+Show the subcontractors.
 
-**Show them the ledger.**
+Show the labor geography.
 
-Until then, Texans First comes with terms and conditions.
+Show aggregate work authorization without exposing personal files.
 
-And the most important condition is the one Texas still cannot consistently demonstrate in public:
+Show the hours and dollars.
 
-**Who actually performed the work?**
+Then let Texans decide whether the policy worked.
 
-### Primary sources
+**Show us the ledger.**
 
-- Abbott H-1B directive, January 27, 2026
-- DIR ITSAC solicitations, templates and GA-48 / foreign-adversary contract amendments
-- TWC Business Analyst 2 purchase order and payment records (Digerati Systems)
-- State Auditor's Office contracting reports (2016; April 2025; June 2026) and DIR-related audits / Sunset review
-- Governor's Economic Development & Tourism Office Texas–India profile (July 2025)
+## Sources and records
+
+- [Governor Abbott's Jan. 27, 2026 H-1B directive](https://gov.texas.gov/news/post/governor-abbott-directs-state-agencies-and-public-universities-to-freeze-new-h-1b-visa-petitions)
+- [Governor's directive letter](https://gov.texas.gov/uploads/files/press/H-1B_Visa_Program_Letter_1.27.2026_State_Agency_Heads_FINAL_.pdf)
+- [Texas DIR Cooperative Contracts](https://dir.texas.gov/contracts)
+- [Example current ITSAC contract and standard documents](https://dir.texas.gov/contracts)
+- [2024 DIR Sunset review](https://www.sunset.texas.gov/)
+- [State Auditor report 26-027: Contract Monitoring Assessment at Certain State Agencies](https://sao.texas.gov/)
+- [Texas Economic Development & Tourism — India & Texas Profile](https://gov.texas.gov/)
+- [Texas Comptroller eSystems — Search State Payments Issued](https://comptroller.texas.gov/)
+
+<div class="story-callout scorecard">
+
+**Scorecard placeholder**
+
+| Metric | Statewide public status |
+|--------|-------------------------|
+| Contractor hours | NOT PUBLISHED STATEWIDE |
+| % Texas residents | NOT PUBLISHED STATEWIDE |
+| % outside Texas | NOT PUBLISHED STATEWIDE |
+| % offshore | NOT PUBLISHED STATEWIDE |
+| % temporary work authorization | NOT PUBLISHED STATEWIDE |
+| Subcontracted hours | NOT PUBLISHED STATEWIDE |
+
+Do not estimate these figures. Display them as unpublished until sourced data exists.
+
+**Audit context:** 13 of 25 largest agencies — additional monitoring warranted for at least one contracting period (SAO 26-027, June 2026). Explicitly: not an H-1B or offshoring finding.
+
+</div>

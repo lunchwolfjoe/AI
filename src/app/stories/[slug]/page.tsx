@@ -26,14 +26,13 @@ export async function generateMetadata({ params }: PageProps) {
   };
 }
 
-const partInfo: Record<number, { numeral: string; title: string; slug: string }> = {
-  1: { numeral: "I", title: "The Promise", slug: "the-promise" },
-  2: { numeral: "II", title: "The Connector", slug: "the-connector" },
-  3: { numeral: "III", title: "The Andhra Apparatus", slug: "andhra-apparatus" },
-  4: { numeral: "IV", title: "The Revolving Door", slug: "revolving-door" },
-  5: { numeral: "V", title: "The Network", slug: "itserve-alliance" },
-  6: { numeral: "VI", title: "The Access Layer", slug: "the-access-layer" },
-  7: { numeral: "VII", title: "The Ledger", slug: "the-ledger" },
+const partInfo: Record<number, { numeral: string; title: string; slug: string; section?: string }> = {
+  1: { numeral: "I", title: "The Promise", slug: "the-promise", section: "Main Investigation" },
+  2: { numeral: "II", title: "The Purchase Order", slug: "the-purchase-order", section: "Main Investigation" },
+  3: { numeral: "III", title: "Show Us the Ledger", slug: "the-ledger", section: "Main Investigation" },
+  4: { numeral: "IV", title: "The Other End", slug: "andhra-apparatus", section: "Context" },
+  5: { numeral: "V", title: "The Connectors", slug: "the-connector", section: "Context" },
+  6: { numeral: "VI", title: "Educate. Lobby. Litigate.", slug: "itserve-alliance", section: "Context" },
 };
 
 export default async function StoryPage({ params }: PageProps) {
@@ -67,7 +66,13 @@ export default async function StoryPage({ params }: PageProps) {
       {/* Header */}
       <header className="mx-auto max-w-3xl px-6 pt-12 pb-10">
         {/* Series label */}
-        <div className="flex items-center gap-3 mb-8">
+        <div className="flex flex-wrap items-center gap-3 mb-8">
+          {info.section && (
+            <>
+              <span className="label-caps text-[#9ca3af]">{info.section}</span>
+              <span className="text-[#d1d5db]">|</span>
+            </>
+          )}
           <span className="label-caps text-[#8b0000]">
             Part {info.numeral}
           </span>
