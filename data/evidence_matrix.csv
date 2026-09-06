@@ -1,0 +1,11 @@
+TEXANS FIRST* — Publication Evidence Matrix V1,
+Purpose,Paragraph-level defensive fact-check matrix for the six working story drafts. V1 intentionally prefers a visible SOURCE GAP over a weak or false source match.
+Ledger basis,Texans_First_Master_Investigation_Ledger_2026-09-01_delta123.xlsx
+Story body paragraphs mapped,819
+Rows with one or more evidence IDs,113
+Primary-mapped factual rows,101
+Corroborated factual rows,6
+Source gaps requiring manual assignment,405
+Rows flagged for response/questions,12
+Publication rule,Do not publish from this matrix merely because a row says PRIMARY. Confirm that each cited source supports the entire proposition; split multi-claim paragraphs when necessary.
+Next pass,"Manual source-lock: exact PDF/page/contract/filing for every factual row, then convert material accountability rows into the Abbott/DIR/TWC/TxEDC/company response packages."

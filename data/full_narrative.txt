@@ -1,0 +1,1122 @@
+﻿TEXANS FIRST*
+Terms and conditions may apply.
+THE COMPLETE SIX-PART INVESTIGATION
+By Nick Plumb
+Publication V1  |  September 1, 2026
+________________
+
+
+Contents
+Part One — Texas Built the Bridge. Now Show Us the Ledger.
+Part Two — The Connector
+Part Three — The Other End of the Bridge
+Part Four — Who Governed the Bridge?
+Part Five — Educate. Lobby. Litigate.
+Part Six — TEXANS FIRST*: Terms and Conditions May Apply.
+Manuscript note
+This master manuscript assembles the complete text of the six current Publication V1 story files without summarizing or rewriting them. Their source/fact-check maps, editorial-status notes and publication cautions are retained because they are part of the current working publication versions.
+________________
+
+
+TEXANS FIRST*
+Terms and conditions may apply.
+Texas Built the Bridge. Now Show Us the Ledger.
+How Texas spent a decade courting an India-facing technology economy, built a multibillion-dollar contractor market, received repeated warnings about contracting controls — and still cannot publicly account for who performs much of the work taxpayers buy.
+By Nick Plumb  |  Working publication draft  |  September 1, 2026
+The question Abbott asked — and the one Texas cannot answer
+On January 27, 2026, Gov. Greg Abbott issued a directive built around a promise almost impossible to misunderstand: taxpayer-funded employment opportunities should be filled by Texans first.
+Abbott ordered Texas state agencies and public universities to freeze new H-1B visa petitions unless the Texas Workforce Commission approved them. His letter described the federal program as vulnerable to abuse by employers that replace American workers with lower-cost foreign labor. State government, he wrote, had to lead by example.
+There is an obvious question hiding inside that declaration.
+Who is actually performing the work Texas taxpayers buy?
+For direct state employment, Texas can begin to answer. Agencies know whom they employ. They know whether they petition for an H-1B worker. Abbott's directive asks them to report that activity.
+But Texas does not obtain all of its workforce directly. It buys enormous quantities of technology labor through private companies. The state has built reusable procurement vehicles through the Department of Information Resources. Agencies, universities, local governments, schools and other eligible entities can use those vehicles to purchase programmers, architects, analysts, cloud engineers, cybersecurity specialists and other technical labor.
+The public records can be extraordinarily precise about the transaction. They can identify the agency, the vendor, the labor category, the hourly rate, the purchase order and the dollars paid.
+What Texas has not assembled is the corresponding public labor ledger: the prime and subcontractor chain; the authorized location where the work was actually performed; the material offshore component; and aggregate categories showing whether taxpayer-funded labor was supplied by citizens, permanent residents, temporary-visa workers or workers outside the United States.
+That missing ledger matters because Abbott did not merely make employment an administrative issue. He made it a principle of state policy.
+If taxpayer-funded jobs are supposed to go to Texans first, Texas needs to know who is doing the taxpayer-funded work.
+Abbott's own numbers change the scale of the question
+The most revealing numbers in this investigation do not come from an immigration advocacy group, an opposition campaign or an estimate assembled from visa filings. They come from Abbott's own economic-development office.
+A Texas Economic Development & Tourism Office profile revised in July 2025 reports that, from January 2015 through December 2024, Indian companies announced 74 investment projects in Texas, $2.7 billion in capital investment and more than 8,650 new jobs.
+During the same period, the same state profile says Texas companies announced 175 investment projects in India, $7.6 billion in capital investment and more than 59,300 new jobs.
+2015–2024 reported FDI
+	India → Texas
+	Texas companies → India
+	Projects
+	74
+	175
+	Announced capital
+	$2.7B
+	$7.6B
+	Announced jobs
+	8,650+
+	59,300+
+	Using the Governor's own figures, Texas-company projects in India outnumber Indian-company projects in Texas by more than two to one. Announced capital runs almost three to one. Announced jobs run almost seven to one.
+Those figures are not a balance sheet. Foreign direct investment is not money simply packed into a suitcase and removed from Texas. A Texas-headquartered multinational can finance an Indian expansion with global capital. Announced jobs are not the same as verified payroll. Indian investment in Texas can create supplier activity, tax revenue and other benefits that a simple project count does not capture.
+But those caveats do not erase what the numbers measure: the relationship Texas spent a decade promoting was dramatically larger in the Texas-company-to-India direction on the very metrics economic-development officials use to celebrate success.
+There is another reason to examine the numbers closely. During Abbott's January 2024 India mission, his office repeatedly said Indian companies had invested $1.4 billion through 59 Texas projects and created more than 10,300 jobs, citing Indian industry estimates. The later state profile reports more projects and almost twice as much capital — but fewer jobs, 8,650-plus — using fDi Markets.
+That may be a methodological difference. It may reflect different periods, definitions or project databases. But jobs are the benefit Abbott's office repeatedly sold to Texans. The state should be able to reconcile the two claims company by company.
+Texas has been very good at counting announcements. The harder question is what it counts after the ribbon is cut.
+Texas built the bridge deliberately
+The Texas-India economic relationship was not an accident of globalization that happened around state government. Texas government and its public-private economic-development partners deliberately cultivated it.
+Abbott led economic-development missions to India in 2018 and again in 2024. His office described the purpose of the later trip as encouraging trade, job creation and capital investment by Indian companies in Texas. The Texas Economic Development Corporation — an independently funded nonprofit that markets Texas alongside the Governor's Economic Development & Tourism Office — sponsored and paid for the 2024 mission.
+The 2024 delegation included Secretary of State Jane Nelson, economic-development director Adriana Cruz, TxEDC vice chairman Arun Agarwal and TxEDC president Aaron Demerson. Abbott met executives and officials across Mumbai and New Delhi and highlighted technology repeatedly.
+His office's own releases document meetings or visits involving Tata Consultancy Services and HCLTech and describe earlier engagement with Wipro. The Governor framed Texas and India as economic partners positioned to lead the future of technology.
+The 2018 trip was similarly consequential. Abbott visited Wipro's Bengaluru campus and announced a new Wipro Texas Technology Center in Plano. David Whitley — then one of Abbott's senior officials and later Texas secretary of state — traveled on that mission.
+None of this is inherently suspect. Governors recruit companies. States compete for investment. Texas has every reason to sell itself as a destination for global capital.
+The accountability problem appears when the state celebrates the inbound side of a global labor-and-capital relationship without maintaining an equally rigorous accounting of the labor and economic value moving through the contractor market it created at home.
+At the other end of the bridge, Andhra Pradesh was building machinery to capture the value
+The Indian side of this story becomes clearer when the institutions are allowed to describe themselves.
+The Andhra Pradesh Non-Resident Telugu Society, or APNRTS, is a Government of Andhra Pradesh institution created to organize and serve the state's global Telugu diaspora. Its current investment operation does considerably more than cultural outreach.
+Official Andhra materials describe an Investments Wing that assists nonresident investors seeking to establish businesses or offshore operations. The state's investment portal describes a pipeline that connects prospective investors to policies and incentives, government officials, site selection, land, approvals and aftercare.
+Its coordinator rules likewise treat overseas representatives as economic-development infrastructure. Coordinators promote Andhra investment, connect the government with diaspora organizations and prospective investors, and are expected to help bring investment opportunities home.
+That language matters because it tells us what success looked like from Andhra's perspective. The objective was not simply a stronger relationship with Texas or the United States. The objective was to convert overseas relationships into operations, investment and employment inside Andhra Pradesh.
+That is ordinary economic development. It is also a useful contrast.
+Texas marketed the bridge. Andhra built machinery to capture value at its end.
+ITServe companies were invited onto that machinery
+ITServe Alliance is an association of technology consulting and staffing companies founded in the United States. In Washington, its public identity has been unusually direct: educate, lobby, litigate. It organized congressional outreach, immigration advocacy and litigation involving the third-party consulting model.
+But its members also appear on the other side of the bridge.
+Contemporaneous 2016 reporting on Andhra's recruitment effort says ITServe member companies signed memoranda to establish operations in the state. Reports described government support that included plug-and-play office space, discounted rent, hiring incentives, workforce-development assistance and access to government technology opportunities.
+One account described 50 ITServe member companies signing MOUs. Another described Andhra officials responding to the practical concerns of U.S.-based IT consulting companies about opening Indian offices.
+The exact subsidy received by each company still requires the underlying government orders, MOUs and disbursement records. An offered incentive is not the same thing as a paid subsidy.
+But the policy direction is not ambiguous. A U.S.-based industry whose members sold technology labor was being actively recruited by an Indian state that explicitly wanted investment, offices and jobs.
+Dallas Technology Centre made the bridge physical
+The Dallas Technology Centre is one of the most important records in the investigation because it turns an abstract network into a physical project.
+Official Andhra Pradesh Industrial Infrastructure Corporation records show a 2015 approval for Dallas Technology Centre at the IT non-SEZ Hill 2 site in Visakhapatnam.
+Contemporaneous ITServe-related reporting described DTC as a roughly ₹192-crore project planned by ITServe member firms and identified intended occupants including IntelliSoft, Primus, Kairos, Voxai and Qatalys.
+Those names matter because several of the firms or principals have U.S. and Texas footprints. But planned occupancy is not proof that each company ultimately occupied the building. That is one of the records still being reconstructed.
+What is established is the larger sequence: U.S.-linked technology entrepreneurs organized around an Indian state-backed technology project; Andhra allotted land; and years later the facility became part of another major technology expansion.
+In late 2024, Andhra approved Dallas Technology Centre to sublease its Rushikonda premises to Tata Consultancy Services and considered a special package to facilitate the company's operations. In 2025, Andhra separately approved land in Visakhapatnam for a proposed TCS development center expected to create more than 12,000 jobs.
+One proposed TCS project in Andhra was therefore associated with more announced jobs than the 8,650-plus jobs the Texas Governor's later profile attributes to all Indian-company FDI projects in Texas over the preceding decade.
+Those are not apples-to-apples realized-job figures, and they should not be presented as such. But they illustrate the economic-development objective at the other end of the relationship with unusual clarity: land, operating capacity, investment and employment.
+The same market kept meeting Texas government
+Back in Texas, technology consulting was not merely a private export industry. It was also a public market.
+DIR's Cooperative Contracts program gives thousands of eligible public customers access to statewide technology contracts. A 2024 Sunset review reported approximately 800 COOP contracts and $3.4 billion in fiscal-year 2023 sales. ITSAC — Information Technology Staff Augmentation Contracts — sits inside that ecosystem and supplies temporary IT personnel on an hourly basis.
+That distinction matters. Abbott's H-1B directive governs petitions filed by covered state entities. A private staffing or technology company is a different employer. A state agency can therefore buy labor from a private vendor without itself being the H-1B petitioner.
+That does not mean the contractor is using an H-1B worker. It means the petition freeze and the procurement channel are different systems.
+Texas's public data reflects that separation. Procurement records can identify what was bought without identifying the labor category Abbott made politically important.
+One worker slot explains the entire accounting problem
+The Texas Workforce Commission provides a useful example precisely because the records do not prove an immigration violation.
+In late 2025, TWC sought a Business Analyst 2 for an unemployment-insurance data-exchange project. Digerati Systems submitted a candidate. TWC approved the candidate on January 7, 2026, with a planned January 12 start.
+Abbott issued his H-1B directive on January 27.
+On February 6, TWC issued purchase order 26-0002508 authorizing 3,700 hours at $98.21 per hour, with a maximum value of $363,377. Subsequent Comptroller payments reviewed in this investigation totaled $74,639.60 — exactly 760 hours at the purchase-order rate.
+The solicitation said TWC does not sponsor visas for staff-augmentation contractors and required work eligibility.
+The candidate's name is redacted in the public material. The worker's immigration category is not published. This investigation has not found evidence that the worker was on H-1B.
+That is the point.
+Texas can publish the customer, vendor, job classification, rate, authorized hours, purchase order and cash. But it does not publish the aggregate labor fact Abbott elevated into state policy.
+If the state wants to claim that taxpayer-funded employment is going to Texans first, 'the vendor handled it' is not an accounting system.
+Texas had been warned about contractor oversight long before 2026
+The contractor blind spot did not emerge in a system that had never been audited.
+In March 2016, the State Auditor examined selected agencies' use of DIR information-technology staffing contracts. DSHS and TWC generally complied with applicable requirements, but auditors identified areas where contract-management controls should be strengthened.
+Among them, auditors found that the agencies lacked procedures sufficient to verify vendors' compliance with then-existing E-Verify requirements for personnel assigned to state contracts. The report also addressed conflicts, vendor performance and implementation of earlier DIR recommendations.
+The distribution list matters. The report was sent to the Office of the Governor, naming Greg Abbott, and to DIR's governing board, naming then-chair John B. Scott.
+Distribution does not prove Abbott personally read every page. It establishes institutional notice during his first term.
+The same report found DIR had fully implemented only 18 of 33 recommendations from an earlier cooperative-contract audit. Seven were substantially implemented, six were incomplete or ongoing and two had not been implemented.
+The warnings continued, though their subjects changed.
+In 2021, the State Auditor gave a High rating to weaknesses in DIR's vendor-scoring process for a major cloud procurement. Auditors found inconsistent scoring justifications and criteria, incomplete documentation and disclosure/training problems. The audit also found that DIR had complied with statutory planning and procurement requirements overall. Both facts matter.
+The 2024 Sunset review was similarly balanced. It credited DIR with improvements and said recent audits had not produced priority contracting findings. But Sunset still found statewide IT procurement capability gaps, inconsistent COOP pricing information and a need for stronger vendor-compliance checks. It specifically discussed ITSAC as an active staff-augmentation market.
+The contract-monitoring assessments became broader still. In April 2025, the State Auditor concluded that nine of Texas's 25 largest agencies warranted additional contract monitoring for at least one contracting period. The list included TWC, HHSC, DSHS and TxDOT — agencies that also appear in the state's technology-contracting ecosystem.
+Then, in June 2026 — months after Abbott's H-1B directive — the State Auditor reported that 13 of the 25 largest agencies, 52 percent, warranted additional contract monitoring for at least one contracting period.
+Those ratings are not immigration findings. They do not prove offshore work, H-1B abuse or misconduct by a technology vendor. They establish something more basic: contract oversight remained a live governance problem in the same year Texas declared a Texans-first employment policy.
+The revolving door raises a separate judgment question
+The records also show former senior Texas officials moving into paid representation of companies operating in the technology market.
+David Whitley is a particularly useful example because the primary lobbying record is concrete. Whitley served Abbott in senior roles, traveled on the 2018 India mission and later served as secretary of state.
+A 2020 Texas Ethics Commission lobbyist roster shows Whitley representing Wipro beginning in February of that year and, beginning June 26, both Accenture and Nextt Affiliated. Nextt is associated with Arun Agarwal, who co-chaired Abbott's 2018 India mission and later rose to lead TxEDC.
+The significance is not that sharing a lobbyist proves the companies coordinated. It does not. Nor does a state lobbying registration establish that Whitley influenced a municipal procurement such as Austin's later Workday implementation.
+The significance is structural: a former senior Abbott official became a paid intermediary for multiple technology and India-facing business interests that operated around the same broader public market.
+John B. Scott presents a different version of the same question. Abbott appointed Scott to chair DIR in 2016. Abbott's own later biography credited Scott with helping develop strategic technology and security planning for executive-branch agencies. Scott subsequently became secretary of state and interim attorney general. Texas Ethics Commission records then show him registered for Deloitte Consulting in 2024, 2025 and 2026.
+Deloitte is a major DIR vendor with multiple statewide technology vehicles, including current ITSAC and DBITS contracts.
+Again, that does not prove Scott influenced a Deloitte award. The investigation has not established that.
+It raises a conventional public-integrity question: what revolving-door safeguards should apply when officials entrusted with understanding and shaping the state's technology environment later represent companies selling into it?
+Abbott's judgment is now part of the story
+There is no evidence in the records reviewed for this story that Greg Abbott secretly directed contracts to favored companies, ordered Texas work sent offshore or participated in a quid pro quo.
+The accountability question is larger and more ordinary than that.
+Abbott has governed Texas since January 2015 — essentially the same decade measured by his office's Texas-India investment profile. His administration aggressively promoted international technology investment. He personally led India missions. His economic-development apparatus celebrated jobs and capital. His senior officials occupied key points in the state's technology and economic-development institutions. Some later represented technology companies.
+His administration also received repeated audit information about weaknesses in contracting, staffing, procurement and vendor oversight.
+Then, in 2026, Abbott declared that taxpayer-funded employment opportunities should go to Texans first.
+After more than a decade, that makes the missing ledger a question of gubernatorial judgment.
+If Texas was going to build a globalized public-technology market, why didn't it build the accounting system necessary to measure whether the economic benefits its leaders promised were actually being retained in Texas?
+If Andhra Pradesh could explicitly organize diaspora representatives to recruit investment, facilitate offshore operations, assemble land and incentives and count jobs, why did Texas settle for counting announcements and invoices?
+And if the Governor now believes labor category is important enough to justify a statewide H-1B intervention, why is the same information absent from the contractor channel through which Texas purchases so much technology labor?
+This is not a story about nationality
+The records do not support a claim that Indian immigrants as a group did something wrong. They do not show that every H-1B worker displaced an American. They do not show that every technology staffing company abuses immigration law. They do not show that political contributions bought contracts or that Texas officials conspired with Indian officials.
+Nor would those claims be necessary to establish the accountability problem.
+India and Andhra Pradesh are entitled to pursue their economic interests. Companies are entitled to organize, lobby, litigate, expand internationally and seek lawful incentives. Former officials may lawfully become lobbyists. Texas may lawfully recruit foreign investment and use private contractors.
+The relevant distinction is not Indian versus American.
+It is measured versus unmeasured.
+One government built machinery explicitly designed to bring operations and jobs home. Texas built machinery to recruit companies and purchase services but did not create a public system that follows taxpayer-funded labor all the way through the vendor chain.
+That is why the missing number is not merely a limitation of this investigation.
+It is one of its central findings.
+Show us the ledger
+Texas does not need to publish workers' names, immigration files or personal identifiers to answer the basic accountability question.
+For public technology contracts, the state could require and publish the legal vendor family; prime and material subcontractors; statement-of-work labor locations; hours and rates; aggregate work-authorization categories; material offshore delivery; and any approved exceptions involving state data or overseas access.
+When a federal labor filing identifies a Texas agency as an intended worksite or end client, the agency could confirm or dispute the relationship.
+For economic-development awards, Texas could publish promised and verified jobs under stable definitions, amendments, payroll verification, clawbacks and closeouts — and distinguish between jobs actually located in Texas and broader corporate employment.
+For TxEDC and state-supported missions, Texas could publish investor tiers, mission costs, project referrals, conflicts and recusals.
+None of that requires banning international trade or demonizing workers.
+It requires ordinary government accounting.
+For a decade, Texas photographed the bridge. It counted the companies crossing it. It announced investment. It celebrated promised jobs. It awarded contracts and paid invoices.
+At the other end, Andhra Pradesh openly built machinery to turn overseas relationships into investment, offices, offshore operations and employment.
+Then Abbott said taxpayer-funded opportunities should go to Texans first.
+Good.
+Now show Texans the ledger.
+________________
+
+
+Source map for editorial verification
+Governor's Texas & India Trade & FDI profile (revised July 2025): https://gov.texas.gov/uploads/files/business/India-Profile.pdf
+Abbott January 27, 2026 H-1B directive/press release: https://gov.texas.gov/news/post/governor-abbott-launches-investigation-into-h-1b-visa-abuse
+Abbott 2024 India mission recap: https://gov.texas.gov/news/post/governor-abbott-bolsters-enduring-economic-cultural-bond-with-india
+Abbott technology meetings in Mumbai: https://gov.texas.gov/news/post/governor-abbott-strengthens-economic-relationships-with-technology-partners-in-mumbai
+Abbott technology meetings in New Delhi: https://gov.texas.gov/news/post/governor-abbott-highlights-texas-robust-technology-industry-in-new-delhi
+State Auditor 16-020 — DIR IT staffing: https://sao.texas.gov/reports/main/16-020.pdf
+State Auditor 21-018 — DIR selected contract: https://sao.texas.gov/Reports/Main/21-018.pdf
+Sunset DIR staff report/final results: https://www.sunset.texas.gov/public/uploads/2025-07/DIR%20Staff%20Report%20with%20Final%20Results_7-8-25.pdf
+State Auditor 25-022 — 2025 contract monitoring: https://sao.texas.gov/reports/main/25-022.pdf
+State Auditor 26-027 — 2026 contract monitoring: https://sao.texas.gov/SAOReports/ReportNumber?id=26-027
+Texas Ethics Commission 2020 lobbyist roster: https://www.ethics.state.tx.us/data/search/lobby/2020/2020LobbyGroupByLobbyist.pdf
+Texas Ethics Commission 2024 client roster: https://www.ethics.state.tx.us/data/search/lobby/2024/2024LobbyGroupByClient.pdf
+Texas Ethics Commission 2025 client roster: https://webservices.ethics.state.tx.us/data/search/lobby/2025/2025LobbyGroupByClient.pdf
+Texas Ethics Commission 2026 client roster: https://webservices.ethics.state.tx.us/data/search/lobby/2026/2026LobbyGroupByClient.pdf
+DIR Deloitte vendor page: https://dir.texas.gov/contracts/vendors/deloitte-consulting-llp
+DIR Deloitte ITSAC: https://dir.texas.gov/contracts/dir-cpo-5691
+APNRTS investment portal: https://invest.apnrts.com/
+APNRTS coordinator guidelines: https://apnrts.ap.gov.in/coordinator_guidelines
+Andhra government APNRTS Investments Wing description: https://vizianagaram.ap.gov.in/andhra-pradesh-non-resident-telugu-society/
+APIIC September 2015 DTC allotment minutes: https://apiic.in/wp-content/themes/custom-theme/assets/uploads/plot_of_mettings/head_office/HO-SEP-15.pdf
+Contemporaneous 2016 ITServe/AP reporting: https://teluguone.com/nri/tone/pages/events-3-858.html
+DTC/TCS 2024 reporting: https://timesofindia.indiatimes.com/city/vijayawada/dallas-technology-centre-leases-premises-to-tcs-for-new-it-facility-in-visakhapatnam/articleshow/115849489.cms
+TCS Vizag 2025 land/job proposal reporting: https://www.business-standard.com/india-news/andhra-allots-21-16-acres-to-tcs-in-vizag-for-99-paisa-to-boost-it-hub-125041500986_1.html
+Editorial status
+This is Flagship V1: a publication-oriented rebuild, not a final fact-check pass. It deliberately excludes claims that remain too speculative for the flagship and preserves caveats around LCAs, offshore capability, lobbying, planned jobs and procurement causation. Before publication, every numerical assertion and named relationship should be mapped to the master evidence register and every subject should receive a fair opportunity to respond.
+________________
+
+
+THE CONNECTOR
+Arun Agarwal is not the scandal. He is the design.
+Part Two of TEXANS FIRST*
+By Nick Plumb  |  Working publication draft  |  September 1, 2026
+A man whose value is the connection
+Arun Agarwal calls himself a connector. Believe him.
+Over the past decade, Texas repeatedly placed Agarwal where institutions touched: India-facing commerce and the Governor's Office; private executives and state economic development; Dallas civic boards and billion-dollar capital planning; a private company and a former senior Abbott official; political fundraising and international trade missions.
+That is not evidence that Agarwal secretly controlled those institutions. It is evidence of something more revealing about how Texas chose to govern economic development.
+Agarwal is useful because he makes the architecture visible.
+He is not the system. He is what the system rewards: a person whose influence compounds because he can move between organizations that appear separate on an org chart but repeatedly depend on the same relationships in practice.
+The distinction matters. A story that tries to turn Agarwal into a mastermind would outrun the evidence. A story that treats him as merely a successful businessman with an unusually full résumé would miss what the public record shows.
+The public record shows reusable access.
+Agarwal's own description of himself captures the function neatly. In an interview reviewed for this investigation, he described himself as born in India, made in Texas, and able to serve both countries he loves. Texas government repeatedly elevated precisely that dual-facing role.
+The question is not whether that identity is legitimate. Of course it is.
+The question is why so much public and quasi-public authority was repeatedly concentrated in people whose principal value was their ability to connect private networks, political institutions and economic-development machinery — and what rules Texas built to govern the conflicts and dependencies that inevitably follow.
+The résumé is really a map
+Agarwal's public roles look eclectic until they are placed in sequence.
+He became an Abbott supporter and gubernatorial appointee. He co-chaired Abbott's 2018 economic-development mission to India with Sanjiv Yajnik. He helped build the Indian American CEO Council. By 2022, he was vice chairman of the Texas Economic Development Corporation. In August 2024, Abbott named him chairman.
+TxEDC matters because it occupies an unusual space. Abbott's own appointment announcement describes it as the private side of a public-private partnership with the Governor's Economic Development & Tourism Office, charged with marketing Texas domestically and globally as a business destination.
+TxEDC does not administer the Texas Enterprise Fund. That distinction is important. State incentive programs run through the Governor's economic-development apparatus. But TxEDC recruits, markets, introduces and helps put prospective investors into the state-development pipeline.
+That makes its chairman neither a ceremonial booster nor a grant officer. The power is relational.
+At the same time, Agarwal was deeply embedded in Dallas civic government. Abbott's 2024 appointment release identified him as president of the Dallas Parks and Recreation Board. Dallas also placed him over the Community Bond Task Force that developed recommendations for the city's 2024 capital-bond package.
+The city record is concrete. On December 6, 2023, Agarwal personally briefed the Dallas City Council on the task force's recommendations.
+A bond-task-force chair does not award construction contracts. It does not appropriate money. The council and voters retain those powers. But the chair helps organize the recommendations that determine which categories and needs become candidates for public capital.
+Agarwal also chaired National Cricket League USA and later disclosed a financial interest when Dallas discussions touched cricket facilities.
+These roles are not proof of self-dealing. They are precisely why a public conflict ledger matters.
+When the same person moves among economic development, parks, bond planning, private business, sports development, political fundraising and international recruitment, the public should not have to reconstruct the overlaps manually from meeting packets, appointments, company biographies and lobbying records.
+IACEO explains the model
+The Indian American CEO Council is one of the clearest windows into Agarwal's theory of influence because he described its purpose more candidly than most organizations describe themselves.
+In the interview reviewed for this investigation, Agarwal discussed building recognition of the Indian business community as a source of political and economic power. He compared the ambition to the organized influence achieved by Jewish-American institutions.
+The significance is not the ethnic comparison. It is the organizational theory behind it.
+Successful executives become more useful when their private stature is aggregated. A CEO by himself has a company. A network of CEOs can host officials, organize delegations, frame policy concerns, recruit investment and become the place politicians call when they need access to a business community.
+That is not inherently improper. Chambers of commerce do it every day.
+What makes IACEO relevant is its overlap with Texas's economic-development apparatus.
+Agarwal and Yajnik have occupied leadership roles there. Former Wipro CEO Abidali Neemuchwala later appeared in TxEDC governance; TxEDC's fiscal-year 2020 Form 990 listed him as secretary. A Tech Mahindra executive also appeared on the later IACEO board.
+Texas had already spent years recruiting Indian technology companies. Then executives from that world appeared inside institutions helping Texas conduct the next round of recruitment.
+Again, the point is not that the recruits captured Texas.
+It is that Texas deliberately built a model in which the line between the business community being recruited and the network doing the recruiting became thin by design.
+The 2018 mission was an institutional handoff
+The personnel surrounding Abbott's first India mission show how the system reproduced itself.
+In March 2017, Abbott announced that Robert Allen, then his deputy chief of staff, would leave the Governor's Office to become president and CEO of TxEDC. David Whitley, then Abbott's appointments director, replaced Allen as deputy chief.
+A year later, the Governor went to India.
+Agarwal and Yajnik co-chaired the mission. Allen was running TxEDC. Whitley traveled with the delegation.
+There is nothing mysterious about those facts. They are the ordinary mechanics of a public-private economic-development campaign.
+That ordinariness is exactly why they matter.
+The Governor's Office supplied authority. TxEDC supplied the private-side recruitment structure. Business connectors supplied relationships. Senior officials supplied continuity. The model depended less on formal command than on people who could carry access from one institution into another.
+One of the companies Abbott visited was Wipro. The Governor toured its Bengaluru campus and announced a new Wipro Texas Technology Center in Plano.
+Years later, Wipro would appear on Whitley's lobbying book.
+The relationship had moved from recruitment to representation without ever leaving the same broad political-economic ecosystem.
+Then the private company hired the insider
+Agarwal's own private business makes the connector model even easier to see.
+Agarwal is associated with Nextt, a Dallas-area company with textile, home-goods and related interests. In April 2020, Dallas ratified an emergency purchase from Nextt for personal protective equipment, with authorization up to $330,000.
+An emergency procurement during the first months of COVID-19 is not evidence of favoritism. Cities were buying scarce supplies under extraordinary conditions.
+The more important event came afterward.
+Texas Ethics Commission records show that in 2020, Nextt Affiliated retained David Whitley as a registered lobbyist. The same year's state lobbyist roster also lists Whitley for Wipro and Accenture.
+The dates matter. The known Nextt registration begins in June 2020. The Dallas PPE purchase came first.
+So the record does not support the claim that Whitley obtained that purchase for Nextt. It supports a different and cleaner statement: a private company associated with Agarwal, already doing business with a public entity, hired a former senior Abbott official whose career had run through gubernatorial appointments, the Governor's executive office, a secretary-of-state tenure and state economic development.
+This was not a consultant with a generic Rolodex.
+Whitley's value was knowledge of Texas government and relationships inside it.
+That is what a revolving door sells.
+The circle returned to India
+In January 2024, Abbott led another economic-development mission to India.
+The Governor's public releases identify Agarwal, then TxEDC vice chairman, beside Abbott throughout the trip. TxEDC and the Governor's economic-development office organized the mission, whose stated purpose was to encourage trade, job creation and Indian investment in Texas.
+Abbott met leaders from some of the world's largest technology companies. His office highlighted Tata Consultancy Services, HCLTech and other companies in a series of releases from Mumbai and New Delhi.
+Agarwal was no longer merely a businessman who knew people in India. He was part of the formal Texas recruitment apparatus.
+Contemporaneous delegation material reviewed in this investigation also places Whitley on the 2024 trip with Gregory Strategies and identifies a Nextt representative, Parikshit Dhume, in the delegation.
+The investigation has not established that Nextt paid Whitley for that mission or that Whitley attended on Nextt's behalf.
+That caveat is important.
+But the institutional recurrence remains striking. Agarwal, Whitley and a Nextt representative were again participating in the same Texas-linked India mission years after Nextt had retained Whitley.
+TxEDC sponsored the overall mission. Agarwal later became its chairman.
+The relationship did not need to be secret to be valuable. It needed to remain reusable.
+Dallas shows what reusable access looks like at home
+If the state story is about international recruitment, the Dallas story is about the domestic reuse of credibility.
+By 2023, Mayor Eric Johnson had put Agarwal in charge of the Community Bond Task Force. Dallas's own records show the task force meeting throughout the year, developing and reconciling recommendations across parks, streets, flood control, critical facilities, economic development, housing and other needs.
+On November 4, the task force finalized its recommendations. City minutes identify Agarwal as chair and record him leading the discussion over election timing. In December, he presented the recommendations to the City Council.
+The importance is not that he controlled a billion dollars. He did not.
+The importance is that a man whose public value had been built partly through state economic development and private business relationships was trusted to chair another public process allocating political attention across a huge capital program.
+At the same time, he remained president of the Parks Board and chairman of a sports enterprise with interests in Dallas facilities.
+That concentration of roles creates predictable questions. Did a capital category overlap with a private or nonprofit interest? Was a recusal required? Were relationships with vendors disclosed? Did an entity invited onto an international mission later seek city business? Did a sports-development proposal touch a board the same person chaired?
+Those questions do not imply the answer is yes.
+They reveal why disclosure systems exist.
+The problem is that Dallas and Texas generally publish their records by institution. The Parks Board keeps one file. The bond task force keeps another. TxEDC publishes another. Ethics records sit elsewhere. Corporate relationships sit elsewhere still.
+The connector experiences one network.
+The public receives six filing cabinets.
+The biography matters less than the institutional story
+Agarwal's public biographies contain inconsistencies about his education, arrival chronology and business origin story. Some biographies compress a complicated commercial history into a familiar narrative of immigrant entrepreneur, corporate employee and later founder.
+The underlying business history is clearly more layered, including the role of Anuradha Basu Agarwal and earlier commercial entities associated with the family.
+Those discrepancies warrant ordinary biographical fact-checking. They should not carry the weight of this story.
+An inconsistent biography is not evidence of public corruption. An old commercial lawsuit is not proof of fraud. A spouse's role in a business is not a scandal.
+The institutional record is stronger than any attempt to turn résumé discrepancies into the thesis.
+Agarwal's public influence does not depend on where exactly the origin story begins.
+It depends on where Texas repeatedly placed him.
+The other end of the bridge changes what 'connector' means
+The larger Texans First investigation found something that makes Agarwal's role easier to understand without making it more sinister.
+At the other end of Texas's India-facing relationship, Andhra Pradesh built a formal apparatus for converting overseas networks into investment, offices, operations and jobs.
+The Andhra Pradesh Non-Resident Telugu Society describes an investment function that helps overseas investors navigate government and establish businesses or offshore operations. Its coordinator structure treats diaspora representatives as economic-development infrastructure.
+ITServe member companies participated in that recruitment. Andhra offered the kinds of things economic-development governments normally offer: space, subsidies, workforce support, facilitation and access.
+That does not establish that Agarwal controlled APNRTS, ITServe or Andhra policy. This investigation has not found evidence that he did.
+It establishes why a person who can move among Texas political institutions, private executives and India-facing networks becomes strategically valuable.
+The bridge did not require one person to govern both ends.
+It required connectors on each end who could translate a relationship into an introduction, an introduction into an institution and an institution into another relationship.
+That is the design
+Public-private economic development is built to move faster than ordinary government.
+That is part of its appeal. A governor wants business leaders who can make calls. A mayor wants civic leaders who can marshal support. A recruitment corporation wants directors who understand corporate decision-makers. Companies want advisers who understand government. Diaspora organizations want members who can translate between markets.
+Put those incentives together and the connector becomes the highest-value person in the system.
+The same feature that makes the model efficient also creates its governance risk.
+Relationships accumulate faster than disclosure rules.
+A person's previous role becomes the reason for the next appointment. The appointment becomes proof of stature. The stature becomes business access. Business access creates new civic roles. Civic roles create still more proximity to government.
+No corrupt bargain is required.
+Influence compounds on its own.
+The records Texas should keep
+The answer is not to prohibit business leaders from public service or former officials from working in the private sector.
+It is to make the overlaps legible.
+TxEDC should publish investor tiers, annual contributions, mission sponsors, delegate rosters, mission costs, corporate referrals, conflict disclosures and recusals in one searchable place.
+When its directors or officers have private interests in companies connected to a mission, prospect or state incentive pipeline, that relationship should be disclosed before the meeting rather than reconstructed years later.
+Dallas should do the same for high-level advisory bodies. Bond-task-force members should have a public conflict file showing relevant private businesses, nonprofit leadership, development interests and recusals tied to categories under consideration.
+Former senior state officials representing companies that sell to Texas should be traceable through a simple revolving-door register connecting prior office, current client, subject matter and relevant state contracts.
+And economic-development claims should be followed beyond the announcement: promised jobs, verified jobs, state support, subsequent amendments and — where the work is performed through contractors — the actual geography of taxpayer-funded labor.
+Those are not punishment mechanisms.
+They are the accounting controls a relationship-driven system requires.
+Agarwal is not the scandal
+Arun Agarwal did not invent Texas's public-private model.
+The Governor appointed him because he was good at it.
+Dallas trusted him because he was good at it.
+Business organizations elevated him because he was good at it.
+His influence is not difficult to explain once the institutions are viewed together.
+He could connect them.
+That is why the most important conclusion about Agarwal is also the least sensational.
+He is not evidence that one man captured Texas.
+He is evidence that Texas built a system in which connectivity itself becomes a form of public power — while the public records needed to audit that power remain scattered across the institutions the connector moves between.
+Agarwal is not the scandal.
+He is the design.
+________________
+
+
+Source and fact-check map
+Governor Abbott names Agarwal TxEDC chair, Aug. 23, 2024: https://gov.texas.gov/news/post/governor-abbott-names-agarwal-chair-deanda-vice-chair-of-texas-economic-development-corporation-board-of-directors
+Governor Abbott 2024 India mission announcement: https://gov.texas.gov/news/post/governor-abbott-to-lead-economic-development-mission-to-india
+Governor Abbott Mumbai technology meetings, Jan. 22, 2024: https://gov.texas.gov/news/post/governor-abbott-strengthens-economic-relationships-with-technology-partners-in-mumbai
+Governor Abbott New Delhi technology meetings, Jan. 25, 2024: https://gov.texas.gov/news/post/governor-abbott-highlights-texas-robust-technology-industry-in-new-delhi
+Governor Abbott 2017 staff changes: Robert Allen to TxEDC; Whitley deputy chief: https://gov.texas.gov/news/post/governor_abbott_announces_staff_changes3
+Dallas Community Bond Task Force page: https://dallascityhall.com/departments/bond-construction-management/Pages/Community-Bond-Task-Force.aspx
+Dallas Dec. 6, 2023 council minutes identifying Agarwal briefing: https://citysecretary2.dallascityhall.com/pdf/CC2023/120623Min.pdf
+Texas Ethics Commission lobby search and 2020 registration lists: https://www.ethics.state.tx.us/search/lobby/
+Current project master evidence ledger: Internal newsroom source: Texans_First_Master_Investigation_Ledger_CURRENT.xlsx
+Prior Connector reporting draft: Internal newsroom source: The_Connector_UPDATED_2026-09-01.docx
+Publication cautions
+Do not characterize lawful appointments, lobbying, donations, civic service or India-facing business relationships as corruption without additional evidence.
+Do not say TxEDC awards Texas Enterprise Fund grants; it is the marketing/recruitment side of the public-private partnership, while state economic-development programs administer incentives.
+Do not state that Whitley procured the Dallas PPE purchase for Nextt; the known Nextt lobbying registration began after the purchase.
+Do not say Nextt paid Whitley for the 2024 India mission unless travel/payment records establish it.
+Do not imply Agarwal controlled APNRTS, ITServe, Andhra Pradesh policy or Indian technology companies. No such control has been established.
+Treat biographical inconsistencies as fact-checking matters, not evidence of misconduct.
+________________
+
+
+THE OTHER END OF THE BRIDGE
+Texas celebrated the relationship. Andhra Pradesh built machinery to capture the investment, operations and jobs.
+Part Three of TEXANS FIRST*
+By Nick Plumb  |  Working publication draft  |  September 1, 2026
+Texas looked at one end of the relationship
+For a decade, Texas officials described the state's relationship with India in the familiar vocabulary of economic development: investment, innovation, trade, jobs and friendship.
+Gov. Greg Abbott led two economic-development missions to India. His office celebrated corporate meetings, campus visits and announcements. Texas's public-private recruitment apparatus courted some of India's largest technology companies.
+Seen from Texas, the relationship was a bridge designed to bring companies and capital in.
+Seen from Andhra Pradesh, the bridge had another purpose.
+The state government there built an institution whose official job included organizing overseas residents, recruiting investors, helping them navigate government, developing workers and facilitating what its own materials call 'offshore operations.'
+It created overseas coordinators who were expected not merely to host cultural events but to bring prospective investors and close investment deals.
+It offered an investment pipeline that moves a prospect from first conversation to government introductions, site selection, incentives, land, approvals, implementation and aftercare.
+And when a U.S.-based technology-industry association brought companies interested in opening offices, Andhra officials responded with workspace, rent support, hiring incentives, skills programs and access to a state eager to create technology jobs.
+None of that is improper.
+It is economic development.
+The question for Texans is why the strategy at the other end of the bridge was so much easier to see than the accounting at home.
+The institution had a name
+The Andhra Pradesh Non-Resident Telugu Society, or APNRTS, was established by the Government of Andhra Pradesh in 2016.
+An official Andhra government page describes it as a fully state-owned entity and the government's nodal agency for nonresident Telugus and migrant workers.
+Its mission is broad. It assists migrants. It helps students. It works with overseas communities. It runs return-migration and skills programs.
+But buried inside that service structure is an economic-development function that is unusually explicit.
+The same government description says APNRTS's Investments Wing facilitates nonresident investors seeking to establish MSMEs or 'offshore operations in any segment' under Andhra's information-technology and industrial policies.
+That phrase matters because 'offshore' is often treated in American political debate as something corporations quietly do to cut costs.
+Here it appears in the public description of a state economic-development function.
+From Andhra's perspective, an offshore operation was not a scandal. It was a project to recruit.
+The diaspora was part of the machinery
+APNRTS did not treat the overseas community simply as a population to serve. It treated it as infrastructure.
+Its coordinator rules say representatives should promote Andhra investment opportunities to potential investors. The qualifying criteria say a coordinator should bring prospective investors and close at least one firm investment deal, with the Investments Division helping in the process.
+Other APNRTS materials describe coordinators as official representatives who can host visiting government officials and work with local organizations.
+The economic logic is straightforward.
+A government official in Amaravati does not personally know every entrepreneur in Dallas, New Jersey, California, London, Dubai or Singapore. A diaspora coordinator does.
+A coordinator can identify a prospect, validate the relationship, arrange the meeting and move the project into the state system.
+That is a distributed business-development network funded with something more valuable than money: social trust.
+The current investment portal makes the process even more explicit. It describes a sequence from introduction and sector matching to government facilitation, site visits, memoranda of understanding, approvals, grounding, implementation and aftercare.
+The portal says every stage is tracked so a serious investor is not lost after the first conversation.
+It tells overseas Telugu investors to think of Andhra as 'Your Homeland. Your Next Headquarters.'
+The language is current and cannot simply be projected backward onto every decision in 2016. But it reveals the institutional purpose with unusual clarity: convert relationships abroad into operations at home.
+Then came ITServe
+One of the most consequential joins in the record is ITServe Alliance.
+ITServe is a U.S.-based association of technology consulting and staffing companies. Its members operate in a labor model built around supplying technical expertise to clients, often through layered staffing relationships.
+The organization later became prominent in Washington for immigration advocacy, congressional outreach and litigation involving the third-party consulting model.
+But in 2016, Andhra Pradesh was interested in something else ITServe could provide.
+Companies.
+Contemporaneous reporting from the Andhra-ITServe relationship says roughly 50 ITServe member companies signed memoranda to establish operations in the state.
+The package described to those companies reportedly included discounted office rent, incentives tied to new hires, power support, registration-fee relief, skills development and other facilitation.
+Another contemporaneous account says ITServe companies raised practical concerns about opening Andhra offices and that the government responded with plug-and-play space, training support and access to state technology opportunities.
+Those reports are important but must be bounded carefully. A promised incentive is not a paid subsidy. A memorandum is not a completed office. The underlying government orders, company MOUs and disbursement records remain necessary to calculate what each firm actually received.
+Still, the policy direction is unmistakable.
+A U.S.-based industry built around selling technology labor was being recruited by an Indian state whose objective was to create technology operations and jobs inside India.
+The first offices were not hypothetical
+The relationship did not stop at ceremony.
+Contemporaneous accounts identify an initial group of ITServe-linked companies that opened or prepared operations in Visakhapatnam, including firms with later or continuing Texas footprints.
+Amzur Technologies is particularly useful because it appears repeatedly in the record. A 2016 report names Amzur among the companies signing Andhra memoranda. Later reporting identifies it among firms establishing Visakhapatnam operations.
+Amzur also appears in Texas's public technology market.
+That does not prove a Texas government contract was delivered from Andhra.
+It proves something more limited but still important: one corporate group can sit on both sides of the bridge — selling technology services in Texas while building delivery capacity in Andhra.
+The same pattern appears around other names associated with the Andhra cohort. IntelliSoft has a Dallas-area presence. Kairos has Texas roots and an India delivery footprint. Primus and other firms in the network have U.S. operations alongside Indian delivery capacity.
+A company having offices in both places is not evidence that work moved from one to the other.
+But it is exactly the kind of corporate architecture a serious labor-and-value ledger would need to account for.
+Dallas Technology Centre made the relationship physical
+The most vivid artifact of the relationship is a real-estate project on a hill in Visakhapatnam.
+Its name was Dallas Technology Centre.
+Official Andhra Pradesh Industrial Infrastructure Corporation records from September 2015 show approval of a plot for Dallas Technology Centre at the IT non-SEZ Hill 2 site in Visakhapatnam.
+The approved area was roughly 7,900 square meters for IT/ITES use.
+Contemporaneous ITServe-related reporting described a much larger ambition: a roughly ₹192-crore technology center planned by member companies, with intended occupants including IntelliSoft, Primus, Kairos, Voxai, Qatalys and others.
+The list should be treated as a plan, not a completed tenant roll. This investigation has not yet reconstructed every lease and occupancy agreement.
+But the state land record establishes that Dallas Technology Centre was not just conference rhetoric.
+It became a physical project backed by an Andhra land allotment.
+The name is almost too perfect for the larger story.
+A technology center in Andhra Pradesh, organized around U.S.-linked firms, named for a Texas city that had become one of the principal American hubs of the same consulting and staffing economy.
+The building's second life matters
+Years later, Dallas Technology Centre reappeared in the record for a different reason.
+In November 2024, Andhra's industries department approved steps allowing DTC's Rushikonda premises to be used for Tata Consultancy Services.
+The reporting on the government order says DTC sought an occupancy certificate, permission to sublease to TCS and an additional 1,600 square meters at the original land rate.
+The underlying plot had been transferred to DTC in 2016. The project received multiple extensions. DTC told the government that the TCS plan aimed to employ about 2,000 IT professionals in its first phase.
+The State Investment Promotion Board recommended a special package, and the government directed departments to expedite implementation.
+That sequence is significant because the project created during the earlier ITServe-era recruitment push eventually became useful infrastructure for one of the world's largest IT-services companies.
+It does not establish that Texas caused TCS to choose Visakhapatnam.
+It does not establish that Abbott's India missions led to the DTC arrangement.
+The known record points instead to Andhra's own political and economic-development efforts.
+The connection is institutional, not causal: the same Andhra strategy that recruited smaller U.S.-linked technology firms had created an asset that later could be repurposed to land a giant.
+Then Andhra made the objective impossible to miss
+In April 2025, Andhra approved a separate deal for TCS.
+The state cabinet allotted 21.16 acres in Visakhapatnam to the company for a symbolic 99 paise. TCS proposed a ₹1,370-crore development center expected to create more than 12,000 jobs.
+Business Standard reported that discussions began after Andhra IT Minister Nara Lokesh visited Tata House in October 2024 and pitched the company on a major development center.
+That deal is separate from Dallas Technology Centre and should not be blended with it.
+But together the projects show the same governing philosophy.
+Identify the company. Make the pitch. Assemble land and approvals. Remove friction. Measure success in investment and jobs.
+Andhra repeated the approach with other technology companies. In 2025, Cognizant was reported to have received a similarly symbolic land arrangement for a proposed Visakhapatnam campus.
+Again, the point is not that India did something wrong by competing for jobs.
+The point is that it competed deliberately.
+Texas's own numbers tell you who was winning what
+The asymmetry becomes more visible when the Andhra records are placed beside the Texas Governor's own bilateral investment profile.
+For January 2015 through December 2024, Texas's Economic Development & Tourism Office reports 74 Indian-company investment projects in Texas, $2.7 billion in announced capital and more than 8,650 announced jobs.
+The same profile reports 175 projects by Texas companies in India, $7.6 billion in announced capital and more than 59,300 announced jobs.
+Those figures are reported foreign-direct-investment estimates. They are not audited payroll, and they are not a measure of net social welfare.
+They should not be described as 59,300 Texas jobs 'lost' to India. The data does not say that.
+But they do show that during the decade Texas spent marketing the relationship, the Texas-company-to-India side was much larger on the same metrics economic-development offices use to celebrate success.
+And the Andhra records explain why that direction was not accidental.
+There was a government machinery trying to make it happen.
+This is economic development, viewed from the receiving end
+American political rhetoric often treats offshoring as an invisible corporate decision.
+The Andhra record shows a different reality.
+Offshore operations can be the product of public policy.
+A government can organize diaspora intermediaries, advertise incentives, map land, train workers, solve permitting problems, subsidize occupancy, introduce companies to officials and track the project from first contact through implementation.
+A local executive who opens an Indian delivery center may experience that as a corporate expansion.
+The receiving government experiences it as a jobs program.
+Both descriptions can be true at the same time.
+What the record still does not show
+The strongest version of this story is also the one most disciplined about what remains unknown.
+The records reviewed here do not prove that any specific Texas taxpayer-funded technology assignment was performed from Andhra Pradesh.
+They do not prove that every ITServe company received every advertised Andhra incentive.
+They do not prove that every company named as a Dallas Technology Centre occupant actually moved into the building.
+They do not prove that Abbott or Texas officials directed companies to offshore work.
+They do not prove that APNRTS controlled ITServe, or that ITServe controlled the companies in its membership.
+And they do not turn ordinary India-facing civic or business activity into evidence of disloyalty.
+The story is institutional.
+Andhra Pradesh built a public system whose success was defined partly by bringing operations, companies and employment home.
+Texas built a relationship with that economy while failing to build a comparable public accounting of what happened to labor and value inside its own contractor market.
+The public ledger Texas never built
+Imagine the records if Texas measured the relationship the way Andhra pursues it.
+For every state-supported investment project, Texans could see promised jobs, verified jobs, amendments, wage requirements, public subsidies and the location of the work.
+For every large technology contract, they could see the prime vendor, material subcontractors, hours, rates, worker geography and material offshore delivery.
+For every economic-development mission, they could see the companies recruited, the public or quasi-public resources used, the follow-up projects and the verified results.
+For every company operating on both sides of the bridge, Texas could distinguish a Texas job from an Indian delivery position instead of treating the corporate logo as the unit of economic success.
+That would not stop trade.
+It would tell Texans what the trade produced.
+The other end kept score
+Andhra Pradesh did not hide what it wanted.
+Its investment officials wanted companies.
+Its coordinators were expected to find investors.
+Its programs supported offices and workers.
+Its land agencies allocated space.
+Its political leaders pitched major employers.
+Its government celebrated jobs that landed in Andhra.
+That is what economic development looks like when the receiving end keeps score.
+Texas spent a decade celebrating the bridge.
+The other end was building a landing zone.
+And until Texas can show where the work, workers and value actually went, Texans are left with a peculiar arrangement:
+One side counted what it captured.
+Texas counted what it announced.
+________________
+
+
+Source and fact-check map
+APNRTS coordinator guidelines: https://apnrts.ap.gov.in/coordinator_guidelines
+Government of Andhra Pradesh description of APNRTS and Investments Wing: https://vizianagaram.ap.gov.in/andhra-pradesh-non-resident-telugu-society/
+APNRTS investment portal: https://invest.apnrts.com/
+APNRTS FAQs / organizational structure: https://apnrts.ap.gov.in/faqs
+APIIC September 2015 plot-allotment minutes: https://apiic.in/wp-content/themes/custom-theme/assets/uploads/plot_of_mettings/head_office/HO-SEP-15.pdf
+Contemporaneous 2016 ITServe/AP memoranda and DTC reporting: https://teluguone.com/nri/tone/pages/events-3-858.html
+Contemporaneous APNRT/ITServe incentive reporting: https://www.greatandhra.com/articles/special-articles/dr-ravi-vemuru-address-itserve-conference-78240
+DTC to TCS / Andhra government-order reporting, Nov. 2024: https://timesofindia.indiatimes.com/city/vijayawada/dallas-technology-centre-leases-premises-to-tcs-for-new-it-facility-in-visakhapatnam/articleshow/115849489.cms
+TCS 21.16-acre Visakhapatnam land deal, Apr. 2025: https://www.business-standard.com/india-news/andhra-allots-21-16-acres-to-tcs-in-vizag-for-99-paisa-to-boost-it-hub-125041500986_1.html
+Governor's Texas & India investment profile: https://gov.texas.gov/uploads/files/business/India-Profile.pdf
+Project master evidence ledger: Internal newsroom source: Texans_First_Master_Investigation_Ledger_CURRENT.xlsx
+Publication cautions
+Current APNRTS website language may postdate the 2016-24 events. Use it to describe the institution's current stated mission unless historical government orders or archived pages establish identical language at the relevant date.
+Do not convert an MOU or advertised incentive into a claimed subsidy receipt without the underlying sanction/disbursement record.
+Do not describe planned Dallas Technology Centre occupants as actual tenants without lease/occupancy evidence.
+Keep the 2024 DTC-to-TCS arrangement separate from the 2025 21.16-acre TCS land allotment.
+Do not attribute TCS's Visakhapatnam decisions to Abbott or Texas absent evidence of a causal link.
+Do not describe Texas-company investment in India as Texas jobs lost. The Governor's FDI profile reports projects, announced/estimated capital and jobs, not a displacement ledger.
+________________
+
+
+WHO GOVERNED THE BRIDGE?
+Texas built a public-private technology and investment system. Then some of the officials who knew it from the inside went to work around the companies using it.
+Part Four of TEXANS FIRST*
+By Nick Plumb  |  Working publication draft  |  September 1, 2026
+The bridge had governors
+By the time Gov. Greg Abbott declared in January 2026 that taxpayer-funded employment opportunities should go to Texans, Texas had spent more than a decade building a government technology market and an international economic-development apparatus whose boundaries were deliberately porous.
+State agencies bought technology through statewide cooperative contracts. Private executives helped market Texas abroad. Economic-development organizations operated beside the Governor's Office. Former officials became consultants and lobbyists. Corporate representatives moved through boards, missions and public-private institutions.
+That architecture is the subject of this series.
+But architecture does not govern itself.
+People do.
+The most revealing people are not necessarily the executives who won contracts or the companies that opened offices. They are the intermediaries who understood Texas government from the inside and later represented, advised or worked around private companies participating in the same broad ecosystem.
+David Whitley is the clearest example.
+John B. Scott is another.
+Ruth Ruggero Hughs shows how economic-development and executive authority can reside in the same career.
+Jerry Strickland shows how long political proximity can become private government-relations value.
+None of those career paths proves a corrupt bargain.
+Together, they expose a governance problem Texas has never adequately solved: the state can disclose a lobbying registration, a board appointment and a contract in three different systems while never giving the public a single view of the relationship among them.
+David Whitley knew the machinery
+David Whitley's résumé reads like an instruction manual for Texas executive government.
+He worked for Abbott for years. He served as appointments director, then deputy chief of staff. Abbott later appointed him secretary of state.
+The appointments role alone matters. Texas government is populated by boards and commissions whose members are chosen by the governor. An appointments director learns not merely names, but institutions: who governs them, how vacancies are filled, which constituencies matter and where influence actually resides.
+As deputy chief of staff, Whitley's view became broader.
+Then he became Texas secretary of state.
+The office is best known for elections, but it also sits inside the state's international and business-facing machinery. Texas secretaries of state regularly participate in trade, diplomatic and economic-development activity.
+Whitley also traveled on Abbott's 2018 India mission, placing him directly inside one of the central events examined in this series.
+He was therefore not simply a former politician when he entered private consulting.
+He was a former senior executive-branch operator with direct knowledge of appointments, the Governor's Office, statewide institutions and Texas's India-facing economic-development network.
+By 2020, that knowledge was for sale
+Texas Ethics Commission records establish that by 2020 Whitley was registered through Gregory Strategies to represent private clients before Texas government.
+Three names are particularly important to this investigation.
+Accenture.
+Wipro.
+Nextt Affiliated.
+The dates correct an important misconception that appeared in earlier reporting notes. Whitley's relationship with Accenture did not begin in 2023. The Texas Ethics Commission's 2020 lobby roster lists Accenture as a prospective client beginning June 26, 2020. The same roster lists Nextt Affiliated beginning June 26 and Wipro beginning February 8.
+Those registrations do not prove Whitley influenced a particular contract. A lobbying registration identifies a client relationship; it does not identify every meeting, communication or result.
+But the client list is institutionally revealing.
+Wipro was one of the Indian technology companies Abbott had personally courted. During the 2018 mission that Whitley attended, Abbott toured Wipro's Bengaluru campus and announced a new Wipro Texas Technology Center in Plano.
+Accenture is one of the world's largest government technology contractors.
+Nextt was associated with Arun Agarwal, who co-chaired the 2018 India mission and later became chairman of the Texas Economic Development Corporation.
+A former senior Abbott official had become a paid representative for companies sitting at three different points in the network: a global technology contractor, an India-headquartered technology company Texas had recruited, and the private company associated with one of Texas's most prominent India-facing business connectors.
+What the record does — and does not — prove
+The temptation is to call that a closed loop.
+The evidence does not yet support that phrase if it implies contracts were steered.
+This investigation has not established that Whitley caused Wipro, Accenture or Nextt to receive a specific Texas contract.
+It has not established that Abbott directed Whitley to represent them.
+It has not established that the companies hired Whitley because of a particular pending procurement.
+And the timing matters. Dallas's emergency 2020 PPE authorization involving Nextt predates the known Nextt lobbying registration. The record therefore does not support saying Whitley obtained that purchase.
+What it proves is more structural.
+Texas built relationships with companies. Senior officials helped administer and promote those relationships. Those officials could later leave government and monetize their institutional knowledge through private representation.
+The public is then expected to prove a specific act of favoritism before asking whether the system itself contains enough safeguards.
+That reverses the purpose of governance.
+Conflict rules are supposed to make the public confident before misconduct occurs, not merely provide evidence after it.
+John Scott occupied an even more technical position
+John B. Scott's career presents a different version of the same problem.
+Abbott appointed Scott chairman of the Texas Department of Information Resources board in January 2016.
+DIR is not a peripheral agency in this investigation. It is the institution that builds and administers the statewide technology contracting vehicles through which agencies buy software, cloud services, staffing and other technology.
+Abbott's later biography of Scott says that while serving as DIR chair, he developed a strategic plan for technology and security across executive-branch agencies and boards.
+That is unusually valuable private-sector knowledge.
+Scott later served as Texas secretary of state from October 2021 through December 2022 and briefly as interim attorney general in 2023.
+He subsequently entered private legal and government-relations work.
+Texas Ethics Commission records for 2024, 2025 and 2026 list Deloitte among Scott's prospective lobbying clients.
+Deloitte, meanwhile, participates broadly in Texas's technology market. Its current DIR portfolio includes an ITSAC staffing contract beginning in 2025.
+Again, the chronology does not prove Scott helped Deloitte obtain that contract.
+A DIR master contract is also not the same thing as a purchase order or payment. Vendors compete for statewide vehicles and then agencies purchase through the rules governing those vehicles.
+But the overlap is precisely the kind Texas should make easy to audit.
+A former DIR chairman who helped shape executive-branch technology strategy later registers to represent a company selling technology services through DIR.
+That is not an accusation.
+It is a fact pattern that should trigger transparent, searchable disclosure.
+The state knew revolving doors were a governance problem
+Texas law already recognizes the underlying risk.
+The state has revolving-door restrictions, conflict rules and lobbying disclosure requirements. Procurement law contains additional limits involving former employees and contracting.
+Those controls matter, and this story should not pretend they do not exist.
+The problem is fragmentation.
+A citizen trying to understand Scott's relationship to Deloitte must first know that Scott once chaired DIR, find the gubernatorial appointment record, understand DIR's procurement role, search the Ethics Commission's lobby database, determine that a prospective registration is not necessarily proof of compensation, find Deloitte's DIR contracts, and then separately determine whether any state agency actually spent money through them.
+Nothing in that chain is secret.
+Almost nothing in that chain is connected for the public.
+Opacity can be produced without secrecy.
+Sometimes all it requires is making every institution disclose its own small piece.
+Ruth Hughs shows the economic-development side
+Ruth Ruggero Hughs followed another route through the Abbott administration.
+She served on the Texas Workforce Commission, including as chair, and Abbott later appointed her secretary of state.
+The Workforce Commission matters here because it sits at the intersection of employers, labor policy and public workforce programs. TWC also buys technology through the same state procurement architecture examined in Part One.
+Hughs later returned to private legal practice.
+Her career is not presented here because this investigation has established that she represented a particular technology vendor in a procurement. It has not.
+She matters because the same small set of executive institutions repeatedly produces people with extraordinary knowledge of Texas labor, appointments, business recruitment and regulation.
+That knowledge has legitimate value in private practice.
+It also has public value.
+Texas's disclosure system overwhelmingly protects the first proposition while doing too little to preserve the second.
+When a senior official leaves, the public loses an institutional operator. The private market gains one.
+A serious revolving-door regime should make the transfer visible enough to evaluate.
+Jerry Strickland represents political continuity
+Jerry Strickland's route is less about an agency and more about proximity.
+Abbott's own 2015 appointment announcement described Strickland as a longtime spokesman and adviser whose work with Abbott dated to 2003.
+Strickland later became a registered lobbyist.
+Texas Ethics Commission records show Cognizant Technology Solutions retaining him in 2024, with another registration appearing in 2025.
+Cognizant is not a minor participant in the issues examined by this series.
+It is a major global technology-services company, a substantial user of the H-1B program, a participant in government technology markets and an active federal lobbying presence.
+Its federal lobbying disclosures in 2025 identify issues including H-1B and high-skilled immigration, the U.S.-India bilateral relationship, workforce and retraining policy, STEM, artificial intelligence, privacy and tax.
+That federal disclosure should not be conflated with Strickland's Texas work. The federal filing was signed by Cognizant's Washington government-affairs operation and does not establish that Strickland lobbied Abbott about immigration.
+The significance is broader.
+A company whose business model intersects with temporary skilled labor, global delivery and public technology contracting hired a Texas lobbyist whose political relationship with Abbott stretched back more than two decades.
+That is exactly what sophisticated companies are expected to do.
+It is also exactly why the public needs a better map.
+The corporate side built its own government expertise
+The revolving door does not move only from Texas government outward.
+Companies build permanent internal government-relations operations designed to navigate both federal and state policy.
+Cognizant's current U.S. government-affairs leadership offers a useful example.
+Neil Bjorkman previously led government relations for Tata Consultancy Services in North America. Before that, he worked for U.S. Rep. Pete Sessions on an international portfolio that included India. His public biography describes legal study and work in India and a career focused on deepening U.S.-India commercial ties.
+Federal lobbying disclosures show TCS lobbying on high-skilled immigration and employment-visa issues during his tenure.
+By 2025, Bjorkman had moved from TCS to Cognizant as head of U.S. government affairs.
+He had also appeared in materials associated with Abbott's 2024 India mission.
+There is no evidence in the record reviewed for this story that Bjorkman coordinated Texas contracts for TCS or Cognizant, or that Abbott's mission discussed H-1B policy with him.
+The value of the example is institutional.
+The companies Texas recruits and buys from do not approach government as passive vendors.
+They maintain professional systems for influencing, understanding and responding to government.
+Texas should govern the relationship with comparable sophistication.
+The warning lights were already on
+This revolving-door structure would be less consequential if Texas's procurement oversight were unusually strong.
+The audit history says something more complicated.
+A 2016 State Auditor's Office report distributed to Abbott's office, DIR and TWC found weaknesses in contractor-management controls and in verification of vendor compliance with E-Verify requirements. The report did not find an H-1B scandal. E-Verify is not an H-1B census.
+A 2021 State Auditor's Office audit of DIR found high-risk weaknesses in vendor scoring and procurement transparency, including inconsistent documentation of evaluation justifications and criteria.
+The later Sunset review was more favorable in important respects. It credited DIR with improvements and noted that recent audits had not produced the same priority findings.
+But Sunset still identified gaps involving specialized IT procurement expertise and weaknesses in cooperative-contract pricing and vendor compliance. It also described barriers in the state's IT staffing and technology-services programs.
+In April 2025, the State Auditor found that nine of Texas's 25 largest agencies — 36 percent — warranted additional contract monitoring for at least one contracting period.
+By June 2026, that number had risen to 13 of 25, or 52 percent.
+Those are general contracting-risk assessments, not findings that foreign labor or technology vendors caused the problems.
+But they destroy the comforting assumption that Texas entered the current debate with a mature contracting system that merely needed a new immigration rule.
+The state was still struggling with basic contract governance.
+Then Abbott changed the rule for one channel
+On January 27, 2026, Abbott directed state agencies and public universities to stop using the H-1B program without Texas Workforce Commission approval and to report information about their existing H-1B workforce.
+Politically, the directive was straightforward.
+Taxpayer-funded employment opportunities, Abbott said, should go to Texans first.
+Administratively, the rule focused on public entities petitioning for H-1B workers.
+But Texas's technology labor market is not limited to people directly employed by state agencies.
+DIR's ITSAC program exists specifically so agencies can obtain technology staff through private vendors. Those vendors may use employees, and the standard contract architecture expressly contemplates subcontractors.
+The investigation has found that some agencies add candidate-level location restrictions. Current HHSC staffing requests reproduced by multiple vendors, for example, require Texas residence for certain remote and hybrid positions.
+One recruiter posting associated with an HHSC solicitation even says 'No H1B,' although this investigation has not yet established whether that language originated with HHSC or the recruiter.
+That qualification matters.
+The larger point is that Texas does not appear to operate one uniform public ledger tying together direct employees, contractor employees, subcontractors, work location and immigration/work-authorization category.
+Abbott changed the rule for the channel government could see most easily.
+The contractor channel remained governed by procurement architecture built long before the directive.
+This is why the intermediaries matter
+The central question of a revolving-door story is usually phrased too narrowly.
+Did the former official improperly influence a contract?
+That is an important question when evidence supports asking it.
+But it is not the only question.
+A better one is: who has enough information to understand the whole system?
+A DIR chairman understands the technology apparatus.
+A deputy chief of staff understands the Governor's Office.
+An appointments director understands the boards.
+A secretary of state understands executive government and international relationships.
+A longtime gubernatorial adviser understands political decision-making.
+A corporate government-affairs executive understands the company's policy exposure and the officials who can change it.
+When those people move between government and the companies surrounding government, information moves with them.
+The public receives no comparable transfer.
+It gets a website.
+Texas needs a relationship ledger
+The reform implied by these records is surprisingly modest.
+Texas should publish a machine-readable relationship ledger for senior officials and major state contractors.
+For each governor-appointed senior official, agency executive, board chair and procurement leader, the ledger should show the public role, dates of service, relevant recusals and subsequent registered clients for a defined cooling-off period.
+For each major contractor, it should show current registered Texas lobbyists, former senior state officials employed or retained in government-relations roles, active statewide contract vehicles, material subcontractors where disclosed, and actual state payments.
+For public-private economic-development organizations, it should additionally show board membership, investor or donor tiers, mission participation and relevant conflicts.
+None of those facts is inherently incriminating.
+That is the point.
+A disclosure system should not treat a relationship as shameful. It should treat it as material.
+Who governed the bridge?
+Texas's India-facing economic-development network was not governed by a secret committee.
+Its technology market was not run by one company.
+Its revolving door was not created by one former official.
+The system was governed the way modern public-private systems are usually governed: partially.
+One institution handled procurement.
+Another handled recruitment.
+Another handled appointments.
+Another disclosed lobbying.
+Another recorded payments.
+Private companies maintained their own government-relations networks.
+Former officials carried institutional knowledge from one side to the other.
+No one public ledger assembled the whole thing.
+That fragmentation is not proof of corruption.
+It is the condition that makes conflicts harder to see and accountability harder to assign.
+Texas built the bridge.
+Private actors learned how to navigate it.
+Former public officials could sell what they knew about it.
+And when Abbott finally announced a Texans-first rule for taxpayer-funded employment, the state still lacked the integrated accounting necessary to show who was governing the contractor workforce beyond the direct public payroll.
+Before Texas asks the public to trust the policy, it should show the relationships.
+Who represented whom.
+Who appointed whom.
+Who sold to whom.
+Who bought.
+And who, after leaving government, came back through another door.
+________________
+
+
+Source and fact-check map
+Abbott appointment of John B. Scott as DIR chair, Jan. 15, 2016: https://gov.texas.gov/news/post/governor_abbott_appoints_scott_to_department_of_information_resources
+Abbott staff changes: Robert Allen to TxEDC and Whitley deputy chief, Mar. 2017: https://gov.texas.gov/news/post/governor_abbott_announces_staff_changes3
+Texas Ethics Commission lobby search: https://www.ethics.state.tx.us/search/lobby/
+2020 Texas lobbyist roster — Whitley / Accenture / Nextt / Wipro: https://www.ethics.state.tx.us/data/search/lobby/2020/2020LobbyGroupByLobbyist.pdf
+Governor Abbott 2018 India mission / Wipro announcement: https://gov.texas.gov/news/post/governor-abbott-announces-wipro-limited-expansion-in-plano-new-technology-center
+DIR current contracts and vendor search: https://dir.texas.gov/contracts
+State Auditor Report 16-020: https://sao.texas.gov/reports/main/16-020.pdf
+State Auditor Report 21-018: https://sao.texas.gov/Reports/Main/21-018.pdf
+Texas Sunset DIR final report: https://www.sunset.texas.gov/public/uploads/2025-07/DIR%20Staff%20Report%20with%20Final%20Results_7-8-25.pdf
+State Auditor Report 25-022: https://sao.texas.gov/reports/main/25-022.pdf
+State Auditor Report 26-027: https://sao.texas.gov/SAOReports/ReportNumber?id=26-027
+Abbott H-1B directive, Jan. 27, 2026: https://gov.texas.gov/uploads/files/press/H-1B_Visa_Program_Letter_1.27.2026_State_Agency_Heads_FINAL_.pdf
+Project master evidence ledger: Internal newsroom source: Texans_First_Master_Investigation_Ledger_CURRENT.xlsx
+Publication cautions
+Do not state or imply that Whitley, Scott, Hughs or Strickland improperly influenced a specific procurement without transaction-level evidence.
+A prospective Texas lobbying registration is not proof that compensation was actually paid or that a particular lobbying contact occurred.
+A DIR master contract is not evidence of agency spend; distinguish contract eligibility, purchase orders and payments.
+Whitley's known Nextt registration postdates the Dallas emergency PPE purchase. Do not attribute that purchase to his lobbying.
+Scott's later Deloitte relationship creates a revolving-door fact pattern, not proof that he influenced Deloitte's DIR awards.
+Do not conflate Cognizant's federal immigration lobbying with Strickland's Texas lobbying unless records establish the same subject matter.
+2016 audit distribution to the Governor's Office does not prove Abbott personally read the report.
+E-Verify findings are not H-1B findings.
+2025 and 2026 SAO monitoring ratings are general contracting-risk findings unless separately cross-walked to specific IT contracts.
+HHSC recruiter mirrors are leads/corroboration; do not attribute a 'No H1B' clause to HHSC until the primary solicitation is obtained.
+________________
+
+
+EDUCATE. LOBBY. LITIGATE.
+How ITServe turned a fragmented technology-consulting industry into an organized political, legal and economic-development network.
+Part Five of TEXANS FIRST*
+By Nick Plumb  |  Working publication draft  |  September 1, 2026
+Three verbs explain the organization
+ITServe Alliance has used a remarkably efficient description of what it does.
+Educate. Lobby. Litigate.
+Those three verbs are more useful than any label outsiders might impose on the organization.
+They describe an industry that learned how to act collectively.
+Technology consulting and staffing is structurally fragmented. Thousands of firms recruit workers, supply consultants, subcontract through larger vendors, compete for clients and navigate an immigration system in which a change in federal policy can alter the economics of the entire business model.
+A single small consulting company has little political leverage.
+Hundreds or thousands acting through an association are different.
+ITServe built chapters. It held conferences. It organized congressional visits. It developed political relationships. It challenged federal immigration policies in court. It advocated for the third-party consulting model. It created a political-action apparatus. And, as Part Three of this series showed, its member network also became useful to an Indian state government trying to recruit technology operations and jobs.
+Texas sits near the center of that story.
+The organization was founded in the Dallas area. North Texas became one of its deepest company clusters. Texas politicians appeared at its events. Member executives contributed to campaigns. Member companies entered the state's public technology market.
+None of those activities is inherently improper.
+The significance is organizational.
+An industry that Texas often encounters as a list of individual vendors learned to operate as a network.
+The business model came first
+To understand ITServe's political power, start with the companies.
+Many ITServe members participate in the technology-consulting model sometimes called staff augmentation or IT staffing. A client needs a developer, architect, analyst or engineer. A consulting firm supplies one. Sometimes the worker is the firm's own employee. Sometimes another staffing company sits in the chain. Large integrators may use smaller subcontractors. Public agencies can purchase similar labor through statewide staffing vehicles.
+Temporary skilled-worker programs, particularly H-1B, became important to parts of this industry.
+That statement requires precision.
+An ITServe member is not necessarily an H-1B-dependent employer. An H-1B-dependent company does not employ only H-1B workers. A Labor Condition Application is not a visa approval, and it does not prove that a worker performed a particular government contract.
+But federal records and ITServe's own advocacy history make the broader relationship undeniable: high-skilled immigration policy is economically important to a substantial portion of the constituency ITServe represents.
+When federal agencies changed how they treated third-party placements, the association did not merely complain.
+It organized.
+Educate
+The least confrontational verb may be the most important.
+ITServe's chapters and conferences create a continuous education system for business owners operating in a complicated regulatory market.
+Members learn immigration compliance, recruiting, contracting, tax, employment law, sales, cybersecurity, artificial intelligence and business development.
+They also learn politics.
+The organization's public materials have repeatedly promoted congressional outreach and Capitol Hill activity. Members meet lawmakers and staff, explain the consulting model and advocate for policies favorable to the industry.
+That is ordinary interest-group politics.
+The sophistication lies in turning small-business owners into repeat participants.
+A congressional office may hear from one large corporation through a professional government-affairs department. ITServe can instead bring executives whose companies employ constituents, pay taxes, sponsor workers and operate in dozens of districts.
+The message becomes geographically distributed.
+The organization does not need every member to become a lobbyist.
+It needs members to understand that access is part of the business environment.
+Lobby
+ITServe's political program eventually became explicit enough to be summarized in the organization's own slogan.
+Its advocacy has focused heavily on high-skilled immigration and the rules governing consulting companies that place employees at third-party client sites.
+That distinction matters because federal immigration enforcement repeatedly challenged features of the consulting model: whether an employer retained sufficient control over a worker at a customer site, how long an H-1B approval should last, what documentation was required, and whether third-party placement justified heightened scrutiny.
+For an industry built around placing technical workers with clients, those were not abstract administrative questions.
+They determined whether the model worked.
+ITServe responded with direct advocacy, member mobilization and professional lobbying.
+The organization also developed a political-action structure capable of supporting candidates and building relationships.
+Political contributions do not purchase policy. A lawful contribution is not evidence of a quid pro quo.
+But contributions are one component of organized access, especially when combined with events, lobbying, congressional visits and an association capable of presenting a unified industry agenda.
+Litigate
+The third verb distinguished ITServe from a conventional trade association.
+When persuasion failed, it sued.
+ITServe became a named plaintiff in litigation challenging federal immigration policies affecting third-party consulting companies.
+The cases targeted policies that made it harder for consulting firms to obtain H-1B approvals for workers assigned to customer locations, including requirements around employer-employee relationships and shortened approval periods.
+The litigation produced consequential victories for the industry.
+That history matters because it shows what ITServe had become.
+This was no longer merely a networking club for technology entrepreneurs.
+It could identify a regulatory threat, organize affected companies, hire counsel, litigate against the federal government and change the operating environment for its members.
+That is institutional power.
+Texas was not incidental
+ITServe's Texas footprint makes the organization directly relevant to this investigation.
+North Texas has long been a major center for technology staffing and consulting firms. ITServe's Dallas chapter and its national events brought together executives from that market.
+The organization's company rosters reviewed for this investigation include firms that also appear in Texas procurement, federal labor filings, Texas corporate records and the Andhra Pradesh recruitment story.
+Those overlaps must be interpreted carefully.
+Membership in ITServe does not mean a company coordinated its government contracting with the association.
+A Texas contract does not mean an ITServe relationship produced it.
+An H-1B filing does not mean an H-1B worker performed the contract.
+The important finding is the denominator problem.
+Texas sees the firms one procurement at a time.
+The firms can see one another as an industry.
+Abbott entered the room
+By March 2022, the network had enough political stature in Texas for Gov. Greg Abbott to appear as chief guest at an ITServe event in Dallas.
+A governor appearing before a business association is normal politics.
+But the timing becomes more interesting when placed beside campaign-finance records.
+In a 16-day period in February 2022, eight North Texas technology executives identified in this investigation each contributed $2,500 to Abbott's campaign, for a combined $20,000.
+Several of the executives or their companies have documented ITServe ties. Several companies also have substantial federal labor-certification histories.
+The contributions were lawful.
+This investigation has found no evidence that Abbott promised an official act in exchange for them.
+The pattern is useful for a different reason.
+It shows political organization at the level of people who otherwise appear in government databases as unrelated executives and companies.
+The same commercial community could participate in immigration advocacy, association leadership, political events, campaign contributions and public contracting without any one database showing the whole network.
+The public-contracting overlap
+The Texas technology market is where this becomes more than a campaign-finance story.
+Texas buys enormous amounts of technology through private vendors. DIR's ITSAC program supplies individual technology workers. DBITS and other cooperative vehicles supply broader technology services.
+The investigation's working vendor census has found ITServe-linked companies inside those markets.
+It has also found major global technology companies with substantial H-1B histories, even when those companies are not part of ITServe.
+The categories should not be collapsed.
+An ITServe member, an Indian-headquartered global integrator and an H-1B-dependent staffing company are not the same thing.
+What they share is access to a Texas procurement architecture that generally contracts with the company rather than maintaining a statewide public ledger of every worker behind the company.
+That distinction became politically important only after Abbott declared taxpayer-funded opportunities should go to Texans.
+The state could identify the vendor.
+Could it identify the labor?
+Andhra saw the network differently
+Part Three showed the other side of ITServe's institutional value.
+To Texas, an ITServe company might be a vendor, employer, donor or local business.
+To Andhra Pradesh, the association was a recruitment channel.
+In 2016, APNRTS officials engaged ITServe companies about opening operations in Andhra. Contemporaneous reports describe roughly 50 member companies signing memoranda and a package of office-space, rent, hiring and skills incentives.
+The Dallas Technology Centre emerged from that broader effort.
+This does not mean ITServe was secretly moving Texas government jobs to India.
+The evidence does not support that claim.
+It means the same organized network could pursue different interests in different venues.
+In Washington: immigration rules that preserve access to skilled labor.
+In Texas: political relationships, customers and public contracting opportunities.
+In Andhra: offices, incentives, workers and delivery capacity.
+Those interests are not necessarily contradictory from the perspective of a multinational consulting company.
+They can be complementary.
+That is precisely why a state economic policy centered on 'Texas jobs' needs more than company-level accounting.
+A company can be local and global at once
+The political language surrounding business recruitment often treats a company as though it has one location.
+It does not.
+A consulting firm can have a headquarters in Irving, recruiters in New Jersey, developers in Hyderabad, an Andhra delivery center, H-1B employees at U.S. client sites, U.S. citizens working remotely from Texas and subcontractors employed by still other firms.
+Every one of those workers can legitimately contribute to the same company's revenue.
+A Texas purchase order naming that company tells the public almost none of this.
+This is where the ITServe story joins the first story in this series.
+The issue is not that a global company is global.
+The issue is that Texas political leaders make geographically specific promises about jobs while the state's contracting records remain primarily corporate.
+The association fought for the model
+ITServe's litigation history also clarifies a point often obscured in immigration debate.
+Third-party placement was not an accidental feature of the H-1B consulting market.
+The industry defended it as a core feature of legitimate consulting.
+When federal agencies imposed policies that threatened the model, ITServe argued that the government had exceeded its authority and imposed unlawful burdens.
+Courts and federal settlements gave the industry significant relief.
+Those legal victories should be described accurately, not as evidence of wrongdoing.
+They demonstrate that the consulting model had organized defenders capable of shaping the rules under which it operated.
+Texas had no comparable public institution whose job was to ask a different question:
+When the customer is the taxpayer, where did the work actually occur?
+The missing denominator
+The most ambitious research effort behind this series has been an attempt to answer a deceptively simple question: how much of Texas's public technology market is occupied by companies connected to the staffing, H-1B and global-delivery ecosystem?
+The working census has reviewed hundreds of DIR vendors, Texas payment records, federal Labor Condition Applications, corporate identities and ITServe rosters.
+The exercise has produced substantial overlap.
+But publication requires restraint.
+The underlying datasets have different denominators, dates and meanings. A matched company name can hide subsidiaries or similarly named entities. Federal labor records show employer activity, not state-contract staffing. A DIR listing establishes eligibility, not spend.
+For that reason, this story does not publish a single sensational percentage and pretend it answers the question.
+The census belongs in the evidence report with its methodology exposed.
+The more important conclusion does not depend on a disputed percentage.
+Texas has never built the denominator itself.
+If the Governor wants to know what share of taxpayer-funded technology labor is performed by Texans, temporary-visa workers, out-of-state workers or workers outside the United States, the state should not need an investigative project to reconstruct it.
+What organized industries understand
+ITServe's success offers a lesson that extends beyond immigration.
+Organized industries know that rules are made at multiple levels.
+A federal agency controls visa adjudication.
+Congress writes immigration law.
+A state controls procurement.
+A governor influences appointments and economic-development priorities.
+A city buys services.
+An Indian state controls land, incentives and local approvals.
+A sophisticated association does not choose only one arena.
+It operates where the relevant decision is made.
+That is not infiltration.
+It is advocacy.
+The democratic problem arises when government does not organize its own information with equal sophistication.
+Texas was organized around the vendor, not the worker
+Abbott's 2026 H-1B directive finally imposed a worker-centered political principle.
+Taxpayer-funded opportunities should go to Texans first.
+But the state's procurement system had been built around vendors, contracts, categories, rates and deliverables.
+That mismatch is the heart of the final story in this series.
+ITServe did not create it.
+The association simply became very good at operating inside the system that existed.
+It educated its members.
+It lobbied lawmakers.
+It litigated against rules it considered unlawful.
+It built political relationships.
+Its members pursued customers.
+Some pursued operations abroad.
+That is what an effective trade association does.
+Educate. Lobby. Litigate.
+The slogan sounds aggressive because it is.
+It is also unusually honest.
+ITServe tells its members that business success requires more than filling technology jobs.
+They must understand policy.
+They must participate in politics.
+And when necessary, they must challenge government itself.
+Texas should take the organization at its word.
+Not because collective advocacy is illegitimate.
+Because it works.
+The companies learned to see themselves as a network.
+Government continued to see them as vendors.
+That difference in perspective matters.
+By the time Abbott announced that taxpayer-funded opportunities should go to Texans first, one side of the market had spent years organizing around the rules governing labor.
+Texas was still trying to determine who the workers were.
+________________
+
+
+Source and fact-check map
+ITServe Alliance official site: https://itserve.org/
+ITServe PAC / advocacy materials: https://itserve.org/
+Texas Ethics Commission campaign-finance search: https://www.ethics.state.tx.us/search/cf/
+Texas Ethics Commission lobby search: https://www.ethics.state.tx.us/search/lobby/
+Texas DIR contracts: https://dir.texas.gov/contracts
+USCIS H-1B program information: https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations
+U.S. Department of Labor LCA disclosure data: https://www.dol.gov/agencies/eta/foreign-labor/performance
+APNRTS coordinator guidelines: https://apnrts.ap.gov.in/coordinator_guidelines
+Government of Andhra Pradesh APNRTS page: https://vizianagaram.ap.gov.in/andhra-pradesh-non-resident-telugu-society/
+2016 APNRT / ITServe reporting: https://www.greatandhra.com/articles/special-articles/dr-ravi-vemuru-address-itserve-conference-78240
+2016 ITServe / DTC reporting: https://teluguone.com/nri/tone/pages/events-3-858.html
+Abbott H-1B directive, Jan. 27, 2026: https://gov.texas.gov/uploads/files/press/H-1B_Visa_Program_Letter_1.27.2026_State_Agency_Heads_FINAL_.pdf
+Project master evidence ledger: Internal newsroom source: Texans_First_Master_Investigation_Ledger_CURRENT.xlsx
+Publication cautions
+Do not characterize ITServe membership as proof of H-1B dependence, public-contract participation, offshoring or political coordination.
+Do not treat an LCA as a visa approval or proof that the named worker performed a Texas contract.
+Do not claim campaign contributions purchased Abbott's appearance, policy or any official act.
+Verify the exact 2022 Abbott event title/date and the eight-executive contribution cluster against primary event and TEC records before final publication.
+Do not convert APNRT/ITServe MOUs or advertised incentives into actual subsidy receipts without primary sanction/disbursement records.
+Do not claim ITServe moved Texas government work to Andhra. No such transaction-level proof has been established.
+Do not publish the working DIR/ITServe/H-1B vendor percentage until the denominator, entity matching and payment methodology are independently checked.
+Distinguish ITServe firms from large India-headquartered integrators and from H-1B-dependent employers; these categories overlap but are not interchangeable.
+Litigation challenging federal immigration policy is lawful advocacy and should be described through the actual pleadings, decisions and settlements in the final source pass.
+________________
+
+
+TEXANS FIRST*
+Terms and conditions may apply.
+Texas promised taxpayer-funded jobs to Texans. Its contractor system still cannot publicly show who performs much of the work.
+Part Six of TEXANS FIRST*  |  By Nick Plumb  |  Working publication draft  |  September 1, 2026
+The promise
+On January 27, 2026, Gov. Greg Abbott issued an order with a political promise almost impossible to misunderstand.
+“State government must lead by example,” Abbott wrote, “and ensure that employment opportunities — particularly those funded with taxpayer dollars — are filled by Texans first.”
+He ordered Texas state agencies and public universities to freeze new H-1B visa petitions unless the Texas Workforce Commission approved them. He required reports on existing H-1B use. He demanded documentation that Texans had been given a reasonable opportunity to apply for jobs filled by H-1B workers.
+The directive was specific enough to count.
+How many petitions?
+Which jobs?
+Which agencies?
+Which visa holders?
+Did Texans get a chance?
+Then the state reached the edge of its own payroll.
+The asterisk
+Texas does not perform all taxpayer-funded work with state employees.
+It buys labor.
+The Department of Information Resources maintains statewide contracts through which agencies can obtain developers, architects, analysts, project managers, cybersecurity specialists and other technology personnel from private companies.
+The program is called IT Staff Augmentation Contracting: ITSAC.
+The current contract generation contains scores of private staffing vendors. DIR contract pages published in 2026 show vendors operating under a common solicitation, standardized job categories, maximum rates, HUB subcontracting plans and a standard IT-staffing statement-of-work template.
+The state knows the vendor.
+It knows the job category.
+It knows the maximum rate.
+It can know the hours.
+It can require cybersecurity training for vendor employees and subcontractors accessing state systems.
+Its master solicitation even recognizes a customer's designated primary work site when calculating rates and commuting costs.
+But in the standard statewide staffing template reviewed for this investigation, Texas does not appear to require a dedicated field identifying the actual geography of every remote worker, whether work is performed outside the United States, or the worker's immigration or work-authorization category.
+The template asks whether all work is expected to be remote.
+It does not, by itself, answer the question that follows.
+Remote from where?
+Texas can ask when it chooses to
+That gap is not universal.
+The investigation found current HHSC staffing requests reproduced by multiple vendors that impose Texas-location rules. One hybrid 2026 request says candidates must already live in Texas and within roughly 50 miles of Austin. Another fully remote request is repeatedly reproduced as allowing work from anywhere within Texas.
+One recruiter posting associated with that second request also says no H-1B candidates. The original agency solicitation has not yet been obtained, so that visa restriction cannot safely be attributed to HHSC.
+The distinction is important.
+Some agencies apparently do ask where contractor personnel live.
+That makes the statewide question sharper, not weaker.
+If Texas believes worker geography matters, why is the information not standardized across the contractor system and reportable statewide?
+A Texans-first policy should not depend on whether an individual hiring manager remembered to type a residency clause into an individual staffing request.
+A real purchase order shows the problem
+The Texas Workforce Commission provides a useful case because it is the agency Abbott put at the center of his H-1B directive.
+In late 2025, TWC sought a Business Analyst 2 through the state's technology staffing system for unemployment-insurance data-exchange work.
+The assignment was approved in January 2026. A purchase order dated February 6 — ten days after Abbott's directive — authorized as many as 3,700 hours at $98.21 per hour, a maximum of $363,377, through Digerati Systems.
+Texas payment records reviewed for this investigation later showed payments against the work.
+TWC has said it does not sponsor visas for staff-augmentation workers and requires workers to be legally eligible to work.
+Nothing in the records reviewed establishes that this worker held an H-1B visa.
+That is precisely the point.
+The public purchase record can tell a Texan the vendor, labor category, rate, maximum hours and amount.
+It cannot, from the public-facing records assembled for this investigation, answer the political question Abbott himself made relevant:
+Was the taxpayer-funded worker a Texan?
+A company is not a worker
+The difference sounds semantic until billions of dollars move through contractors.
+A company can be headquartered in Texas and employ a worker elsewhere.
+A company headquartered elsewhere can employ a Texan.
+A prime contractor can subcontract labor to another company.
+A remote employee can work from Austin, Atlanta or another country.
+A company with thousands of H-1B filings can staff a particular Texas contract entirely with U.S. citizens.
+A company with no obvious immigration footprint can use a subcontractor that does sponsor workers.
+None of those facts can be inferred reliably from the vendor's name.
+Yet vendor identity is the level at which much of Texas's public procurement record stops.
+Abbott regulated the visible channel
+Abbott's directive applies to state agencies and institutions of higher education petitioning for H-1B workers.
+That is a real intervention. Public entities that sponsor H-1B workers now face a freeze and reporting requirements absent TWC permission through the period Abbott specified.
+The directive did not purport to rewrite federal immigration law, which Texas does not control.
+Nor does the letter itself establish a comparable statewide reporting regime for every employee of every private contractor and subcontractor performing taxpayer-funded work.
+That is not necessarily a legal loophole.
+It is an accounting boundary.
+Direct public employment sits on one side.
+Purchased private labor sits on the other.
+Abbott's rhetoric crossed the boundary: taxpayer-funded opportunities should be filled by Texans first.
+The reporting architecture did not obviously cross with it.
+Texas knows how to change contracts
+There is a useful comparison inside the very same ITSAC system.
+In 2026, DIR contract pages show amendments tied to Abbott's separate foreign-adversary policy across current staffing contracts.
+Those restrictions concern companies connected to designated foreign-adversary countries. India is not one of the countries targeted by that policy, and the amendment has nothing to do with H-1B visas.
+Its relevance is administrative.
+When Texas wanted a gubernatorial policy reflected in statewide contracts, the machinery existed to amend the contracts.
+The public record reviewed for this series has not shown a parallel statewide ITSAC amendment requiring vendors to report, for every taxpayer-funded worker, Texas residency, actual work location, temporary-visa category or offshore delivery after Abbott announced Texans First.
+If such a requirement exists elsewhere, Texas should publish it.
+If it does not, the omission is a policy choice.
+The state had been warned about contractor visibility
+This problem did not appear in January 2026.
+A decade of audits had already shown recurring weaknesses in Texas contracting.
+A 2016 State Auditor's Office report examined contractor-management controls and vendor E-Verify compliance. A 2021 audit identified high-risk weaknesses in DIR's vendor-scoring documentation and transparency. A later Sunset review credited DIR with real improvement while still identifying specialized IT-procurement and cooperative-contracting concerns.
+In April 2025, the State Auditor concluded that nine of the 25 largest state agencies warranted additional contract monitoring for at least one contracting period.
+In June 2026 — after Abbott's Texans-first directive — the number was 13 of 25.
+Those audits do not establish H-1B abuse.
+They do not establish offshoring.
+They establish something more basic.
+Texas entered the Texans-first era with contract oversight still a live governance problem.
+Meanwhile, Texas spent a decade building the bridge
+The contradiction becomes larger when the contractor system is placed beside the rest of this series.
+Abbott's own economic-development office reports that from 2015 through 2024, Indian companies announced 74 investment projects in Texas, $2.7 billion in capital and more than 8,650 jobs.
+Over the same period, Texas companies announced 175 projects in India, $7.6 billion in capital and more than 59,300 jobs.
+Those are investment estimates, not a displacement ledger. They do not mean 59,300 Texas workers lost their jobs.
+But they reveal the scale and direction of a relationship Texas actively cultivated.
+Abbott led missions to India.
+Texas recruited technology companies.
+Private business leaders helped govern the recruitment apparatus.
+Former senior officials later represented companies around the same ecosystem.
+ITServe organized consulting companies around immigration policy, political access and litigation while some of its network pursued operations in Andhra Pradesh.
+Andhra built public machinery explicitly designed to attract investment, offshore operations and jobs.
+Then, after a decade of building the bridge, Abbott announced that taxpayer-funded employment should belong to Texans.
+Texas still lacked a public ledger capable of showing what that meant across the contractor workforce.
+The question is answerable
+This is not an impossible data problem.
+For every material taxpayer-funded staffing assignment, Texas could require a small number of fields.
+Worker's employing entity.
+Prime contractor.
+Material subcontractor, if any.
+Texas resident: yes or no.
+Primary physical work location.
+Work performed outside Texas: yes or no.
+Work performed outside the United States: yes or no.
+Work-authorization category, reported in aggregate where individual disclosure would create privacy concerns.
+Hours billed.
+Dollars billed.
+The state does not need to publish a worker's immigration file or home address.
+It needs an auditable denominator.
+Then publish the score
+Abbott could make Texans First measurable tomorrow without waiting for an argument about motives.
+How many contractor labor hours did Texas buy last year?
+What percentage were performed by Texas residents?
+How much was performed outside Texas?
+How much was performed outside the United States?
+How many staffing assignments were filled through subcontractors?
+How many contractor workers were employed under temporary work visas?
+Which agencies cannot answer?
+Which vendors cannot answer?
+Those numbers would transform Texans First from a slogan into a control.
+Terms and conditions may apply
+The asterisk in this series is not a joke about immigration.
+It is a warning about accounting.
+Texas can say a job belongs to a Texan.
+A purchase order can say the job belongs to a vendor.
+Those are not the same statement.
+Abbott's January directive recognized that who performs taxpayer-funded work matters.
+Once the Governor made that principle explicit, the burden shifted to the state.
+Show us.
+Show Texans the direct employees.
+Show them the contractors.
+Show them the subcontractors.
+Show them where the work was performed.
+Show them which jobs required a temporary visa and which did not.
+Show them how many hours and dollars remained in Texas.
+Show them the ledger.
+Until then, Texans First comes with terms and conditions.
+And the most important condition is the one Texas still cannot consistently demonstrate in public:
+Who actually performed the work?
+________________
+
+
+Source and fact-check map
+Governor Abbott H-1B directive, Jan. 27, 2026: https://gov.texas.gov/uploads/files/press/H-1B_Visa_Program_Letter_1.27.2026_State_Agency_Heads_FINAL_.pdf
+Governor Abbott announcement of H-1B investigation: https://gov.texas.gov/news/post/governor-abbott-launches-investigation-into-h-1b-visa-abuse
+Texas DIR current contracts / ITSAC documents: https://dir.texas.gov/contracts
+Example current ITSAC contract with 2026 SOW/RFO/HUB documents: https://dir.texas.gov/contracts/dir-cpo-5478
+Texas DIR SOW process: https://dir.texas.gov/it-solutions-and-services/buying-through-dir/statement-work-sow
+Texas State Auditor Report 16-020: https://sao.texas.gov/reports/main/16-020.pdf
+Texas State Auditor Report 21-018: https://sao.texas.gov/Reports/Main/21-018.pdf
+Texas Sunset DIR final report: https://www.sunset.texas.gov/public/uploads/2025-07/DIR%20Staff%20Report%20with%20Final%20Results_7-8-25.pdf
+Texas State Auditor Report 25-022: https://sao.texas.gov/reports/main/25-022.pdf
+Texas State Auditor Report 26-027: https://sao.texas.gov/SAOReports/ReportNumber?id=26-027
+Governor's Texas & India investment profile: https://gov.texas.gov/uploads/files/business/India-Profile.pdf
+Project master evidence ledger: Internal newsroom source: Texans_First_Master_Investigation_Ledger_CURRENT.xlsx
+Publication cautions
+Do not say Abbott's directive legally exempts private contractors unless the legal scope is independently established. Describe the directive's express coverage and the separate contractor channel.
+Do not say a contractor worker is H-1B based on the employer's LCA history.
+Do not say remote work is offshore work.
+Do not say Texas never records contractor geography. Current HHSC examples indicate some agency solicitations add Texas-residency restrictions.
+Do not attribute the 'No H1B' language in a recruiter mirror to HHSC until the original solicitation is obtained.
+Do not call the Digerati/TWC worker an H-1B worker; no such evidence has been established.
+Do not describe the Governor's Texas-to-India investment jobs as Texas jobs lost.
+Audit findings concern contracting controls and monitoring, not proof of foreign-labor abuse.
+Before publication, update all payment totals and confirm the final Digerati purchase-order/payment chronology against primary Comptroller/TWC records.

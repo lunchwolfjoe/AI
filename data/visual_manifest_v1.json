@@ -1,0 +1,98 @@
+[
+  {
+    "id": "V01",
+    "title": "THE TWO-WAY LEDGER",
+    "primary_use": "Hero / landing page",
+    "build": "Side-by-side bars or paired columns: India\u2192Texas 74 projects / $2.7B / >8,650 announced jobs versus Texas\u2192India 175 / $7.6B / >59,300. Add derived 2.36\u00d7, 2.81\u00d7, 6.86\u00d7 only as secondary annotation.",
+    "evidence_basis": "Governor EDT Texas & India profile, revised July 2025.",
+    "guardrail": "Must say reported/announced FDI; not jobs lost."
+  },
+  {
+    "id": "V02",
+    "title": "WHAT TEXAS RECORDS / WHAT IT DOESN'T",
+    "primary_use": "Flagship / Part VI",
+    "build": "A horizontal transaction chain: Agency \u2192 DIR vehicle \u2192 Prime vendor \u2192 SOW/PO \u2192 invoice/payment \u2192 individual worker. Under each node show fields Texas exposes. At worker node, show question marks for statewide residency, actual work location, work-authorization category and subcontractor chain.",
+    "evidence_basis": "DIR contract pages, SOW templates, Comptroller/PO examples.",
+    "guardrail": "Phrase as no consistent statewide public ledger, not 'Texas never knows.'"
+  },
+  {
+    "id": "V03",
+    "title": "THE BRIDGE, 2015\u20132026",
+    "primary_use": "Series timeline",
+    "build": "One timeline with three lanes: Texas economic development; Andhra/ITServe receiving-side machinery; Texas procurement/oversight. Events converge at Jan. 27, 2026 Texans-first directive.",
+    "evidence_basis": "Official mission releases, APNRT/APIIC records, SAO/Sunset, DIR.",
+    "guardrail": "Do not imply every event caused the next."
+  },
+  {
+    "id": "V04",
+    "title": "THE CONNECTOR MAP",
+    "primary_use": "Part II",
+    "build": "Arun Agarwal in center; documented nodes around him: IACEO, 2018 mission, TxEDC, Dallas Parks, Community Bond Task Force, Nextt, cricket/NCL. A separate Whitley node joins Nextt and Abbott administration. Lines labeled by role/date.",
+    "evidence_basis": "Governor, Dallas, TxEDC, TEC records.",
+    "guardrail": "No APNRT/ITServe/HSS control line absent evidence."
+  },
+  {
+    "id": "V05",
+    "title": "THE OTHER END OF THE BRIDGE",
+    "primary_use": "Part III",
+    "build": "Process diagram: overseas network \u2192 APNRT/Andhra facilitation \u2192 office/land/incentive/training \u2192 company operation \u2192 announced jobs. Overlay 2016 ITServe recruitment and DTC as concrete examples.",
+    "evidence_basis": "APNRTS official pages, APIIC DTC minutes, contemporaneous 2016 reporting.",
+    "guardrail": "Current APNRT language labeled current; historical claims sourced separately."
+  },
+  {
+    "id": "V06",
+    "title": "DALLAS TECHNOLOGY CENTRE: THEN / LATER",
+    "primary_use": "Part III",
+    "build": "Two-panel land/building chronology: 2015 APIIC plot approval; 2016 sale/possession and ITServe-linked plans; later occupancy/extensions; 2024 DTC sublease to TCS. Separate callout for 2025 TCS 21.16-acre transaction.",
+    "evidence_basis": "APIIC and later AP/TCS reporting.",
+    "guardrail": "Do not merge DTC premises with separate 2025 TCS land."
+  },
+  {
+    "id": "V07",
+    "title": "THE REVOLVING DOOR",
+    "primary_use": "Part IV",
+    "build": "Four vertical biographies: public role \u2192 date gap \u2192 disclosed private client. Whitley\u2192Wipro/Accenture/Nextt; Scott\u2192Deloitte; Hughs\u2192Risun after final verification; Strickland\u2192Cognizant. Add Robert Allen Gov\u2192TxEDC as public-private handoff.",
+    "evidence_basis": "Governor appointments + TEC filings.",
+    "guardrail": "Representation \u2260 influence; prospective compensation \u2260 payment."
+  },
+  {
+    "id": "V08",
+    "title": "EDUCATE. LOBBY. LITIGATE.",
+    "primary_use": "Part V",
+    "build": "Three-column institutional graphic for ITServe. Education/member programming; lobbying/political advocacy; litigation/immigration-policy challenges. Andhra recruitment sits below as economic-development channel, not a fourth synonym.",
+    "evidence_basis": "ITServe/IRS/litigation/APNRT evidence.",
+    "guardrail": "Membership \u2260 H-1B use, offshoring or public contracting."
+  },
+  {
+    "id": "V09",
+    "title": "THE AUDIT WARNING LIGHTS",
+    "primary_use": "Flagship / Part IV",
+    "build": "2016\u21922026 staircase/timeline: contractor management/E-Verify; DIR scoring/transparency; Sunset procurement/pricing; 9/25 additional monitoring; 13/25 additional monitoring; Jan. 2026 H-1B directive.",
+    "evidence_basis": "SAO 16-020, 21-018, 25-022, 26-027; Sunset.",
+    "guardrail": "Later reviews also credit DIR improvement; monitoring findings are not immigration findings."
+  },
+  {
+    "id": "V10",
+    "title": "ONE PURCHASE ORDER, ONE MISSING ANSWER",
+    "primary_use": "Part VI / video",
+    "build": "Digerati/TWC case card: role \u2192 approval \u2192 Jan. 27 directive \u2192 Feb. 6 PO \u2192 hours \u00d7 rate \u2192 payments. Final frame asks: who performed the work? Mark worker visa status as UNKNOWN.",
+    "evidence_basis": "TWC/DIR/Comptroller case file; final source lock required.",
+    "guardrail": "Never depict worker as H-1B unless primary evidence closes it."
+  },
+  {
+    "id": "V11",
+    "title": "POLICY CAN CHANGE THE CONTRACT",
+    "primary_use": "Part VI",
+    "build": "Before/after contract-document stack showing current ITSAC Appendix E/RFO plus 2026 GA-48 amendments. Caption: Texas knows how to impose targeted contract-wide rules. Adjacent blank card asks what worker-location amendment followed Texans-first.",
+    "evidence_basis": "Current DIR contract pages.",
+    "guardrail": "GA-48 is ownership/control/security policy; India is not a target. Comparison is administrative only."
+  },
+  {
+    "id": "V12",
+    "title": "SHOW US THE LEDGER",
+    "primary_use": "Final / call to action",
+    "build": "Mock schema of proposed public contractor labor ledger: agency, contract, prime, subcontractor, labor category, TX resident Y/N, work geography, aggregate authorization category, hours, dollars. No names/PII.",
+    "evidence_basis": "Investigation proposal.",
+    "guardrail": "Clearly label as proposed reporting model, not an existing dataset."
+  }
+]

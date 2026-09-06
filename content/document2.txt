@@ -1,0 +1,164 @@
+﻿TEXANS FIRST*
+ACCOUNTABILITY & REQUEST-FOR-RESPONSE PACKAGE
+Version 1 — September 1, 2026
+Use and editorial protocol
+These are reporting questions, not accusations. Each package should be sent only after the cited underlying records are preserved in the newsroom archive. Recipients should be given a clear deadline and told that responses may be quoted or summarized. If a factual premise is disputed, request the record supporting the correction.
+Do not send the entire investigation or speculative ledger. Send only the propositions relevant to the recipient. Preserve the original outgoing message, delivery confirmation, full response, attachments and follow-up correspondence.
+Where a question asks whether a record exists, a nonresponse is not proof that the record does not exist. Where a recipient corrects a factual premise, verify the correction independently before revising the story.
+1 — Office of Governor Greg Abbott
+Core factual propositions to put to the office
+On January 27, 2026, Governor Abbott directed covered state agencies and public institutions of higher education to freeze new H-1B petitions absent written Texas Workforce Commission permission, required reporting on current sponsorship, and wrote that taxpayer-funded employment opportunities should be filled by Texans first.
+The Governor's July 2025 Texas & India profile reports that during 2015–2024 Indian companies announced 74 projects in Texas, $2.7 billion in capital and more than 8,650 jobs, while Texas companies announced 175 projects in India, $7.6 billion and more than 59,300 jobs. Earlier 2024 mission materials used a different inbound estimate: 59 projects, $1.4 billion and more than 10,300 Texas jobs.
+Abbott led economic-development missions to India in 2018 and 2024 and met major technology companies. The investigation has found no official itinerary showing Abbott visiting Andhra Pradesh, APNRTS or Dallas Technology Centre.
+Current DIR ITSAC contracting continued after the January 2026 directive and provides technology labor through private vendors. The directive expressly addresses H-1B petitions by covered public entities; it does not itself set out a worker-level reporting system for all employees of private contractors and subcontractors.
+Questions
+• Does the Governor interpret the January 27 directive to apply in any way to H-1B workers employed by private contractors or subcontractors performing taxpayer-funded work for covered state entities? If yes, please identify the provision, guidance or implementing document.
+• Did the Governor's Office direct DIR, TWC or another agency to add Texas-residency, work-location, H-1B or offshore-delivery reporting requirements to statewide technology contracts after January 27? Please provide the guidance or amendment.
+• Can the Governor's Office state how many contractor labor hours purchased by Texas in fiscal 2025 or 2026 were performed by Texas residents, outside Texas, or outside the United States?
+• What metric does the Governor use to determine whether a taxpayer-funded contractor position has been 'filled by Texans first'?
+• Please reconcile the 2024 India-mission estimate of more than 10,300 Texas jobs associated with 59 Indian-company projects and the July 2025 profile's more than 8,650 jobs associated with 74 projects. Were the sources, methodologies or time periods different?
+• Does the Governor regard the 2015–2024 Texas-company figures reported by his office — 175 projects, $7.6 billion and more than 59,300 announced jobs in India — as an economic-development success? What does the administration measure to determine the net effect on Texas employment?
+• Before or during the 2018 and 2024 India missions, was the Governor briefed on Andhra Pradesh programs designed to recruit overseas technology operations, including APNRTS, ITServe-linked recruitment or Dallas Technology Centre? If so, please provide or describe the briefing.
+• What safeguards does the Governor believe are adequate when former senior executive-branch officials later represent companies selling technology services to Texas or participating in the state's economic-development network?
+• Was the Governor or his staff aware in 2022 that ITServe's policy program included advocacy and litigation concerning H-1B and third-party technology-consulting rules when he appeared at an ITServe event in North Texas?
+• Does the Governor support creation of a public contractor-labor ledger reporting prime vendor, material subcontractor, Texas residency, actual work location, aggregate work-authorization category, hours and dollars while protecting individual privacy?
+Primary records to cite/attach
+Governor H-1B directive (Jan. 27, 2026); Governor's Texas & India profile (July 2025); official 2018 and 2024 India mission releases; Abbott staff/TxEDC appointment releases; relevant DIR ITSAC contract/template pages.
+2 — Texas Department of Information Resources
+Core factual propositions
+Current ITSAC pages state that customers may competitively solicit staffing through requests for resumes or SOWs. Current contract pages publish standardized job categories, rates, HUB subcontracting plans and Appendix E staffing templates.
+The current statewide SOW process says state-agency technology SOWs over $50,000 require DIR review before solicitation and DIR review/signature of the final SOW. DIR's public SOW page still labels the IT Staffing SOW Template as last updated March 18, 2021, while current vendor contract pages publish Appendix E templates in the 2026 contract generation.
+Templates reviewed by this investigation ask whether work is remote and include obligations for vendor employees/subcontractors accessing state systems, but the reviewed standard fields do not contain a dedicated worker-level field for citizenship, immigration/work-authorization category or offshore delivery.
+Questions
+• Does DIR maintain any statewide dataset identifying the Texas residency or actual physical work location of each worker supplied through ITSAC? If yes, what fields are collected and can the data be produced?
+• Does DIR collect or require vendors/agencies to collect the immigration or work-authorization category of ITSAC workers? If so, where is that requirement located?
+• Does DIR require disclosure when ITSAC work is performed outside Texas or outside the United States? Please identify the governing clause, template field or policy.
+• Can an agency add Texas-residency, U.S.-only work-location or visa restrictions to an ITSAC solicitation or SOW? Are there limits on those additions?
+• After Governor Abbott's January 27, 2026 H-1B directive, did DIR issue guidance or amend ITSAC/DBITS contracts concerning contractor or subcontractor workers? Please provide the record.
+• Current ITSAC contracts show amendments implementing EO/GA-48 foreign-adversary restrictions. Was a similar contract-wide amendment considered for the Texans-first/H-1B policy? If not, why not?
+• What worker-level information must an ITSAC prime maintain about subcontractor personnel, and what information must be supplied to the state?
+• How does DIR distinguish 'remote' work performed in Texas from remote work performed elsewhere for contract-management, security and pricing purposes?
+• Why does DIR's public SOW page identify the IT Staffing SOW Template as last updated in 2021 while current contract pages publish Appendix E documents in the 2026 contract generation? What substantive changes occurred between versions?
+• Would DIR support a statewide, privacy-protective labor ledger showing residency, actual work geography, prime/subcontractor relationship, hours and dollars for staff-augmentation purchases?
+3 — Texas Workforce Commission
+Core factual propositions
+Abbott's directive makes TWC the approval and guidance authority for covered public-entity H-1B petitions. Separately, TWC itself purchases technology labor through DIR staffing vehicles.
+The investigation's working records identify a Digerati Systems Business Analyst 2 assignment for TWC unemployment-insurance data-exchange work, approved in January 2026 with a February 6 purchase order authorizing up to 3,700 hours at $98.21 per hour, or $363,377.
+The investigation has not established that the worker on that assignment held an H-1B visa.
+Questions
+• Please confirm the Digerati assignment, purchase-order amount, start date, hours authorized and final amount paid, and provide the executed SOW, invoices and amendments.
+• Was the selected Digerati worker a Texas resident when the assignment began? What was the worker's primary physical work location?
+• Was the worker employed directly by Digerati or through a subcontractor? If a subcontractor was involved, please identify the company.
+• What work-eligibility or visa information did TWC require for the worker? We are not requesting personally identifying immigration documents; aggregate/category information is sufficient.
+• Does TWC prohibit H-1B workers supplied through staff-augmentation vendors? If so, please provide the policy or contract clause. If not, what controls apply?
+• After January 27, 2026, did TWC issue guidance to state agencies concerning private contractor or subcontractor H-1B workers, or only public-entity sponsorship petitions?
+• How many requests for written permission to file H-1B petitions has TWC received under the Governor's directive, and how many were approved or denied?
+• Can TWC determine how many taxpayer-funded contractor workers across state government are H-1B workers or Texas residents? If not, does the Commission believe that information is necessary to evaluate the Governor's Texans-first objective?
+4 — Texas Economic Development Corporation / Governor EDT
+Core factual propositions
+The Governor describes TxEDC as the private side of Texas's public-private economic-development partnership. Abbott's 2017 staff announcement moved deputy chief of staff Robert Allen to lead TxEDC. Arun Agarwal later became TxEDC chair after participating in India-facing economic-development and civic activity.
+The Governor's office has repeatedly used TxEDC and private business leaders in international recruitment, including India missions.
+Questions
+• Please describe TxEDC's formal role in selecting targets, arranging meetings and following up with companies on the 2018 and 2024 India missions.
+• What records does TxEDC maintain showing announced versus realized jobs and capital from companies recruited through its India work?
+• Does TxEDC track Texas-company investment, hiring or operating expansion outside the United States when evaluating the net benefit of bilateral economic-development relationships?
+• What conflict, recusal and disclosure policies apply when TxEDC directors have business relationships with companies, intermediaries or organizations participating in recruitment missions?
+• Does TxEDC maintain a list of investors/donors and their state contracts, incentives or lobbying representatives? If so, will it make that crosswalk public?
+• Did TxEDC or EDT communicate with APNRTS, Andhra Pradesh officials, ITServe, Dallas Technology Centre or related organizations concerning technology investment or operations in Andhra?
+• What methodology underlies the Governor's 2015–2024 India profile, and why does its inbound Texas-job figure differ from the figure used in the 2024 India mission?
+5 — David Whitley / Gregory Strategies
+Factual propositions
+Texas Ethics Commission records list Whitley/Gregory Strategies with Wipro as a prospective client beginning February 8, 2020 and Accenture and Nextt as prospective clients beginning June 26, 2020. Whitley previously served Abbott as appointments director, deputy chief of staff and secretary of state and participated in Abbott's 2018 India mission.
+Questions
+• Please confirm the periods during which you or Gregory Strategies represented Wipro, Accenture and Nextt and whether the prospective compensation disclosed in the registrations was ultimately paid.
+• What Texas agencies, boards or executive offices did you contact on behalf of each client?
+• Did your work for Wipro or Accenture involve DIR contracts, state technology procurement, incentives, workforce issues or India-related economic development?
+• Did your work for Nextt involve the City of Dallas, the State of Texas, TxEDC or the 2024 India mission?
+• Were any recusal or cooling-off restrictions applicable to your representation because of your prior state roles? How did you comply with them?
+• Did you participate in the 2024 India mission in a private professional capacity, and did any client pay or reimburse travel or mission-related expenses?
+6 — John B. Scott
+Factual propositions
+Abbott appointed Scott presiding officer of DIR in 2016. A later gubernatorial biography says he developed strategic technology/security planning for executive agencies and boards. Texas Ethics Commission records later list Deloitte as a prospective lobbying client. Deloitte holds multiple DIR contract vehicles, including a current ITSAC contract.
+Questions
+• Please confirm the dates and scope of your representation of Deloitte and whether disclosed prospective compensation was paid.
+• Did your Deloitte work involve DIR, statewide technology procurement, ITSAC, DBITS, cybersecurity or other matters connected to responsibilities you held while presiding over DIR?
+• What cooling-off, recusal or professional-responsibility restrictions did you apply to the engagement?
+• Did you contact DIR, the Governor's Office or other state agencies on Deloitte's behalf?
+• Do you believe Texas's current disclosure system gives the public enough information to evaluate a former DIR presiding officer later representing a major DIR vendor?
+7 — Ruth Ruggero Hughs
+The project's current intermediary census identifies a post-government technology-client relationship involving Risun Solutions after Hughs's service at TWC and as secretary of state. This item must receive a final primary-registration preservation pass before the questions are sent.
+• Please confirm whether and when you represented Risun Solutions or any other technology vendor doing business through DIR.
+• What agencies or policy areas were included in the representation?
+• Did the work involve TWC, DIR, technology procurement, workforce policy or immigration/work-authorization issues?
+• What safeguards or recusals did you apply because of your prior state roles?
+8 — Jerry Strickland / Cognizant
+Factual propositions
+Abbott's records describe Strickland as a longtime adviser/spokesman dating to 2003. Texas Ethics Commission records show Cognizant retaining Strickland in 2024 and again in 2025. Separate federal disclosures from Cognizant identify H-1B/high-skilled immigration, U.S.-India bilateral policy, workforce/STEM, AI, privacy and tax among federal lobbying subjects.
+Questions for Strickland
+• Please describe the subjects and Texas entities covered by your Cognizant representation in 2024 and 2025.
+• Did the engagement involve DIR procurement, Texas incentives, workforce policy, India-related economic development or the Governor's Office?
+• Did you discuss H-1B or other high-skilled immigration policy with Abbott, his staff or any Texas agency on Cognizant's behalf?
+• What safeguards did you use to address your longstanding professional relationship with Governor Abbott?
+Questions for Cognizant
+• Please identify the Texas policy and government-relations subjects for which Cognizant retained Jerry Strickland.
+• Does Cognizant use H-1B employees or subcontractors on Texas state or local-government technology work? If so, can the company quantify that use?
+• Does Cognizant perform any Texas taxpayer-funded work from outside Texas or outside the United States?
+• How does Cognizant separate its Texas government-relations program from its federal advocacy concerning H-1B/high-skilled immigration and the U.S.-India relationship?
+9 — ITServe Alliance
+Factual propositions
+ITServe has publicly organized technology-consulting businesses around education, advocacy and litigation and has played a prominent role in disputes over H-1B third-party placement rules. Contemporaneous 2016 reporting describes APNRT/Andhra officials recruiting ITServe-member companies for Andhra operations with office, rent, hiring and training support.
+Questions
+• How many current ITServe member companies hold active Texas DIR ITSAC or DBITS contracts?
+• Does ITServe track how many members are H-1B-dependent employers or how many H-1B workers member companies employ?
+• What role did ITServe play in the 2016–18 Andhra/APNRT recruitment program, and how many member companies ultimately established operations there?
+• Did ITServe or its chapters negotiate or advocate for Andhra rent subsidies, per-hire subsidies, office space, workforce training or access to government projects for member companies?
+• Did any member company move or perform work for a Texas public customer from an Andhra facility established or expanded through that program?
+• What was the purpose of Governor Abbott's 2022 appearance with ITServe, and what policy subjects were discussed with him or his staff?
+• Does ITServe support disclosure of actual worker geography and subcontracting for taxpayer-funded staff-augmentation contracts, provided individual privacy is protected?
+10 — Digerati Systems
+• Please confirm Digerati's TWC Business Analyst 2 assignment, the worker's employing entity and whether a subcontractor supplied the worker.
+• Was the worker a Texas resident, and where was the work physically performed?
+• Was the worker employed in H-1B status or another temporary-work-visa category? Aggregate/category confirmation is sufficient; no personally identifying immigration record is requested.
+• Does Digerati use India-based recruiters to source candidates for Texas public-agency assignments? If so, how does the company ensure agency residency/location requirements are met?
+• Have any Texas public-agency tasks performed by Digerati been delivered from outside the United States?
+• Please explain earlier Labor Condition Applications that identify Texas public entities as secondary entities/work locations and whether the workers identified in those filings ultimately performed those assignments.
+11 — Amzur
+• Please describe Amzur's Texas public-sector work through ITSAC/other DIR vehicles and its Visakhapatnam/Andhra delivery operations.
+• What benefits, office support, subsidies, training or other assistance did Amzur receive from Andhra/APNRT-related programs during or after 2016?
+• Did any Texas public-sector assignment use personnel physically located at an Amzur facility in India?
+• How does Amzur determine which client work is delivered onshore versus offshore?
+• Please clarify the relationship between Amzur Technologies Private Limited, which predates the 2016 recruitment program, and Amzur Infotech Private Limited incorporated in 2016.
+12 — Wipro, Accenture and Nextt
+Wipro
+• Please confirm Wipro's relationship with David Whitley/Gregory Strategies beginning in 2020 and identify the Texas subjects covered.
+• Did the engagement involve state technology contracts, incentives, the Plano technology center, workforce policy or India-related economic development?
+• Does Wipro perform Texas taxpayer-funded technology work from outside Texas or outside the United States?
+Accenture
+• Please confirm Accenture's relationship with David Whitley/Gregory Strategies beginning in 2020 and identify the Texas subjects covered.
+• Did the engagement involve DIR or Texas public technology procurement?
+• Can Accenture quantify how much Texas public-sector technology labor is performed by Texas residents versus workers elsewhere?
+Nextt
+• Please confirm Nextt's relationship with David Whitley/Gregory Strategies beginning June 2020 and the subjects covered.
+• Did Whitley's work have any connection to Dallas's earlier emergency PPE purchase? The known registration postdates that purchase, and the investigation is not presently attributing the purchase to his lobbying.
+• Did Nextt participate in or fund any part of Abbott's 2024 India mission, and what was the role of company representatives on the trip?
+13 — Andhra Pradesh / APNRTS / APIIC / Dallas Technology Centre
+These questions should be sent to the relevant current government and corporate contacts, with the historical documents attached where possible.
+• Please provide the firm-level list of ITServe-associated companies recruited through the 2016–18 APNRT/Andhra program, including announced investment, actual investment, jobs promised, jobs created and incentives disbursed.
+• Please provide the government orders, sanctions and disbursement records for rent support, per-hire subsidies, plug-and-play office space, training and other benefits described in contemporaneous reports.
+• Please provide the complete APIIC land-allotment, sale/lease, extension and compliance file for Dallas Technology Centre at IT-NONSEZ Hill 2.
+• Who were DTC's beneficial owners/partners at formation and at the time of the later TCS sublease?
+• Please provide the approval, occupancy, sublease and special-package records relating to TCS's use of DTC premises.
+• Did APNRTS or Andhra officials coordinate recruitment activity with Texas elected officials, TxEDC, the Governor's Office or Texas-based chambers/associations?
+• Does APNRTS maintain a historical outcome ledger showing which diaspora-facilitated investments resulted in offshore operations and jobs?
+Response tracking template
+For each recipient, record: date/time sent; exact recipient/address; delivery status; deadline; extension requested; response received; documents supplied; factual corrections asserted; verification status; story/report sections affected; whether follow-up was sent; final publication treatment.
+Publication language for nonresponse should be factual and narrow: '[Recipient] did not respond to questions sent on [date]' or '[Recipient] did not answer the question about X.' Do not characterize silence as confirmation.
+Source anchors for this package
+Abbott H-1B announcement: https://gov.texas.gov/news/post/governor-abbott-launches-investigation-into-h-1b-visa-abuse
+Abbott H-1B directive PDF: https://gov.texas.gov/uploads/files/press/H-1B_Visa_Program_Letter_1.27.2026_State_Agency_Heads_FINAL_.pdf
+DIR SOW process: https://dir.texas.gov/it-solutions-and-services/buying-through-dir/statement-work-sow
+Example current ITSAC contract / Appendix E / RFO: https://dir.texas.gov/contracts/dir-cpo-5478
+Texas Ethics Commission lobby search: https://www.ethics.state.tx.us/search/lobby/
+Governor Texas & India profile: https://gov.texas.gov/uploads/files/business/India-Profile.pdf
+APNRTS coordinator guidelines: https://apnrts.ap.gov.in/coordinator_guidelines
+APNRTS investment portal: https://invest.apnrts.com/
