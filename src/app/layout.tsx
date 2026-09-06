@@ -14,7 +14,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "TEXANS FIRST* | An Investigation",
-  description: "A six-part investigative series examining Texas public technology contracting.",
+  description: "A seven-part investigative series examining Texas public technology contracting.",
   robots: {
     index: false,
     follow: false,

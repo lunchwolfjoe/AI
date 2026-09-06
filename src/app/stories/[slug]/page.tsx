@@ -29,8 +29,8 @@ export async function generateMetadata({ params }: PageProps) {
 const partInfo: Record<number, { numeral: string; title: string; slug: string }> = {
   1: { numeral: "I", title: "The Promise", slug: "the-promise" },
   2: { numeral: "II", title: "The Connector", slug: "the-connector" },
-  3: { numeral: "III", title: "The Other End", slug: "andhra-apparatus" },
-  4: { numeral: "IV", title: "The Governors", slug: "revolving-door" },
+  3: { numeral: "III", title: "The Andhra Apparatus", slug: "andhra-apparatus" },
+  4: { numeral: "IV", title: "The Revolving Door", slug: "revolving-door" },
   5: { numeral: "V", title: "The Network", slug: "itserve-alliance" },
   6: { numeral: "VI", title: "The Access Layer", slug: "the-access-layer" },
   7: { numeral: "VII", title: "The Ledger", slug: "the-ledger" },

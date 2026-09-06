@@ -1,11 +1,10 @@
-TEXANS FIRST* — COMPLETE SERIES TEXT
-=====================================
+TEXANS FIRST* — COMPLETE REVISED SERIES
+Revised September 2026
 
 
 ################################################################################
-# FILE: content/stories/the-promise.md
+# I. The Promise
 ################################################################################
-
 
 ## The question Abbott asked — and the one Texas cannot answer
 
@@ -263,9 +262,8 @@ Good.
 
 
 ################################################################################
-# FILE: content/stories/the-connector.md
+# II. The Connector
 ################################################################################
-
 
 ## A man whose value is the connection
 
@@ -288,6 +286,10 @@ Agarwal's own description of himself captures the function neatly. In an intervi
 The question is not whether that identity is legitimate. Of course it is.
 
 The question is why so much public and quasi-public authority was repeatedly concentrated in people whose principal value was their ability to connect private networks, political institutions and economic-development machinery — and what rules Texas built to govern the conflicts and dependencies that inevitably follow.
+
+Reusable access is not the same thing as a secret conspiracy. It is more ordinary than that, and therefore harder to see. A person accumulates introductions, appointments, board seats, mission roles and private retainers. Each credential makes the next one easier to obtain. Each institution treats the relationship as its own. The public, reading one filing at a time, never sees the network as a network.
+
+That is why Agarwal belongs near the center of this series. Not because he is uniquely culpable. Because he is unusually legible.
 
 ## The résumé is really a map
 
@@ -313,6 +315,19 @@ These roles are not proof of self-dealing. They are precisely why a public confl
 
 When the same person moves among economic development, parks, bond planning, private business, sports development, political fundraising and international recruitment, the public should not have to reconstruct the overlaps manually from meeting packets, appointments, company biographies and lobbying records.
 
+Viewed one at a time, each role can be defended. Viewed together, they form a map of how Texas and Dallas distribute informal authority: through trusted intermediaries who can speak the language of business, diaspora networks and government process at once.
+
+| Role / position | Approx. period in public record | Why it matters |
+|-----------------|----------------------------------|----------------|
+| Co-chair, Abbott India mission | 2018 | Places Agarwal inside state recruitment architecture |
+| Indian American CEO Council leadership | mid-2010s onward | Aggregates executive influence into a political-economic network |
+| TxEDC vice chair → chairman | vice chair by 2022; chairman Aug. 2024 | Moves from connector to formal private-side leadership |
+| Dallas Parks Board president | contemporaneous with TxEDC rise | Civic authority over facilities and park planning |
+| Community Bond Task Force chair | 2023; council briefing Dec. 6, 2023 | Shapes recommendations for a major capital package |
+| National Cricket League USA chair | overlapping civic period | Creates a disclosed conflict surface around facilities |
+
+The table is not an indictment. It is an inventory. Inventories are what disclosure systems are supposed to make unnecessary for journalists to assemble by hand.
+
 ## IACEO explains the model
 
 The Indian American CEO Council is one of the clearest windows into Agarwal's theory of influence because he described its purpose more candidly than most organizations describe themselves.
@@ -334,6 +349,10 @@ Texas had already spent years recruiting Indian technology companies. Then execu
 Again, the point is not that the recruits captured Texas.
 
 **It is that Texas deliberately built a model in which the line between the business community being recruited and the network doing the recruiting became thin by design.**
+
+That thinness is a feature of modern economic development. States want people who already know corporate decision-makers. Companies want people who already know governors, mayors and development officers. Diaspora business organizations want people who can translate between markets. The system selects for connectors.
+
+What it does not automatically select for is a public file that shows, in one place, who sits on which side of which relationship at any given moment.
 
 ## The 2018 mission was an institutional handoff
 
@@ -357,6 +376,10 @@ Years later, Wipro would appear on Whitley's lobbying book.
 
 The relationship had moved from recruitment to representation without ever leaving the same broad political-economic ecosystem.
 
+This is the pattern the series keeps finding. A mission creates proximity. Proximity creates familiarity. Familiarity becomes a résumé line. The résumé line becomes private value. Private value then reappears beside the same public institutions that created the original proximity.
+
+None of those steps requires illegality. Each step makes the next one rational.
+
 ## Then the private company hired the insider
 
 Agarwal's own private business makes the connector model even easier to see.
@@ -379,6 +402,10 @@ This was not a consultant with a generic Rolodex.
 
 **That is what a revolving door sells.**
 
+The Nextt episode is therefore useful less as a procurement scandal than as a governance illustration. A public entity buys from a private company. The company later retains a former senior state official. That official's other contemporaneous clients include major technology contractors operating in the same broad Texas market. The Ethics Commission records each registration. The city records the purchase. TxEDC records board and mission roles elsewhere. No single public document connects them.
+
+The connector does not need the documents to be connected. He already experiences the relationships as connected.
+
 ## The circle returned to India
 
 In January 2024, Abbott led another economic-development mission to India.
@@ -400,6 +427,10 @@ But the institutional recurrence remains striking. Agarwal, Whitley and a Nextt 
 TxEDC sponsored the overall mission. Agarwal later became its chairman.
 
 **The relationship did not need to be secret to be valuable. It needed to remain reusable.**
+
+Reuse is the underappreciated currency of public-private power. A one-time introduction can be luck. A recurring cast of intermediaries is a system. The 2018 mission produced one cast list. The 2024 mission produced another that rhymed with it. Between them sat lobbying registrations, board appointments, civic chairs and corporate travel.
+
+Texas celebrated the missions as recruitment. The connector model treats them as maintenance: a way of keeping relationships warm enough to be useful again.
 
 ## Dallas shows what reusable access looks like at home
 
@@ -427,6 +458,10 @@ The connector experiences one network.
 
 The public receives six filing cabinets.
 
+Cricket is a useful example of how conflict surfaces appear without proving wrongdoing. Agarwal chaired a sports enterprise with an interest in facilities. He also chaired parks and helped shape capital recommendations. When Dallas discussions later touched cricket facilities, a financial interest had to be disclosed. That disclosure is evidence the system can work in discrete moments. It is also evidence that the conflict surface was created by concentrating related public and private roles in the same person.
+
+A healthier disclosure regime would not wait for a single agenda item to force the question. It would keep a running public file of overlapping interests before the meeting is noticed.
+
 ## The other end of the bridge changes what 'connector' means
 
 The larger Texans First investigation found something that makes Agarwal's role easier to understand without making it more sinister.
@@ -445,6 +480,10 @@ The bridge did not require one person to govern both ends.
 
 It required connectors on each end who could translate a relationship into an introduction, an introduction into an institution and an institution into another relationship.
 
+In that sense, Agarwal is the Texas-facing illustration of a broader design. Andhra built formal coordinator rules and investment pipelines. Texas built informal trust hierarchies and public-private partnerships. Different paperwork. Same underlying bet: that relationships can move capital, offices and attention faster than ordinary bureaucracy.
+
+The accountability question is whether the public can see the relationships with anything like the clarity the participants experience.
+
 ## That is the design
 
 Public-private economic development is built to move faster than ordinary government.
@@ -462,6 +501,8 @@ A person's previous role becomes the reason for the next appointment. The appoin
 No corrupt bargain is required.
 
 **Influence compounds on its own.**
+
+This compounding is easy to miss if the analysis starts with a search for a smoking gun. Smoking guns are rare. Compounding access is common. The Texas record around Agarwal is full of ordinary public acts: appointments announced, missions celebrated, task-force recommendations briefed, lobbying registrations filed, Form 990 officers listed. The scandal, if the word applies at all, is not that those acts were hidden. It is that they were never assembled into a public account of power.
 
 ## The records Texas should keep
 
@@ -482,6 +523,8 @@ And economic-development claims should be followed beyond the announcement: prom
 **Those are not punishment mechanisms.**
 
 **They are the accounting controls a relationship-driven system requires.**
+
+Without them, Texas asks the public to trust a model that converts relationships into public power while publishing the evidence of those relationships only in fragments. With them, a connector can still connect. The difference is that citizens can follow the path.
 
 ## Agarwal is not the scandal
 
@@ -507,11 +550,14 @@ Agarwal is not the scandal.
 
 **He is the design.**
 
+## Primary sources and records
+
+Primary materials reviewed for this installment include Abbott appointment and mission releases identifying Agarwal's TxEDC and civic roles; Dallas City Council and Community Bond Task Force minutes and briefing materials, including the December 6, 2023 council presentation; Texas Economic Development Corporation governance materials and the fiscal-year 2020 Form 990 listing Abidali Neemuchwala as secretary; Texas Ethics Commission lobby roster entries for Nextt Affiliated, Wipro and Accenture associated with David Whitley / Gregory Strategies; Dallas emergency procurement authorization involving Nextt PPE purchasing; contemporaneous 2024 India-mission delegation materials identifying Gregory Strategies and Nextt representation; and public descriptions of APNRTS investment functions and ITServe-linked Andhra recruitment used only to situate the Texas connector model against the other end of the bridge.
+
 
 ################################################################################
-# FILE: content/stories/andhra-apparatus.md
+# III. The Andhra Apparatus
 ################################################################################
-
 
 ## Texas looked at one end of the relationship
 
@@ -537,6 +583,8 @@ It is economic development.
 
 **The question for Texans is why the strategy at the other end of the bridge was so much easier to see than the accounting at home.**
 
+Texas counted ribbon cuttings, mission releases and announced jobs. Andhra built an apparatus whose success metrics were operations, investment and employment captured inside its borders. Both sides can celebrate the same bilateral relationship. They are not counting the same thing.
+
 ## The institution had a name
 
 The Andhra Pradesh Non-Resident Telugu Society, or APNRTS, was established by the Government of Andhra Pradesh in 2016.
@@ -554,6 +602,10 @@ That phrase matters because 'offshore' is often treated in American political de
 Here it appears in the public description of a state economic-development function.
 
 **From Andhra's perspective, an offshore operation was not a scandal. It was a project to recruit.**
+
+The institutional design is therefore more revealing than any single memorandum. A nodal agency for overseas residents is also an investment facilitator. A migrant-service organization is also a pipeline for MSMEs and offshore delivery centers. The diaspora is not only a constituency. It is a channel.
+
+Texas officials meeting Indian executives and diaspora business leaders may experience those encounters as networking. Andhra's apparatus experiences them as intake.
 
 ## The diaspora was part of the machinery
 
@@ -579,6 +631,8 @@ It tells overseas Telugu investors to think of Andhra as **'Your Homeland. Your 
 
 The language is current and cannot simply be projected backward onto every decision in 2016. But it reveals the institutional purpose with unusual clarity: convert relationships abroad into operations at home.
 
+That conversion is the other end of the Texas story. When Abbott's office celebrates Indian investment in Texas, it is counting one direction of a two-way system. When Andhra builds coordinator rules, land pipelines and aftercare tracking, it is building capacity to capture the reverse direction: U.S.-linked firms opening Indian offices, delivery centers and headquarters-adjacent operations.
+
 ## Then came ITServe
 
 One of the most consequential joins in the record is ITServe Alliance.
@@ -603,6 +657,8 @@ Still, the policy direction is unmistakable.
 
 **A U.S.-based industry built around selling technology labor was being recruited by an Indian state whose objective was to create technology operations and jobs inside India.**
 
+That is not a moral judgment about either side. It is a description of opposing scoreboards. ITServe members sell labor capacity into American markets. Andhra wanted more of that capacity physically located — and officially employed — inside Andhra. The bridge between those goals is precisely the architecture Texas later celebrated as partnership without building an equally clear public labor ledger at home.
+
 ## The first offices were not hypothetical
 
 The relationship did not stop at ceremony.
@@ -622,6 +678,10 @@ The same pattern appears around other names associated with the Andhra cohort. I
 A company having offices in both places is not evidence that work moved from one to the other.
 
 **But it is exactly the kind of corporate architecture a serious labor-and-value ledger would need to account for.**
+
+If Texas wants to know who performs taxpayer-funded technology work, it cannot stop at the logo on a purchase order. It has to ask where the hours were authorized, which subcontractors performed them, and whether a dual-footprint company treated Indian delivery capacity as part of the same commercial system that sells into Texas.
+
+The Andhra record does not answer those questions for specific Texas assignments. It shows why the questions are not theoretical.
 
 ## Dallas Technology Centre made the relationship physical
 
@@ -645,6 +705,10 @@ The name is almost too perfect for the larger story.
 
 A technology center in Andhra Pradesh, organized around U.S.-linked firms, named for a Texas city that had become one of the principal American hubs of the same consulting and staffing economy.
 
+Dallas, in other words, was not only a place where Texas bought technology labor. It was also a brand useful enough that an Andhra land project could wear it while recruiting U.S.-linked firms to Visakhapatnam.
+
+That does not mean the City of Dallas sponsored the project or that Texas government directed it. The known record points to Andhra industrial-infrastructure and ITServe-era recruitment dynamics. The symbolic geography still matters. It shows how the commercial imagination of the bridge already ran through Texas place names.
+
 ## The building's second life matters
 
 Years later, Dallas Technology Centre reappeared in the record for a different reason.
@@ -667,6 +731,8 @@ The known record points instead to Andhra's own political and economic-developme
 
 The connection is institutional, not causal: the same Andhra strategy that recruited smaller U.S.-linked technology firms had created an asset that later could be repurposed to land a giant.
 
+This is how economic-development infrastructure works when it succeeds. Early tenants and land allotments create a physical option. Years later, a larger employer can occupy, expand or rebrand the option. The first story is about ITServe-linked firms and a Dallas-named center. The second story is about TCS and thousands of IT professionals. They are not the same story. They are sequential uses of the same receiving-end strategy.
+
 ## Then Andhra made the objective impossible to miss
 
 In April 2025, Andhra approved a separate deal for TCS.
@@ -687,6 +753,8 @@ Again, the point is not that India did something wrong by competing for jobs.
 
 **The point is that it competed deliberately.**
 
+Texas officials also compete deliberately when they recruit companies to Austin, Dallas, Plano or Houston. The difference is not ambition. It is the clarity of the receiving-end scoreboard. Andhra's land allotments, symbolic pricing, job targets and ministerial pitches leave little doubt what the state wanted to capture. Texas's bilateral celebration left far more doubt about what Texans were supposed to verify after the announcements.
+
 ## Texas's own numbers tell you who was winning what
 
 The asymmetry becomes more visible when the Andhra records are placed beside the Texas Governor's own bilateral investment profile.
@@ -695,15 +763,25 @@ For January 2015 through December 2024, Texas's Economic Development & Tourism O
 
 The same profile reports 175 projects by Texas companies in India, $7.6 billion in announced capital and more than 59,300 announced jobs.
 
+| 2015–2024 Reported FDI | India → Texas | Texas → India |
+|------------------------|---------------|---------------|
+| Projects | 74 | 175 |
+| Announced capital | $2.7B | $7.6B |
+| Announced jobs | 8,650+ | 59,300+ |
+
 Those figures are reported foreign-direct-investment estimates. They are not audited payroll, and they are not a measure of net social welfare.
 
 **They should not be described as 59,300 Texas jobs 'lost' to India. The data does not say that.**
+
+A Texas-headquartered company can expand in India using global capital, serve global clients and still retain significant Texas employment. Announced jobs are not verified jobs. Capital announcements are not cash leaving Texas bank accounts in a simple one-for-one transfer.
 
 But they do show that during the decade Texas spent marketing the relationship, the Texas-company-to-India side was much larger on the same metrics economic-development offices use to celebrate success.
 
 **And the Andhra records explain why that direction was not accidental.**
 
 **There was a government machinery trying to make it happen.**
+
+The Governor's profile and the Andhra apparatus therefore belong in the same frame. One side published the bilateral scoreboard. The other side built institutions to move projects onto its half of that scoreboard. Texas can still benefit from inbound Indian investment. It can still benefit from global companies choosing Texas campuses. Those benefits do not erase the asymmetry the state's own numbers report.
 
 ## This is economic development, viewed from the receiving end
 
@@ -720,6 +798,8 @@ A local executive who opens an Indian delivery center may experience that as a c
 The receiving government experiences it as a jobs program.
 
 **Both descriptions can be true at the same time.**
+
+That dual truth is uncomfortable in Texas politics because it complicates the simpler narrative in which foreign labor appears only as a visa category or a corporate betrayal. The Andhra materials treat overseas networks, U.S.-linked technology firms and Indian delivery capacity as parts of one development system. Texas, during the same years, treated India primarily as a recruitment destination and friendship narrative while leaving the contractor labor ledger incomplete at home.
 
 ## What the record still does not show
 
@@ -743,6 +823,8 @@ Andhra Pradesh built a public system whose success was defined partly by bringin
 
 Texas built a relationship with that economy while failing to build a comparable public accounting of what happened to labor and value inside its own contractor market.
 
+Those boundaries matter because the series is about governance, not guilt by association. A Telugu diaspora organization, an Indian state investment pitch and a Texas economic-development mission can all be lawful, rational and even beneficial. The accountability failure appears when Texas celebrates the relationship without the records necessary to tell the public what the relationship produced in labor geography, verified jobs and taxpayer-funded work.
+
 ## The public ledger Texas never built
 
 Imagine the records if Texas measured the relationship the way Andhra pursues it.
@@ -758,6 +840,8 @@ For every company operating on both sides of the bridge, Texas could distinguish
 **That would not stop trade.**
 
 **It would tell Texans what the trade produced.**
+
+The ledger does not require hostility to India, Andhra Pradesh, ITServe or any particular company. It requires the same seriousness about outcomes that Andhra already applies to capture. If offshore operations are an explicit recruitment category on one end of the bridge, work location and delivery geography should be an explicit disclosure category on the other.
 
 ## The other end kept score
 
@@ -787,11 +871,14 @@ And until Texas can show where the work, workers and value actually went, Texans
 
 **Texas counted what it announced.**
 
+## Primary sources and records
+
+Primary materials reviewed for this installment include official Andhra government descriptions of APNRTS as a fully state-owned nodal agency and of its Investments Wing facilitating MSMEs and offshore operations; APNRTS coordinator rules and investment-portal materials, including the "Your Homeland. Your Next Headquarters" framing; contemporaneous reporting on ITServe Alliance memoranda involving roughly 50 member companies and described incentive packages; company-footprint reporting around Amzur, IntelliSoft, Kairos and related firms; Andhra Pradesh Industrial Infrastructure Corporation September 2015 land records for Dallas Technology Centre at IT non-SEZ Hill 2 (~7,900 square meters); contemporaneous accounts of the roughly ₹192-crore DTC plan and intended tenants; November 2024 industries-department reporting on DTC Rushikonda premises for TCS phase-one employment of about 2,000 IT professionals; April 2025 cabinet reporting on a separate TCS allotment of 21.16 acres for 99 paise, a ₹1,370-crore proposal and 12,000-plus jobs after Nara Lokesh's October 2024 pitch; Cognizant land-arrangement reporting from 2025; and the Texas Economic Development & Tourism Office bilateral FDI profile for 2015–2024.
+
 
 ################################################################################
-# FILE: content/stories/revolving-door.md
+# IV. The Revolving Door
 ################################################################################
-
 
 ## The bridge had governors
 
@@ -819,6 +906,8 @@ Jerry Strickland shows how long political proximity can become private governmen
 
 Together, they expose a governance problem Texas has never adequately solved: the state can disclose a lobbying registration, a board appointment and a contract in three different systems while never giving the public a single view of the relationship among them.
 
+The bridge had governors in the ordinary sense: elected officials who set policy and celebrated missions. It also had governors in the systems sense: people who knew how appointments, procurement vehicles, economic-development partnerships and lobbying channels actually worked. Some of those people later sold that knowledge.
+
 ## David Whitley knew the machinery
 
 David Whitley's résumé reads like an instruction manual for Texas executive government.
@@ -839,6 +928,8 @@ Whitley also traveled on Abbott's 2018 India mission, placing him directly insid
 
 **He was a former senior executive-branch operator with direct knowledge of appointments, the Governor's Office, statewide institutions and Texas's India-facing economic-development network.**
 
+That combination is the product Texas's revolving door is designed to sell. Not a generic acquaintance with "government." Specific familiarity with the institutions that recruit companies, appoint board members, manage statewide visibility and later buy technology services.
+
 ## By 2020, that knowledge was for sale
 
 Texas Ethics Commission records establish that by 2020 Whitley was registered through Gregory Strategies to represent private clients before Texas government.
@@ -852,6 +943,12 @@ Three names are particularly important to this investigation.
 **Nextt Affiliated.**
 
 The dates correct an important misconception that appeared in earlier reporting notes. Whitley's relationship with Accenture did not begin in 2023. The Texas Ethics Commission's 2020 lobby roster lists Accenture as a prospective client beginning June 26, 2020. The same roster lists Nextt Affiliated beginning June 26 and Wipro beginning February 8.
+
+| Client (2020 TEC roster) | Registration begins | Why the date matters |
+|--------------------------|---------------------|----------------------|
+| Wipro | Feb. 8, 2020 | Follows Abbott's 2018 Wipro recruitment and Plano announcement |
+| Accenture | June 26, 2020 | Corrects the misconception that Accenture began in 2023 |
+| Nextt Affiliated | June 26, 2020 | Comes after Dallas's April 2020 Nextt PPE authorization |
 
 Those registrations do not prove Whitley influenced a particular contract. A lobbying registration identifies a client relationship; it does not identify every meeting, communication or result.
 
@@ -889,6 +986,8 @@ The public is then expected to prove a specific act of favoritism before asking 
 
 Conflict rules are supposed to make the public confident before misconduct occurs, not merely provide evidence after it.
 
+Whitley's client book is therefore best read as a map of adjacency rather than a verdict. The map shows that recruitment, private consulting and India-facing corporate relationships occupied the same neighborhood of Texas public life. A verdict would require transaction-level proof this investigation has not claimed.
+
 ## John Scott occupied an even more technical position
 
 John B. Scott's career presents a different version of the same problem.
@@ -921,6 +1020,8 @@ A former DIR chairman who helped shape executive-branch technology strategy late
 
 **It is a fact pattern that should trigger transparent, searchable disclosure.**
 
+Scott's path also shows how technical power and political power can travel together. DIR chairmanship is about procurement architecture. Secretary of state and interim attorney general roles are about statewide executive authority. Private representation of Deloitte sits downstream of both. The public should not need a specialist's memory to reconstruct that sequence.
+
 ## The state knew revolving doors were a governance problem
 
 Texas law already recognizes the underlying risk.
@@ -940,6 +1041,8 @@ Almost nothing in that chain is connected for the public.
 **Opacity can be produced without secrecy.**
 
 Sometimes all it requires is making every institution disclose its own small piece.
+
+The same fragmentation appears around Whitley. Mission releases live on the Governor's website. Lobbying rosters live at the Ethics Commission. PPE authorizations live in Dallas procurement files. TxEDC roles live in appointment announcements and nonprofit filings. Each disclosure can be accurate. The system still fails if the public cannot see the relationships as relationships.
 
 ## Ruth Hughs shows the economic-development side
 
@@ -964,6 +1067,8 @@ Texas's disclosure system overwhelmingly protects the first proposition while do
 When a senior official leaves, the public loses an institutional operator. The private market gains one.
 
 **A serious revolving-door regime should make the transfer visible enough to evaluate.**
+
+Hughs also helps keep the series from collapsing into a story only about technology lobbyists. The workforce, appointments and secretary-of-state complex is itself part of the bridge's governing knowledge. People who understand how Texas talks to employers, manages boards and represents the state externally leave with a portable map of the system. Whether they later appear on a particular vendor's lobby roster is a secondary question. The primary question is whether Texas tracks the transfer of that map at all.
 
 ## Jerry Strickland represents political continuity
 
@@ -991,6 +1096,8 @@ A company whose business model intersects with temporary skilled labor, global d
 
 **It is also exactly why the public needs a better map.**
 
+Cognizant's federal and Texas footprints belong in the same investigation for a different reason than a simple smear. They show a company operating across the same policy surface Abbott later addressed with a Texans-first directive: temporary skilled labor, U.S.-India commercial ties and technology workforce questions. Strickland's Texas registration does not prove he handled those federal issues. It does prove that Cognizant considered long Abbott proximity valuable enough to buy in Texas.
+
 ## The corporate side built its own government expertise
 
 The revolving door does not move only from Texas government outward.
@@ -1017,6 +1124,8 @@ The companies Texas recruits and buys from do not approach government as passive
 
 **Texas should govern the relationship with comparable sophistication.**
 
+Bjorkman's path — congressional India portfolio, TCS government affairs, Cognizant U.S. government affairs, appearance in 2024 mission materials — is the corporate mirror of the Whitley/Scott pattern. Knowledge of the bridge accumulates. Employers of that knowledge change. The public still receives the relationship in disconnected pieces.
+
 ## The warning lights were already on
 
 This revolving-door structure would be less consequential if Texas's procurement oversight were unusually strong.
@@ -1035,11 +1144,21 @@ In April 2025, the State Auditor found that nine of Texas's 25 largest agencies 
 
 **By June 2026, that number had risen to 13 of 25, or 52 percent.**
 
+| Oversight signal | What it showed | What it did not show |
+|------------------|----------------|----------------------|
+| 2016 SAO report | Contractor-management and E-Verify verification weaknesses | An H-1B census or visa scandal |
+| 2021 SAO DIR audit | High-risk weaknesses in vendor scoring and transparency | That foreign vendors uniquely caused the findings |
+| Sunset review | Improvements plus remaining IT procurement and pricing gaps | A clean bill of health for staffing programs |
+| April 2025 SAO | 9 of 25 largest agencies needed added monitoring | Cause attributed to India-facing contractors |
+| June 2026 SAO | 13 of 25, or 52 percent | Proof that revolving-door lobbying produced the risk |
+
 Those are general contracting-risk assessments, not findings that foreign labor or technology vendors caused the problems.
 
 **But they destroy the comforting assumption that Texas entered the current debate with a mature contracting system that merely needed a new immigration rule.**
 
 **The state was still struggling with basic contract governance.**
+
+A revolving door into a weak contracting environment is more consequential than a revolving door into a tightly monitored one. Texas had both intermediaries with deep institutional knowledge and audit findings showing that monitoring, scoring and compliance remained incomplete.
 
 ## Then Abbott changed the rule for one channel
 
@@ -1066,6 +1185,8 @@ That qualification matters.
 Abbott changed the rule for the channel government could see most easily.
 
 **The contractor channel remained governed by procurement architecture built long before the directive.**
+
+That is why the revolving-door story and the Texans-first directive belong together. Former officials who understand DIR vehicles, agency staffing practices and political decision-making know where the visible channel ends and the contractor channel begins. The public, reading only the January 2026 letter, can easily miss the difference.
 
 ## This is why the intermediaries matter
 
@@ -1097,6 +1218,8 @@ A corporate government-affairs executive understands the company's policy exposu
 
 **It gets a website.**
 
+The website may be accurate. Accuracy without integration is still a governance failure when the system's value depends on relationships that cross institutions.
+
 ## Texas needs a relationship ledger
 
 The reform implied by these records is surprisingly modest.
@@ -1114,6 +1237,8 @@ For public-private economic-development organizations, it should additionally sh
 **That is the point.**
 
 A disclosure system should not treat a relationship as shameful. It should treat it as material.
+
+Such a ledger would not ban Whitley from representing Wipro, Scott from representing Deloitte, Strickland from representing Cognizant or Bjorkman from moving between TCS and Cognizant. It would make the sequence searchable before a journalist, competitor or citizen has to reconstruct it from five databases and a memory of who once chaired which board.
 
 ## Who governed the bridge?
 
@@ -1165,11 +1290,14 @@ Who bought.
 
 **And who, after leaving government, came back through another door.**
 
+## Primary sources and records
+
+Primary materials reviewed for this installment include Texas Ethics Commission lobby roster entries for David Whitley / Gregory Strategies clients Accenture, Wipro and Nextt Affiliated in 2020, including the June 26, 2020 Accenture and Nextt dates and the February 8, 2020 Wipro date; Dallas April 2020 Nextt PPE authorization timing; Abbott appointment and biography materials for John B. Scott's DIR chairmanship, secretary-of-state tenure and interim attorney general service; TEC prospective-client listings for Deloitte associated with Scott in 2024–2026; DIR/ITSAC materials identifying Deloitte's 2025 staffing vehicle participation; public records of Ruth Ruggero Hughs's TWC chair and secretary-of-state service; Abbott's 2015 description of Jerry Strickland's long advisory relationship dating to 2003; TEC Cognizant registrations for Strickland in 2024–2025; Cognizant federal lobbying disclosures on H-1B and related issues, kept distinct from Texas representation; Neil Bjorkman biographical and federal disclosure materials spanning TCS and Cognizant, plus 2024 mission-associated materials; State Auditor's Office reports from 2016 and 2021, Sunset review findings, and the April 2025 and June 2026 large-agency contract-monitoring tallies (9/25 and 13/25); Abbott's January 27, 2026 H-1B directive; and HHSC/vendor candidate materials reflecting Texas-residence and "No H1B" language with the recruiter-origin caveat preserved.
+
 
 ################################################################################
-# FILE: content/stories/itserve-alliance.md
+# V. The Network
 ################################################################################
-
 
 ## Three verbs explain the organization
 
@@ -1177,9 +1305,7 @@ ITServe Alliance has used a remarkably efficient description of what it does.
 
 **Educate. Lobby. Litigate.**
 
-Those three verbs are more useful than any label outsiders might impose on the organization.
-
-They describe an industry that learned how to act collectively.
+Those three verbs are more useful than any label outsiders might impose on the organization. They describe an industry that learned how to act collectively.
 
 Technology consulting and staffing is structurally fragmented. Thousands of firms recruit workers, supply consultants, subcontract through larger vendors, compete for clients and navigate an immigration system in which a change in federal policy can alter the economics of the entire business model.
 
@@ -1209,7 +1335,7 @@ Temporary skilled-worker programs, particularly H-1B, became important to parts 
 
 **That statement requires precision.**
 
-An ITServe member is not necessarily an H-1B-dependent employer. An H-1B-dependent company does not employ only H-1B workers. A Labor Condition Application is not a visa approval, and it does not prove that a worker performed a particular government contract.
+An ITServe member is not necessarily an H-1B-dependent employer. An H-1B-dependent company does not employ only H-1B workers. A Labor Condition Application is not a visa approval. An LCA does not prove that a worker performed a particular government contract, and it does not by itself establish that a named filing corresponds to a specific public purchase order.
 
 But federal records and ITServe's own advocacy history make the broader relationship undeniable: high-skilled immigration policy is economically important to a substantial portion of the constituency ITServe represents.
 
@@ -1281,6 +1407,16 @@ This was no longer merely a networking club for technology entrepreneurs.
 
 **That is institutional power.**
 
+The association fought for the model itself. Third-party placement was not treated as an accidental feature of the H-1B consulting market. The industry defended it as a core feature of legitimate consulting. When federal agencies imposed policies that threatened the model, ITServe argued that the government had exceeded its authority and imposed unlawful burdens. Courts and federal settlements gave the industry significant relief.
+
+Those legal victories should be described accurately, not as evidence of wrongdoing.
+
+**They demonstrate that the consulting model had organized defenders capable of shaping the rules under which it operated.**
+
+Texas had no comparable public institution whose job was to ask a different question:
+
+**When the customer is the taxpayer, where did the work actually occur?**
+
 ## Texas was not incidental
 
 ITServe's Texas footprint makes the organization directly relevant to this investigation.
@@ -1325,11 +1461,15 @@ It shows political organization at the level of people who otherwise appear in g
 
 The same commercial community could participate in immigration advocacy, association leadership, political events, campaign contributions and public contracting without any one database showing the whole network.
 
+That is not a conspiracy chart.
+
+**It is a political-organization pattern.**
+
 ## The public-contracting overlap
 
 The Texas technology market is where this becomes more than a campaign-finance story.
 
-Texas buys enormous amounts of technology through private vendors. DIR's ITSAC program supplies individual technology workers. DBITS and other cooperative vehicles supply broader technology services.
+Texas buys enormous amounts of technology through private vendors. The Department of Information Resources' ITSAC program supplies individual technology workers. DBITS and other cooperative vehicles supply broader technology services.
 
 **The investigation's working vendor census has found ITServe-linked companies inside those markets.**
 
@@ -1375,7 +1515,7 @@ In Andhra: offices, incentives, workers and delivery capacity.
 
 **They can be complementary.**
 
-That is precisely why a state economic policy centered on 'Texas jobs' needs more than company-level accounting.
+That is precisely why a state economic policy centered on "Texas jobs" needs more than company-level accounting.
 
 ## A company can be local and global at once
 
@@ -1394,26 +1534,6 @@ This is where the ITServe story joins the first story in this series.
 **The issue is not that a global company is global.**
 
 **The issue is that Texas political leaders make geographically specific promises about jobs while the state's contracting records remain primarily corporate.**
-
-## The association fought for the model
-
-ITServe's litigation history also clarifies a point often obscured in immigration debate.
-
-**Third-party placement was not an accidental feature of the H-1B consulting market.**
-
-**The industry defended it as a core feature of legitimate consulting.**
-
-When federal agencies imposed policies that threatened the model, ITServe argued that the government had exceeded its authority and imposed unlawful burdens.
-
-Courts and federal settlements gave the industry significant relief.
-
-Those legal victories should be described accurately, not as evidence of wrongdoing.
-
-**They demonstrate that the consulting model had organized defenders capable of shaping the rules under which it operated.**
-
-Texas had no comparable public institution whose job was to ask a different question:
-
-**When the customer is the taxpayer, where did the work actually occur?**
 
 ## The missing denominator
 
@@ -1436,6 +1556,32 @@ For that reason, this story does not publish a single sensational percentage and
 **Texas has never built the denominator itself.**
 
 If the Governor wants to know what share of taxpayer-funded technology labor is performed by Texans, temporary-visa workers, out-of-state workers or workers outside the United States, the state should not need an investigative project to reconstruct it.
+
+## ITServe was not politically isolated
+
+ITServe's political story is sometimes told as if the association invented its access from scratch.
+
+**The public record is more interesting than that.**
+
+In a Form 990 filing reviewed for this investigation, ITServe itself recorded a blunt note about earlier political work: **"WE USED REPUBLICAN HINDU COALITION BACK IN 2018 AND DISCONTINUED."**
+
+That sentence does not prove ongoing control, joint strategy or identity between the organizations. Categories matter. A 501(c)(6) trade association is not a 501(c)(3) charity, a 501(c)(4) social-welfare organization or a political-action committee. Separate filings, separate rules and separate legal identities are not a loophole. They are the architecture of American nonprofit and political law.
+
+But the sentence does show something the official slogan alone does not.
+
+**ITServe knew how to borrow political infrastructure when it was useful — and how to stop when it was not.**
+
+The Republican Hindu Coalition, founded by Shalabh Kumar and launched in 2015 with Republican officials present, including then-Congressman Pete Sessions, was built to organize Hindu-American political participation on the Republican side of American politics. Sessions' later appearances in other community arenas are their own story. The point here is narrower: an ITServe filing placed the association in the same political ecosystem, then documented that the arrangement ended.
+
+Other relationships show the same pattern of overlapping civic and service networks without collapsing into a single command structure. Sewa International's COVID-era partnerships placed a diaspora service organization beside mainstream public health and community-response work. Public biographies of ITServe-linked executives, including Kris Gadde, describe Sewa support and service activity. Those facts establish social proximity and organizational fluency.
+
+**They do not establish that Sewa directed ITServe, that ITServe directed Sewa, or that either organization controlled Texas procurement decisions.**
+
+The useful conclusion is simpler.
+
+**ITServe was never only a trade association talking to itself.**
+
+It operated inside a wider set of political, civic and service relationships that could be activated, discontinued, celebrated or left unspoken depending on the venue. A Texas agency meeting an ITServe member as a vendor would not necessarily see that wider map. An executive moving among association events, campaign seasons, charitable partnerships and client sales would experience something closer to one network.
 
 ## What organized industries understand
 
@@ -1473,7 +1619,7 @@ Abbott's 2026 H-1B directive finally imposed a worker-centered political princip
 
 But the state's procurement system had been built around vendors, contracts, categories, rates and deliverables.
 
-**That mismatch is the heart of the final story in this series.**
+**That mismatch is the heart of the later stories in this series.**
 
 ITServe did not create it.
 
@@ -1523,11 +1669,235 @@ By the time Abbott announced that taxpayer-funded opportunities should go to Tex
 
 **Texas was still trying to determine who the workers were.**
 
+### Primary sources
+
+- ITServe Alliance public materials and advocacy history
+- Texas Ethics Commission campaign-finance filings (February 2022 contribution cluster)
+- DIR ITSAC / DBITS contract architecture
+- Contemporaneous 2016 Andhra Pradesh–ITServe recruitment reporting
+- IRS Form 990 language regarding Republican Hindu Coalition use and discontinuation
+
 
 ################################################################################
-# FILE: content/stories/the-ledger.md
+# VI. The Access Layer
 ################################################################################
 
+## The map already existed
+
+Before this investigation asked what Texas knows about its contractor workforce, other researchers had already spent years trying to map a different problem: how organizations clustered around the Rashtriya Swayamsevak Sangh present themselves as separate while functioning, in practice, as a network.
+
+In late 2025, Sciences Po's Centre for International Studies and *The Caravan* published Seeing the Sangh / The RSS Project — an interactive dataset built from public documentary evidence and describing material ties among more than 2,500 organizations worldwide. The project's own framing is blunt. The RSS formally acknowledges only a small number of affiliates. Internally, the constellation is often described as unified. Externally, researchers argue, many ties have been diluted, disguised or denied.
+
+Other American reporting and advocacy projects have pursued related questions from different angles. Savera and allied researchers have published critiques of diaspora organizations and civic advocacy groups. The Hindu American Foundation has disputed methodologies, framing and conclusions aimed at it and at organizations it regards as unfairly painted with a single ideological brush. HAF and its defenders argue that civil-rights advocacy, temple life and community service are being misread as political command. Critics argue that public branding often understates denser personnel and organizational overlaps.
+
+**Those disputes belong in the record — attached to the claims they contest, not erased for narrative convenience.**
+
+This story does not settle them. It does not adopt anyone's conspiracy chart. It does not treat a mapped organizational relationship as proof of criminal coordination, foreign agency or secret command. A weighted research criterion is not a criminal indictment. A disputed methodology is not a license to pretend the map never existed.
+
+**It asks a narrower question.**
+
+What happens when that map — or even a carefully restrained version of it — is laid over American institutions: planning commissions, advisory councils, trade associations, faith organizations, political-action committees, Big Tech résumés and Texas public life?
+
+The answer is not that one foreign headquarters secretly runs Texas.
+
+**The answer is that American government is organized to see institutions, while the people moving among those institutions can experience something closer to one network.**
+
+## One résumé, many rooms
+
+Chandru Acharya is a useful case because nothing about his public career requires invention.
+
+He has served as a director of Hindu Swayamsevak Sangh USA. He is president of Imetris Corporation, a Michigan-based IT consulting firm whose own descriptions emphasize staff augmentation, outsourcing and workforce programs. He served on the Michigan Asian Pacific American Affairs Commission beginning in 2018. He sat on the Canton Township Planning Commission through 2022. He was appointed to the U.S. Department of Homeland Security's Faith-Based Security Advisory Council. By 2024 he was serving as co-chair of a subcommittee focused on combating online child sexual exploitation and abuse.
+
+Every one of those roles can be described, accurately, as civic or professional service.
+
+**None of them, by itself, proves that HSS directed Michigan planning decisions, DHS advice or Imetris commercial strategy.**
+
+This investigation has found no evidence that it did.
+
+What the résumé shows is something government systems are poorly designed to measure.
+
+Each institution sees one slice.
+
+The planning commission sees a local commissioner.
+
+The state commission sees a community representative.
+
+DHS sees a faith-community adviser.
+
+Clients see a staffing executive.
+
+HSS members see a national director.
+
+**The résumé is the network.**
+
+A person who can move among cultural organizing, local land-use authority, state ethnic-affairs machinery, federal security advice and a commercial staffing business does not need to issue orders across those rooms in order to make the rooms less separate than they look on paper.
+
+**Reusable relationships are the product.**
+
+## Sewa bridges into Big Tech
+
+The same pattern appears in service organizations whose public face is charity and whose leadership biographies run through American technology employers.
+
+Sewa International USA's own leadership materials identify Sandeep Khadkekar as vice president of organization. The same biography identifies him as a software architect at Apple and describes national work spearheading HSS Balagokulam youth programming. Dilip Karandikar appears as a Sewa technology leader and, in the same public materials, as a Senior Practice Leader at Amazon Web Services. Dr. Suresh Jain, founder of Intonation Research Laboratories, is identified in Sewa materials as associated with Sangh since childhood.
+
+Those facts map reach through people.
+
+**They do not invent an employer affiliation that the employer never claimed.**
+
+Apple is not thereby converted into an HSS affiliate. Amazon is not thereby converted into Sewa. Intonation is not thereby converted into a political front. People hold multiple roles. Diaspora service organizations recruit capable professionals. Technology companies employ people with civic lives.
+
+**The investigative point is narrower and harder for government to see.**
+
+When the same people move among charity boards, cultural organizations, corporate engineering leadership and political recognition events, the network travels with them. A congressional office meeting a volunteer leader, a company meeting a practice leader and a temple meeting a Balagokulam organizer may believe they are meeting three separate civic categories.
+
+**The connector experiences one map.**
+
+## BAPS built a political machine in plain sight
+
+Bochasanwasi Akshar Purushottam Swaminarayan Sanstha — BAPS — is distinct from RSS and HSS. Collapsing those categories is a methodological error, and this investigation refuses it.
+
+BAPS is also one of the clearest examples in American public life of a faith organization building durable political access without hiding the machinery.
+
+The organization created an Office of Public Affairs in 2017. Its U.S. footprint is concrete enough to count: roughly 108 mandirs across 35 states, touching on the order of 100 congressional districts. On July 31, 2020, BAPS Public Affairs registered a federal political-action committee. FEC records list Anil Barot as treasurer. In the 2025–2026 cycle coverage available through mid-2026, the PAC reported about $175,000 in total receipts, nearly all from individual contributions.
+
+Temple visits, groundbreakings, Capitol meetings and PAC checks are not secret.
+
+**They are a public political machine.**
+
+That does not make BAPS illegitimate. American religious communities have always organized civic presence. What matters for accountability is whether the public can see the relationships with the same clarity the organizers experience them.
+
+## Pete Sessions and durable access
+
+Pete Sessions appears so often across these arenas that treating each appearance as a coincidence becomes less useful than treating the pattern as the finding.
+
+Sessions was present at the 2015 Republican Hindu Coalition launch. He has appeared at BAPS events in Dallas, on Capitol Hill and around the Robbinsville, New Jersey Akshardham complex. In 2024, he was among the members of Congress — alongside Brian Fitzpatrick, Jamie Raskin and Marc Veasey — who pressed USCIS about the EB-4 clergy backlog affecting religious workers, including BAPS clergy. On April 19, 2026, he attended the Austin BAPS mandir groundbreaking. On May 3, 2026, he was welcomed at BAPS in Ahmedabad during an India visit that mixed temple protocol, hospital tours and political meetings.
+
+None of those facts proves that BAPS purchased Sessions' votes or that Sessions directed immigration outcomes for a religious employer.
+
+**They prove durable access.**
+
+A politician who can be found at a 2015 coalition launch, a 2024 visa-backlog intervention and a 2026 Texas groundbreaking is not discovering the community for the first time each cycle. The relationship is maintained. The venues change. The network remains usable.
+
+## Politicians recur across arenas
+
+Sessions is not alone.
+
+Brian Fitzpatrick, Raja Krishnamoorthi, Marc Veasey and Hank Johnson recur across BAPS, Sewa and ITServe arenas in combinations that do not require a single coordinating committee to become significant. A lawmaker can attend a temple event one month, praise a service organization's disaster response the next and hear from a technology-staffing association about immigration rules the month after.
+
+Sometimes the issue is clergy visas. Sometimes it is community recognition. Sometimes it is skilled-worker policy. Sometimes it is disaster relief or temple construction. The issue labels change. The offices remain familiar.
+
+From the politician's perspective, these may be ordinary constituent and diaspora outreach.
+
+From the organizer's perspective, the same offices keep hearing from adjacent networks.
+
+**From the public's perspective, the overlaps are rarely published as one ledger.**
+
+That ledger problem is not unique to one party. The recurring names include Republicans and Democrats. Access layers that survive partisan turnover are more durable than access that depends on a single administration. They also become harder for any one ethics office to see, because each office still files its contacts under separate event categories.
+
+## The local version is quieter
+
+National PACs and Capitol letters are easy to notice.
+
+The quieter version of the same architecture is local: planning commissions, variances, economic-development corporations, zoning hearings and civic appointments.
+
+Acharya is again the model, not because Michigan is Texas, but because the mechanism travels. A person with cultural-organization standing becomes useful on a planning commission. A planning commissioner becomes useful to a business community. A business executive becomes useful to a state commission. A state commissioner becomes useful to a federal advisory body.
+
+Each step can be merit-based. Local governments need volunteers who will show up, read packets and absorb political heat. Diaspora professionals often have exactly the skills those boards want: technical literacy, fundraising capacity, bilingual fluency and dense community trust.
+
+**The evidentiary standard for claiming improper influence remains high.**
+
+This investigation does not allege that Acharya traded planning votes for commercial advantage, or that HSS directed Canton Township outcomes. No such proof has been established. A variance file, an EDC recruitment pitch or a planning-commission vote becomes investigative only when the documentary record shows a conflict, an undisclosed interest or a decision that cannot be explained without the outside relationship.
+
+What the local layer shows is why a Texans-first investigation cannot stop at DIR purchase orders.
+
+**Access accumulates below the state capital as well as inside it.**
+
+If the only place Texas looks for network power is a governor's India mission or a statewide staffing contract, it will miss the rooms where land, recognition and local economic development are decided — rooms that later feed the résumés that open state and federal doors.
+
+## Texas is a laboratory
+
+Texas is not a peripheral case in this architecture. It is one of the densest.
+
+North Texas has the ITServe depth already described in Part Five: association chapters, consulting firms, campaign contributions, public-contract eligibility and Andhra recruitment history stacked in the same metro. That density is why Abbott's March 2022 ITServe appearance mattered as more than a photo line. The commercial community was already organized enough to host a governor, contribute in clusters and appear later in procurement markets.
+
+Houston carries BAPS presence in Stafford, Sewa and HSS activity, and civic figures such as Ramesh Bhutada whose public biographies run through business, charity and community leadership. The city's scale makes it possible for temple life, service organizations and commercial networks to remain adjacent without every relationship becoming visible in a single statewide filing.
+
+Central Texas adds Austin's emerging BAPS footprint and the long-standing Radha Madhav Dham / Barsana Dham complex in Hays County — another reminder that Hindu institutional life in Texas is plural, competitive and not reducible to one overseas headquarters. Different organizations, different lineages, different local histories. The access methods can still rhyme: public events, political guests, land and facilities questions, diaspora civic leadership and, when useful, formal advocacy.
+
+**The laboratory metaphor matters because Texas government keeps meeting these networks as vendors, donors, appointees, temple hosts or economic-development partners — rarely as one map.**
+
+## This is not command-and-control
+
+The temptation, once the overlaps are visible, is to draw a conspiracy chart.
+
+**Refuse it.**
+
+A line on a map means only what the evidence underneath it can support.
+
+Shared board membership is not secret agency.
+
+A temple visit is not a bribe.
+
+A PAC contribution is not a policy purchase.
+
+A Form 990 note about discontinued political use is not proof of continuing joint command.
+
+An HSS director on a planning commission is not proof that HSS ran the commission.
+
+A Sewa officer employed at Apple is not proof that Apple joined Sangh.
+
+An ITServe member in ITSAC is not proof that ITServe placed an H-1B worker on a Texas contract.
+
+**Category discipline is not politeness. It is the difference between investigation and smear.**
+
+What survives after that discipline is still consequential.
+
+Organizations can be legally separate while relationships remain reusable. People can carry access from room to room. Politicians can recur across arenas. Local land-use power, state contracting power, federal advisory power and diaspora service prestige can reinforce one another without a single memos-from-the-top structure.
+
+**That is an access layer.**
+
+## Filing cabinets versus the network
+
+Return to the governance problem already visible in Part Two.
+
+The connector experiences one network.
+
+The public receives six filing cabinets.
+
+Ethics disclosures sit in one system. Campaign finance sits in another. Nonprofit filings sit in another. Procurement records sit in another. Advisory-council memberships sit in another. Corporate biographies sit somewhere else entirely.
+
+A journalist can reconstruct overlaps. A motivated opponent can reconstruct overlaps. A person living inside the network does not need to reconstruct anything.
+
+**Government, using only its ordinary institutional view, often cannot.**
+
+Government knows how to regulate an institution.
+
+**It is far less practiced at seeing a network.**
+
+That is why the original Texas labor problem rhymes so closely with this governance problem.
+
+In the contractor market, Texas can see the vendor and still miss the worker.
+
+In civic and political life, Texas can see the institution and still miss the network.
+
+The organizations remain separate on paper. The relationships remain reusable in practice. The public is asked to evaluate each room as if the others do not exist.
+
+The people moving among the rooms do not need the public ledger to be complete.
+
+**They already have the map in their résumés.**
+
+### Primary sources
+
+- Seeing the Sangh / The RSS Project (Sciences Po CERI; *The Caravan*)
+- Public biographies and appointments for Chandru Acharya; Sewa International USA leadership materials
+- FEC committee records for BAPS PAC (C00753475)
+- USCIS correspondence regarding EB-4 religious-worker backlog (Fitzpatrick, Sessions and related letters)
+- BAPS public event records for Austin (April 19, 2026) and Ahmedabad (May 3, 2026)
+
+
+################################################################################
+# VII. The Ledger
+################################################################################
 
 ## The promise
 
@@ -1669,7 +2039,7 @@ Abbott's rhetoric crossed the boundary: taxpayer-funded opportunities should be 
 
 There is a useful comparison inside the very same ITSAC system.
 
-In 2026, DIR contract pages show amendments tied to Abbott's separate foreign-adversary policy across current staffing contracts.
+In 2026, DIR contract pages show amendments tied to Abbott's separate foreign-adversary policy — often discussed under the GA-48 lineage — across current staffing contracts.
 
 Those restrictions concern companies connected to designated foreign-adversary countries. India is not one of the countries targeted by that policy, and the amendment has nothing to do with H-1B visas.
 
@@ -1730,6 +2100,24 @@ Andhra built public machinery explicitly designed to attract investment, offshor
 **Then, after a decade of building the bridge, Abbott announced that taxpayer-funded employment should belong to Texans.**
 
 **Texas still lacked a public ledger capable of showing what that meant across the contractor workforce.**
+
+## The missing ledger is larger than labor
+
+Parts Two through Six of this series make a second gap impossible to ignore.
+
+Texas does not merely lack a labor ledger for taxpayer-funded technology work.
+
+**It lacks a relationship ledger for the people and organizations who move among economic development, appointments, contracting, diaspora institutions and political access.**
+
+The connector experiences one network. The public receives six filing cabinets. A planning commissioner, advisory-council member, trade-association executive, PAC treasurer, campaign donor and vendor contact may be the same person — or adjacent people in the same reusable map — without any statewide system publishing the overlaps in one place.
+
+**A Texans-first accounting that counts only visas on the state payroll while ignoring both contractor labor and reusable relationships will miss the architecture that made the politics possible.**
+
+Texas needs both ledgers.
+
+The labor ledger answers who performed the work.
+
+The relationship ledger answers who could reach the rooms where the work was defined, bought, celebrated or excused.
 
 ## The question is answerable
 
@@ -1813,4 +2201,12 @@ Until then, Texans First comes with terms and conditions.
 And the most important condition is the one Texas still cannot consistently demonstrate in public:
 
 **Who actually performed the work?**
+
+### Primary sources
+
+- Abbott H-1B directive, January 27, 2026
+- DIR ITSAC solicitations, templates and GA-48 / foreign-adversary contract amendments
+- TWC Business Analyst 2 purchase order and payment records (Digerati Systems)
+- State Auditor's Office contracting reports (2016; April 2025; June 2026) and DIR-related audits / Sunset review
+- Governor's Economic Development & Tourism Office Texas–India profile (July 2025)
 

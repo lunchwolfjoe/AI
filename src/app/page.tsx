@@ -18,14 +18,14 @@ const seriesParts = [
   {
     part: 3,
     numeral: "III",
-    title: "The Other End",
+    title: "The Andhra Apparatus",
     description: "Texas celebrated the relationship. Andhra Pradesh built machinery to capture the investment, operations and jobs.",
     slug: "andhra-apparatus",
   },
   {
     part: 4,
     numeral: "IV",
-    title: "The Governors",
+    title: "The Revolving Door",
     description: "Some of the officials who knew the system from the inside went to work around the companies using it.",
     slug: "revolving-door",
   },
