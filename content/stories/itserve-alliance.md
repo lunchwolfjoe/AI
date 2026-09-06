@@ -161,10 +161,17 @@ The final question is what Texas should publish now.
 - [Texas DIR ITSAC example — Digerati](https://dir.texas.gov/contracts)
 - [APNRTS official site](https://www.apnrts.ap.gov.in/)
 
-<div class="story-callout">
-
-**Visual notes:** Hero as EDUCATE → LOBBY → LITIGATE in three clean blocks, with dated examples beneath each.
-
-**Avoid:** ethnicity-based network imagery or unlabeled lines between companies. This story is about trade-association capacity.
-
+<div class="verb-blocks">
+  <div class="verb-block">
+    <p class="verb-title">Educate</p>
+    <p>Chapters, conferences and compliance programming for technology-business owners.</p>
+  </div>
+  <div class="verb-block">
+    <p class="verb-title">Lobby</p>
+    <p>Congressional outreach and political organization around high-skilled immigration and consulting rules.</p>
+  </div>
+  <div class="verb-block">
+    <p class="verb-title">Litigate</p>
+    <p>Federal lawsuits challenging policies that threatened third-party H-1B placements.</p>
+  </div>
 </div>

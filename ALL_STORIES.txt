@@ -1,7 +1,6 @@
 TEXANS FIRST* — COMPLETE REVISED SERIES
 Revised September 2026
 
-
 ################################################################################
 # I. The Promise
 ################################################################################
@@ -11,6 +10,29 @@ Revised September 2026
 On January 27, 2026, Gov. Greg Abbott made a promise that was unusually easy to understand.
 
 "State government must lead by example," Abbott wrote, directing state agencies and public universities to freeze new H-1B visa petitions absent Texas Workforce Commission approval and to review their existing use of the program. Employment opportunities, he said, "particularly those funded with taxpayer dollars," should be filled by Texans first.
+
+
+<div class="directive-hero">
+  <p class="directive-hero-label">Governor’s Office · January 27, 2026</p>
+  <blockquote>
+    Employment opportunities, <mark>particularly those funded with taxpayer dollars</mark>, should be filled by <mark>Texans first</mark>.
+  </blockquote>
+  <p class="directive-hero-source">— Gov. Greg Abbott, H-1B directive to state agency heads</p>
+</div>
+
+<div class="explainer-split">
+  <div class="explainer-card">
+    <p class="explainer-kicker">Direct employment</p>
+    <p class="explainer-title">State payroll</p>
+    <p>Texas can know the employee and whether it filed a petition.</p>
+  </div>
+  <div class="explainer-arrow" aria-hidden="true">→</div>
+  <div class="explainer-card explainer-card-gap">
+    <p class="explainer-kicker">Purchased labor</p>
+    <p class="explainer-title">Contractor channel</p>
+    <p>Public records identify vendor, purchase order and labor category — not a statewide worker-geography denominator.</p>
+  </div>
+</div>
 
 That directive governs a visible channel: public entities petitioning for H-1B workers themselves.
 
@@ -105,15 +127,6 @@ The next story shows what that looks like on one real purchase order.
 - [Texas DIR Cooperative Contracts](https://dir.texas.gov/contracts)
 - [Example current ITSAC contract and documents](https://dir.texas.gov/contracts)
 - [2024 DIR Sunset review](https://www.sunset.texas.gov/)
-
-<div class="story-callout">
-
-**Visual note:** Hero treatment of Abbott's Jan. 27 directive, highlighting "particularly those funded with taxpayer dollars" and "Texans first."
-
-**Explainer:** Direct employment → state knows employee / petition · Purchased labor → public record identifies vendor / PO / category, but not a statewide worker-geography denominator.
-
-</div>
-
 
 ################################################################################
 # II. The Purchase Order
@@ -228,20 +241,33 @@ It tells us why Texas does not currently have one.
 - Primary record reviewed: TWC purchase order 26-0002508 / state contract 3126ITC037, Digerati Systems Inc., Feb. 6, 2026
 - [DIR: Digerati Systems active ITSAC contract](https://dir.texas.gov/contracts)
 - [DIR: Digerati vendor page](https://dir.texas.gov/contracts)
-- Texas state contract listing reproducing 3126ITC037 — secondary index; verify against the underlying state record for publication
+- Texas state contract listing reproducing 3126ITC037 (secondary index to the underlying state record)
 - [Texas Comptroller eSystems — Search State Payments Issued](https://comptroller.texas.gov/)
 - [2024 DIR Sunset review](https://www.sunset.texas.gov/)
 
-<div class="story-callout story-knows-grid">
-
-### What Texas knows / What the public record doesn't say
-
-**Texas knows:** customer, prime vendor, Business Analyst 2, 3,700 hours, $98.21, $363,377 maximum, award date.
-
-**The public record reviewed here does not say:** Texas residency, physical work location, material subcontractor behind the prime, work-authorization category of the person who performed the labor.
-
+<div class="knows-grid">
+  <div class="knows-col">
+    <p class="visual-label">What Texas knows</p>
+    <ul>
+      <li>Customer</li>
+      <li>Prime vendor</li>
+      <li>Business Analyst 2</li>
+      <li>3,700 hours</li>
+      <li>$98.21 rate</li>
+      <li>$363,377 maximum</li>
+      <li>Award date</li>
+    </ul>
+  </div>
+  <div class="knows-col knows-col-gap">
+    <p class="visual-label">What the public record doesn’t say</p>
+    <ul>
+      <li>Texas residency</li>
+      <li>Physical work location</li>
+      <li>Material subcontractor behind the prime</li>
+      <li>Work-authorization category of the person who did the labor</li>
+    </ul>
+  </div>
 </div>
-
 
 ################################################################################
 # III. Show Us the Ledger
@@ -430,25 +456,23 @@ Then let Texans decide whether the policy worked.
 - [Texas Economic Development & Tourism — India & Texas Profile](https://gov.texas.gov/)
 - [Texas Comptroller eSystems — Search State Payments Issued](https://comptroller.texas.gov/)
 
-<div class="story-callout scorecard">
-
-**Scorecard placeholder**
-
-| Metric | Statewide public status |
-|--------|-------------------------|
-| Contractor hours | NOT PUBLISHED STATEWIDE |
-| % Texas residents | NOT PUBLISHED STATEWIDE |
-| % outside Texas | NOT PUBLISHED STATEWIDE |
-| % offshore | NOT PUBLISHED STATEWIDE |
-| % temporary work authorization | NOT PUBLISHED STATEWIDE |
-| Subcontracted hours | NOT PUBLISHED STATEWIDE |
-
-Do not estimate these figures. Display them as unpublished until sourced data exists.
-
-**Audit context:** 13 of 25 largest agencies — additional monitoring warranted for at least one contracting period (SAO 26-027, June 2026). Explicitly: not an H-1B or offshoring finding.
-
+<div class="scorecard">
+  <p class="visual-label">Statewide contractor-labor scorecard</p>
+  <table>
+    <thead>
+      <tr><th>Metric</th><th>Public status</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Contractor hours</td><td><span class="status-missing">Not published statewide</span></td></tr>
+      <tr><td>% Texas residents</td><td><span class="status-missing">Not published statewide</span></td></tr>
+      <tr><td>% outside Texas</td><td><span class="status-missing">Not published statewide</span></td></tr>
+      <tr><td>% offshore</td><td><span class="status-missing">Not published statewide</span></td></tr>
+      <tr><td>% temporary work authorization</td><td><span class="status-missing">Not published statewide</span></td></tr>
+      <tr><td>Subcontracted hours</td><td><span class="status-missing">Not published statewide</span></td></tr>
+    </tbody>
+  </table>
+  <p class="visual-note">Audit context: 13 of 25 largest agencies warranted additional monitoring for at least one contracting period (SAO 26-027, June 2026). That is not an H-1B or offshoring finding.</p>
 </div>
-
 
 ################################################################################
 # IV. The Other End
@@ -550,16 +574,38 @@ Andhra Pradesh publicly built machinery whose success included bringing companie
 - [APNRTS FAQ / organizational description](https://www.apnrts.ap.gov.in/)
 - [Governor Abbott's 2024 New Delhi mission release](https://gov.texas.gov/)
 - [Governor Abbott's 2024 Mumbai technology-partner release](https://gov.texas.gov/)
-- Times of India — contemporaneous coverage of Andhra technology land/facility developments; attach specific archived articles from the evidence ledger rather than a generic search result
+- Contemporaneous Indian press coverage of Andhra technology land and facility developments (see evidence ledger for archived articles)
 
-<div class="story-callout">
-
-**Visual notes:** Two-way Texas ↔ India graphic using the current Governor's profile numbers, clearly labeled announced projects / announced capital / announced jobs — not verified displacement.
-
-**Timeline:** 2016 APNRTS creation → ITServe-company recruitment → Dallas Technology Centre → later TCS occupancy/project developments → 2018/2024 Texas India missions → 2026 updated Texas scorecard.
-
+<div class="fdi-compare">
+  <p class="visual-label">Governor’s India &amp; Texas Profile · August 2026</p>
+  <div class="fdi-compare-grid">
+    <div class="fdi-col">
+      <p class="fdi-dir">India → Texas</p>
+      <p class="fdi-stat"><strong>77</strong> announced projects</p>
+      <p class="fdi-stat"><strong>$2.81B</strong> announced capital</p>
+      <p class="fdi-stat"><strong>9,450+</strong> announced jobs</p>
+    </div>
+    <div class="fdi-col fdi-col-accent">
+      <p class="fdi-dir">Texas → India</p>
+      <p class="fdi-stat"><strong>181</strong> announced projects</p>
+      <p class="fdi-stat"><strong>$7.24B</strong> announced capital</p>
+      <p class="fdi-stat"><strong>63,345+</strong> announced jobs</p>
+    </div>
+  </div>
+  <p class="visual-note">Announced projects and jobs — not verified displacement.</p>
 </div>
 
+<div class="timeline-rail">
+  <p class="visual-label">Timeline</p>
+  <ol>
+    <li><span>2016</span> APNRTS created</li>
+    <li><span>2016</span> ITServe-company recruitment push</li>
+    <li><span>—</span> Dallas Technology Centre developed</li>
+    <li><span>—</span> Later TCS occupancy / related projects</li>
+    <li><span>2018 / 2024</span> Texas India missions</li>
+    <li><span>2026</span> Updated Texas scorecard</li>
+  </ol>
+</div>
 
 ################################################################################
 # V. The Connectors
@@ -683,14 +729,28 @@ The point is to make the public record as connected as the people it describes.
 - [Texas Ethics Commission lobby search](https://www.ethics.state.tx.us/search/lobby/)
 - [Abbott appoints John Scott and DIR board members, Jan. 15, 2016](https://gov.texas.gov/)
 
-<div class="story-callout">
-
-**Visual notes:** Network card, not conspiracy graphic — place Agarwal at center with dated, labeled role edges only: 2018 India mission, TxEDC, Dallas Parks, Bond Task Force, IACEO, Nextt. Avoid unlabeled proximity lines.
-
-**Second card:** Whitley timeline from Abbott appointments director → deputy chief of staff → secretary of state → 2018 India mission → private lobbying/consulting clients.
-
+<div class="role-map">
+  <p class="visual-label">Arun Agarwal — public roles (dated edges only)</p>
+  <ul>
+    <li><span>2018</span> Co-chair, Abbott India economic-development mission</li>
+    <li><span>—</span> Leadership, Indian American CEO Council</li>
+    <li><span>—</span> President, Dallas Park and Recreation Board</li>
+    <li><span>—</span> Chair, Dallas Community Bond Task Force</li>
+    <li><span>2024</span> Chairman, Texas Economic Development Corporation</li>
+    <li><span>—</span> Private interests including Nextt</li>
+  </ul>
 </div>
 
+<div class="timeline-rail">
+  <p class="visual-label">David Whitley — government to private market</p>
+  <ol>
+    <li><span>—</span> Abbott appointments director</li>
+    <li><span>—</span> Deputy chief of staff</li>
+    <li><span>—</span> Texas secretary of state</li>
+    <li><span>2018</span> Abbott India mission</li>
+    <li><span>After</span> Private consulting / lobbying (clients in this market have included Wipro, Accenture, Nextt Affiliated)</li>
+  </ol>
+</div>
 
 ################################################################################
 # VI. Educate. Lobby. Litigate.
@@ -849,11 +909,18 @@ The final question is what Texas should publish now.
 - [Texas DIR ITSAC example — Digerati](https://dir.texas.gov/contracts)
 - [APNRTS official site](https://www.apnrts.ap.gov.in/)
 
-<div class="story-callout">
-
-**Visual notes:** Hero as EDUCATE → LOBBY → LITIGATE in three clean blocks, with dated examples beneath each.
-
-**Avoid:** ethnicity-based network imagery or unlabeled lines between companies. This story is about trade-association capacity.
-
+<div class="verb-blocks">
+  <div class="verb-block">
+    <p class="verb-title">Educate</p>
+    <p>Chapters, conferences and compliance programming for technology-business owners.</p>
+  </div>
+  <div class="verb-block">
+    <p class="verb-title">Lobby</p>
+    <p>Congressional outreach and political organization around high-skilled immigration and consulting rules.</p>
+  </div>
+  <div class="verb-block">
+    <p class="verb-title">Litigate</p>
+    <p>Federal lawsuits challenging policies that threatened third-party H-1B placements.</p>
+  </div>
 </div>
 

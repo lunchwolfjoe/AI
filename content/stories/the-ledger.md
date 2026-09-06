@@ -191,21 +191,20 @@ Then let Texans decide whether the policy worked.
 - [Texas Economic Development & Tourism — India & Texas Profile](https://gov.texas.gov/)
 - [Texas Comptroller eSystems — Search State Payments Issued](https://comptroller.texas.gov/)
 
-<div class="story-callout scorecard">
-
-**Scorecard placeholder**
-
-| Metric | Statewide public status |
-|--------|-------------------------|
-| Contractor hours | NOT PUBLISHED STATEWIDE |
-| % Texas residents | NOT PUBLISHED STATEWIDE |
-| % outside Texas | NOT PUBLISHED STATEWIDE |
-| % offshore | NOT PUBLISHED STATEWIDE |
-| % temporary work authorization | NOT PUBLISHED STATEWIDE |
-| Subcontracted hours | NOT PUBLISHED STATEWIDE |
-
-Do not estimate these figures. Display them as unpublished until sourced data exists.
-
-**Audit context:** 13 of 25 largest agencies — additional monitoring warranted for at least one contracting period (SAO 26-027, June 2026). Explicitly: not an H-1B or offshoring finding.
-
+<div class="scorecard">
+  <p class="visual-label">Statewide contractor-labor scorecard</p>
+  <table>
+    <thead>
+      <tr><th>Metric</th><th>Public status</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Contractor hours</td><td><span class="status-missing">Not published statewide</span></td></tr>
+      <tr><td>% Texas residents</td><td><span class="status-missing">Not published statewide</span></td></tr>
+      <tr><td>% outside Texas</td><td><span class="status-missing">Not published statewide</span></td></tr>
+      <tr><td>% offshore</td><td><span class="status-missing">Not published statewide</span></td></tr>
+      <tr><td>% temporary work authorization</td><td><span class="status-missing">Not published statewide</span></td></tr>
+      <tr><td>Subcontracted hours</td><td><span class="status-missing">Not published statewide</span></td></tr>
+    </tbody>
+  </table>
+  <p class="visual-note">Audit context: 13 of 25 largest agencies warranted additional monitoring for at least one contracting period (SAO 26-027, June 2026). That is not an H-1B or offshoring finding.</p>
 </div>

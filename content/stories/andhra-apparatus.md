@@ -104,12 +104,36 @@ Andhra Pradesh publicly built machinery whose success included bringing companie
 - [APNRTS FAQ / organizational description](https://www.apnrts.ap.gov.in/)
 - [Governor Abbott's 2024 New Delhi mission release](https://gov.texas.gov/)
 - [Governor Abbott's 2024 Mumbai technology-partner release](https://gov.texas.gov/)
-- Times of India — contemporaneous coverage of Andhra technology land/facility developments; attach specific archived articles from the evidence ledger rather than a generic search result
+- Contemporaneous Indian press coverage of Andhra technology land and facility developments (see evidence ledger for archived articles)
 
-<div class="story-callout">
-
-**Visual notes:** Two-way Texas ↔ India graphic using the current Governor's profile numbers, clearly labeled announced projects / announced capital / announced jobs — not verified displacement.
-
-**Timeline:** 2016 APNRTS creation → ITServe-company recruitment → Dallas Technology Centre → later TCS occupancy/project developments → 2018/2024 Texas India missions → 2026 updated Texas scorecard.
-
+<div class="fdi-compare">
+  <p class="visual-label">Governor’s India &amp; Texas Profile · August 2026</p>
+  <div class="fdi-compare-grid">
+    <div class="fdi-col">
+      <p class="fdi-dir">India → Texas</p>
+      <p class="fdi-stat"><strong>77</strong> announced projects</p>
+      <p class="fdi-stat"><strong>$2.81B</strong> announced capital</p>
+      <p class="fdi-stat"><strong>9,450+</strong> announced jobs</p>
+    </div>
+    <div class="fdi-col fdi-col-accent">
+      <p class="fdi-dir">Texas → India</p>
+      <p class="fdi-stat"><strong>181</strong> announced projects</p>
+      <p class="fdi-stat"><strong>$7.24B</strong> announced capital</p>
+      <p class="fdi-stat"><strong>63,345+</strong> announced jobs</p>
+    </div>
+  </div>
+  <p class="visual-note">Announced projects and jobs — not verified displacement.</p>
 </div>
+
+<div class="timeline-rail">
+  <p class="visual-label">Timeline</p>
+  <ol>
+    <li><span>2016</span> APNRTS created</li>
+    <li><span>2016</span> ITServe-company recruitment push</li>
+    <li><span>—</span> Dallas Technology Centre developed</li>
+    <li><span>—</span> Later TCS occupancy / related projects</li>
+    <li><span>2018 / 2024</span> Texas India missions</li>
+    <li><span>2026</span> Updated Texas scorecard</li>
+  </ol>
+</div>
+

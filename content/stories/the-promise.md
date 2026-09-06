@@ -14,6 +14,29 @@ On January 27, 2026, Gov. Greg Abbott made a promise that was unusually easy to 
 
 "State government must lead by example," Abbott wrote, directing state agencies and public universities to freeze new H-1B visa petitions absent Texas Workforce Commission approval and to review their existing use of the program. Employment opportunities, he said, "particularly those funded with taxpayer dollars," should be filled by Texans first.
 
+
+<div class="directive-hero">
+  <p class="directive-hero-label">Governor’s Office · January 27, 2026</p>
+  <blockquote>
+    Employment opportunities, <mark>particularly those funded with taxpayer dollars</mark>, should be filled by <mark>Texans first</mark>.
+  </blockquote>
+  <p class="directive-hero-source">— Gov. Greg Abbott, H-1B directive to state agency heads</p>
+</div>
+
+<div class="explainer-split">
+  <div class="explainer-card">
+    <p class="explainer-kicker">Direct employment</p>
+    <p class="explainer-title">State payroll</p>
+    <p>Texas can know the employee and whether it filed a petition.</p>
+  </div>
+  <div class="explainer-arrow" aria-hidden="true">→</div>
+  <div class="explainer-card explainer-card-gap">
+    <p class="explainer-kicker">Purchased labor</p>
+    <p class="explainer-title">Contractor channel</p>
+    <p>Public records identify vendor, purchase order and labor category — not a statewide worker-geography denominator.</p>
+  </div>
+</div>
+
 That directive governs a visible channel: public entities petitioning for H-1B workers themselves.
 
 But Texas also buys labor.
@@ -107,11 +130,3 @@ The next story shows what that looks like on one real purchase order.
 - [Texas DIR Cooperative Contracts](https://dir.texas.gov/contracts)
 - [Example current ITSAC contract and documents](https://dir.texas.gov/contracts)
 - [2024 DIR Sunset review](https://www.sunset.texas.gov/)
-
-<div class="story-callout">
-
-**Visual note:** Hero treatment of Abbott's Jan. 27 directive, highlighting "particularly those funded with taxpayer dollars" and "Texans first."
-
-**Explainer:** Direct employment → state knows employee / petition · Purchased labor → public record identifies vendor / PO / category, but not a statewide worker-geography denominator.
-
-</div>

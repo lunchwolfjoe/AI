@@ -117,16 +117,30 @@ It tells us why Texas does not currently have one.
 - Primary record reviewed: TWC purchase order 26-0002508 / state contract 3126ITC037, Digerati Systems Inc., Feb. 6, 2026
 - [DIR: Digerati Systems active ITSAC contract](https://dir.texas.gov/contracts)
 - [DIR: Digerati vendor page](https://dir.texas.gov/contracts)
-- Texas state contract listing reproducing 3126ITC037 — secondary index; verify against the underlying state record for publication
+- Texas state contract listing reproducing 3126ITC037 (secondary index to the underlying state record)
 - [Texas Comptroller eSystems — Search State Payments Issued](https://comptroller.texas.gov/)
 - [2024 DIR Sunset review](https://www.sunset.texas.gov/)
 
-<div class="story-callout story-knows-grid">
-
-### What Texas knows / What the public record doesn't say
-
-**Texas knows:** customer, prime vendor, Business Analyst 2, 3,700 hours, $98.21, $363,377 maximum, award date.
-
-**The public record reviewed here does not say:** Texas residency, physical work location, material subcontractor behind the prime, work-authorization category of the person who performed the labor.
-
+<div class="knows-grid">
+  <div class="knows-col">
+    <p class="visual-label">What Texas knows</p>
+    <ul>
+      <li>Customer</li>
+      <li>Prime vendor</li>
+      <li>Business Analyst 2</li>
+      <li>3,700 hours</li>
+      <li>$98.21 rate</li>
+      <li>$363,377 maximum</li>
+      <li>Award date</li>
+    </ul>
+  </div>
+  <div class="knows-col knows-col-gap">
+    <p class="visual-label">What the public record doesn’t say</p>
+    <ul>
+      <li>Texas residency</li>
+      <li>Physical work location</li>
+      <li>Material subcontractor behind the prime</li>
+      <li>Work-authorization category of the person who did the labor</li>
+    </ul>
+  </div>
 </div>

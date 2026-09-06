@@ -126,10 +126,25 @@ The point is to make the public record as connected as the people it describes.
 - [Texas Ethics Commission lobby search](https://www.ethics.state.tx.us/search/lobby/)
 - [Abbott appoints John Scott and DIR board members, Jan. 15, 2016](https://gov.texas.gov/)
 
-<div class="story-callout">
+<div class="role-map">
+  <p class="visual-label">Arun Agarwal — public roles (dated edges only)</p>
+  <ul>
+    <li><span>2018</span> Co-chair, Abbott India economic-development mission</li>
+    <li><span>—</span> Leadership, Indian American CEO Council</li>
+    <li><span>—</span> President, Dallas Park and Recreation Board</li>
+    <li><span>—</span> Chair, Dallas Community Bond Task Force</li>
+    <li><span>2024</span> Chairman, Texas Economic Development Corporation</li>
+    <li><span>—</span> Private interests including Nextt</li>
+  </ul>
+</div>
 
-**Visual notes:** Network card, not conspiracy graphic — place Agarwal at center with dated, labeled role edges only: 2018 India mission, TxEDC, Dallas Parks, Bond Task Force, IACEO, Nextt. Avoid unlabeled proximity lines.
-
-**Second card:** Whitley timeline from Abbott appointments director → deputy chief of staff → secretary of state → 2018 India mission → private lobbying/consulting clients.
-
+<div class="timeline-rail">
+  <p class="visual-label">David Whitley — government to private market</p>
+  <ol>
+    <li><span>—</span> Abbott appointments director</li>
+    <li><span>—</span> Deputy chief of staff</li>
+    <li><span>—</span> Texas secretary of state</li>
+    <li><span>2018</span> Abbott India mission</li>
+    <li><span>After</span> Private consulting / lobbying (clients in this market have included Wipro, Accenture, Nextt Affiliated)</li>
+  </ol>
 </div>
